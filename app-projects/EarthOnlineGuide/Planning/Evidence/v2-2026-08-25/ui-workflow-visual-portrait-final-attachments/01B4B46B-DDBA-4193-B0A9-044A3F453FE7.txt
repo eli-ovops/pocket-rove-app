@@ -1,0 +1,72 @@
+Attributes: Application, 0x114a426c0, pid: 16482, label: 'EarthOnlineGuide'
+Element subtree:
+ →Application, 0x114a426c0, pid: 16482, label: 'EarthOnlineGuide'
+    Window (Main), 0x114a42580, {{0.0, 0.0}, {420.0, 912.0}}
+      Other, 0x114a42440, {{0.0, 0.0}, {420.0, 912.0}}
+        Other, 0x114a40640, {{0.0, 0.0}, {420.0, 912.0}}
+          Other, 0x114a42bc0, {{0.0, 0.0}, {420.0, 912.0}}
+            Other, 0x114a42d00, {{0.0, 0.0}, {420.0, 912.0}}
+              Other, 0x114a421c0, {{0.0, 0.0}, {420.0, 912.0}}
+                Other, 0x114a42800, {{0.0, 0.0}, {420.0, 912.0}}
+                  Other, 0x114a42940, {{0.0, 0.0}, {420.0, 912.0}}
+                    Other, 0x114a42a80, {{0.0, 0.0}, {420.0, 912.0}}
+                      Other, 0x114a41a40, {{0.0, 0.0}, {420.0, 912.0}}
+                        Other, 0x114a41400, {{0.0, 0.0}, {420.0, 912.0}}
+                          Other, 0x114a40f00, {{0.0, 0.0}, {420.0, 912.0}}
+                            Other, 0x114a41040, {{0.0, 0.0}, {420.0, 912.0}}
+                              Other, 0x114a40280, {{0.0, 0.0}, {420.0, 912.0}}
+                                Other, 0x114a40500, {{0.0, 0.0}, {420.0, 912.0}}
+                                  Other, 0x114a42e40, {{0.0, 0.0}, {420.0, 912.0}}
+                                    ScrollView, 0x114a40780, {{0.0, 0.0}, {420.0, 912.0}}
+                                      Other, 0x114a408c0, {{0.0, 0.0}, {420.0, 912.0}}
+                                        Other, 0x114a403c0, {{0.0, 764.2}, {420.0, 147.8}}
+                                      Other, 0x114a40000, {{0.0, 0.0}, {420.0, 912.0}}
+                                      Other, 0x114a41680, {{0.0, 68.0}, {420.0, 236.3}}
+                                        StaticText, 0x114a412c0, {{16.0, 84.0}, {148.7, 14.3}}, identifier: 'history-today-date', label: 'Tuesday, August 25, 2026'
+                                        SegmentedControl, 0x114a40dc0, {{16.0, 112.3}, {388.0, 31.0}}, identifier: 'history-filter'
+                                          Button, 0x114a40c80, {{16.0, 112.3}, {129.0, 32.0}}, label: '全部', Selected
+                                          Button, 0x114a41180, {{145.0, 112.3}, {129.0, 32.0}}, label: '核心'
+                                          Button, 0x114a40a00, {{274.0, 112.3}, {130.0, 32.0}}, label: '彩蛋'
+                                        StaticText, 0x114a40b40, {{147.0, 176.7}, {126.0, 92.7}}, label: '暂无完成记录'
+                                      Other, 0x114a41540, {{387.0, 62.0}, {30.0, 767.0}}, label: 'Vertical scroll bar, 1 page', value: 0%
+                                        Other, 0x114a42300, {{414.0, 622.3}, {3.0, 203.7}}
+                                      Other, 0x114a41cc0, {{387.0, 62.0}, {30.0, 767.0}}, label: 'Vertical scroll bar, 1 page', value: 0%
+                                        Other, 0x114a42080, {{414.0, 622.3}, {3.0, 203.7}}
+                            Other, 0x114a41f40, {{0.0, 0.0}, {420.0, 912.0}}
+                              Other, 0x114a41e00, {{0.0, 0.0}, {420.0, 912.0}}
+                Other, 0x114a41b80, {{0.0, 829.0}, {420.0, 83.0}}
+                  Other, 0x114a41900, {{0.0, 0.0}, {420.0, 912.0}}
+                    TabBar, 0x114a40140, {{0.0, 829.0}, {420.0, 83.0}}, label: 'Tab Bar'
+                      Other, 0x114a417c0, {{73.0, 829.0}, {274.0, 62.0}}
+                        Other, 0x114a42f80, {{73.0, 829.0}, {94.0, 54.0}}
+                        Other, 0x114a43200, {{73.0, 829.0}, {274.0, 62.0}}
+                          Button, 0x114a43340, {{77.0, 833.0}, {94.0, 54.0}}, identifier: 'sun.max.fill', label: '今日'
+                            Image, 0x114a43480, {{110.0, 838.0}, {29.0, 29.3}}, identifier: 'sun.max.fill', label: 'brightness higher'
+                          Button, 0x114a435c0, {{163.0, 833.0}, {94.0, 54.0}}, identifier: 'clock.arrow.circlepath', label: '历史', Selected
+                            Image, 0x114a43700, {{195.7, 839.3}, {27.7, 27.3}}, identifier: 'clock.arrow.trianglehead.counterclockwise.rotate.90', label: 'clock.arrow.trianglehead.counterclockwise.rotate.90'
+                          Button, 0x114a43840, {{249.0, 833.0}, {94.0, 54.0}}, identifier: 'gearshape.fill', label: '设置'
+                            Image, 0x114a43980, {{282.0, 839.0}, {28.0, 28.0}}, identifier: 'gearshape.fill', label: 'gearshape.fill'
+                        Other, 0x114a43ac0, {{163.0, 833.0}, {94.0, 54.0}}
+                          Other, 0x114a43c00, {{163.0, 833.0}, {94.0, 54.0}}
+                            Other, 0x114a43d40, {{163.0, 833.0}, {94.0, 54.0}}
+                            Other, 0x114a43e80, {{163.0, 833.0}, {94.0, 54.0}}
+                              Other, 0x11398d180, {{163.0, 833.0}, {94.0, 54.0}}
+                                Other, 0x11398d400, {{163.0, 833.0}, {94.0, 54.0}}
+                                  Other, 0x11398c780, {{163.0, 833.0}, {94.0, 54.0}}
+                                Other, 0x11398c8c0, {{163.0, 833.0}, {94.0, 54.0}}
+                              Other, 0x11398d040, {{163.0, 833.0}, {94.0, 54.0}}
+                  Other, 0x11398d2c0, {{0.0, 829.0}, {420.0, 83.0}}
+                    Other, 0x11398ca00, {{0.0, 829.0}, {420.0, 83.0}}
+                      Other, 0x11398cdc0, {{0.0, 829.0}, {420.0, 83.0}}
+                        Other, 0x11398cf00, {{0.0, 829.0}, {420.0, 83.0}}
+                          Other, 0x11398f340, {{0.0, 829.0}, {420.0, 83.0}}
+                            Other, 0x11398f5c0, {{0.0, 829.0}, {420.0, 83.0}}
+                        Other, 0x11398f700, {{0.0, 829.0}, {420.0, 83.0}}
+                          Other, 0x11398f480, {{0.0, 829.0}, {420.0, 83.0}}
+Path to element:
+ →Application, 0x114a426c0, pid: 16482, label: 'EarthOnlineGuide'
+Query chain:
+ →Find: Target Application 'com.earthonline.EarthOnlineGuide'
+  Output: {
+    Application, 0x11398cb40, pid: 16482, label: 'EarthOnlineGuide'
+  }

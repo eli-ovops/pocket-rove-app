@@ -1,0 +1,224 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "21365189-DF6A-4226-AAE5-BCECDADDB1E8.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "App UI hierarchy for com.earthonline_0_64F7A41C-F507-45B2-ABC1-22E1AE702649.EarthOnlineGuide",
+        "timestamp" : 1787645622.84
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "CB591A9E-1AC8-4485-A483-F769A9A57D00",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-08-25 at 04.13.42 下午",
+        "timestamp" : 1787645622.841
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "96D19911-4169-4279-886A-22A1AA1FAA36.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"ui-guide\" StaticText`_0_0804BF41-77BF-4302-A3D8-06F60F51DADB.txt",
+        "timestamp" : 1787645622.783
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "16B053A8-1E55-4A51-99CD-8690FF35D8C9.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"ui-guide\" StaticText`_0_93986548-F7BB-4353-8B87-520E7FA20EA3.txt",
+        "timestamp" : 1787645621.859
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "A16F6FD5-C5BF-484C-BB22-EF19CD6D948C.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"ui-guide\" StaticText`_0_A35538F2-34C7-4743-9232-176108C3C6B8.txt",
+        "timestamp" : 1787645620.835
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "8DA4CABE-E8DC-41B0-9E4E-4AF5B6E033EC.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"ui-guide\" StaticText`_0_1D54A298-9905-4E60-BAAF-6F80BCD89198.txt",
+        "timestamp" : 1787645619.81
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "5CD909BD-C617-4F25-A952-4D86227BA0E6.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"ui-guide\" StaticText`_0_501AEA55-2FB4-45C4-A680-2E51897055A8.txt",
+        "timestamp" : 1787645618.894
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "96678CEE-6A3C-4565-A5BC-240EDB869359",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-08-25 at 04.13.35 下午",
+        "timestamp" : 1787645615.895
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "19869835-312A-4A93-AF42-6A56D96DA828",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.36 下午",
+        "timestamp" : 1787645616.189
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "A0DEA149-D197-4167-A767-9D620826A56B",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-08-25 at 04.13.32 下午",
+        "timestamp" : 1787645612.23
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "C3B40B5F-9C3E-4CEE-8855-E768CF3EC9C0",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.32 下午",
+        "timestamp" : 1787645612.521
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "16122BE8-512A-4265-ACD9-F5484B0987C3",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-08-25 at 04.13.31 下午",
+        "timestamp" : 1787645611.862
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "49B7B66E-DD9E-4394-BF53-5BA8A86047A6",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.32 下午",
+        "timestamp" : 1787645612.157
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "83358B51-1AE8-49E1-B2A8-A5C5435D1ADF",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-08-25 at 04.13.29 下午",
+        "timestamp" : 1787645609.777
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "294D4097-2FA0-44D3-A089-AE882DCF7F33",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.30 下午",
+        "timestamp" : 1787645610.065
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "D5F2A463-B137-4C08-A023-5F10409EF278",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-08-25 at 04.13.27 下午",
+        "timestamp" : 1787645607.416
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "567BDD89-5CD1-4850-86EE-03D94A2A7C58",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.27 下午",
+        "timestamp" : 1787645607.705
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "65074BEF-6269-4155-A859-83B1AF47E836",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-08-25 at 04.13.27 下午",
+        "timestamp" : 1787645607.031
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "65AD9446-2B4F-41F1-BE05-CAFC0EB4CA17",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.27 下午",
+        "timestamp" : 1787645607.32
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "3747100E-3D78-4778-8D96-C4FC86716DE1",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.24 下午",
+        "timestamp" : 1787645604.33
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "C59D0709-9DF3-4F6D-AD54-70CED6503B41",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.23 下午",
+        "timestamp" : 1787645603.777
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "8817CF0C-CBF6-4E59-B363-38174F309B60",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.23 下午",
+        "timestamp" : 1787645603.256
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "42A7D5D0-6970-426A-95A5-C6B0A5A10DBB",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.13.22 下午",
+        "timestamp" : 1787645602.811
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "6DF3A121-7441-4A72-94CF-81EE1C835971.mp4",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Screen Recording 2026-08-25 at 04.13.18 下午.mp4",
+        "timestamp" : 1787645598.712
+      }
+    ],
+    "testIdentifier" : "EarthOnlineGuideUITests/testFirstGuideToTodayCompletionHistoryUndoAndPreferences()",
+    "testIdentifierURL" : "test://com.apple.xcode/EarthOnlineGuide/EarthOnlineGuideUITests/EarthOnlineGuideUITests/testFirstGuideToTodayCompletionHistoryUndoAndPreferences"
+  }
+]

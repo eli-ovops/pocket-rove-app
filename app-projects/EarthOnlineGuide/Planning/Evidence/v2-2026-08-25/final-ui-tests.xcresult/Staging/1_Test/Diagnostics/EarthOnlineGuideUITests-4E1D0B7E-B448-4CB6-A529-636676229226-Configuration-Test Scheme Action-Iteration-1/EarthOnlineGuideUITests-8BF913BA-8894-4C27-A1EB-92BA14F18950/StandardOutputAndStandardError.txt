@@ -1,0 +1,198 @@
+2026-08-25 15:31:41.348205+0800 EarthOnlineGuideUITests-Runner[4854:44299] [Default] Running tests...
+2026-08-25 15:31:41.380623+0800 EarthOnlineGuideUITests-Runner[4854:44342] [General] Failed to send CA Event for app launch measurements for ca_event_type: 0 event_name: com.apple.app_launch_measurement.FirstFramePresentationMetric
+2026-08-25 15:31:41.851153+0800 EarthOnlineGuideUITests-Runner[4854:44342] [General] Failed to send CA Event for app launch measurements for ca_event_type: 1 event_name: com.apple.app_launch_measurement.ExtendedLaunchMetrics
+objc[4854]: Class UIAccessibilityLoaderWebShared is implemented in both /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebCore.axbundle/WebCore (0x10a830310) and /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebKit.axbundle/WebKit (0x10a070398). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+    t =      nans Interface orientation changed to Portrait
+Test Suite 'All tests' started at 2026-08-25 15:31:44.674.
+Test Suite 'EarthOnlineGuideUITests.xctest' started at 2026-08-25 15:31:44.674.
+Test Suite 'EarthOnlineGuideUITests' started at 2026-08-25 15:31:44.674.
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITests testFirstGuideToTodayCompletionHistoryUndoAndPreferences]' started.
+    t =     0.00s Start Test at 2026-08-25 15:31:44.675
+    t =     0.19s Set Up
+    t =     0.20s Open com.earthonline.EarthOnlineGuide
+    t =     0.20s     Launch com.earthonline.EarthOnlineGuide
+    t =     0.81s         Setting up automation session
+    t =     1.53s         Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     3.18s Waiting 5.0s for "onboarding-guide-id" TextField to exist
+    t =     4.22s     Checking `Expect predicate `existsNoRetry == 1` for object "onboarding-guide-id" TextField`
+    t =     4.23s         Checking existence of `"onboarding-guide-id" TextField`
+    t =     4.38s Tap "onboarding-guide-id" TextField
+    t =     4.38s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     4.38s     Find the "onboarding-guide-id" TextField
+    t =     4.42s     Check for interrupting elements affecting "onboarding-guide-id" TextField
+    t =     4.47s     Synthesize event
+    t =     4.88s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     4.88s Type 'ui-guide' into "onboarding-guide-id" TextField
+    t =     4.88s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     4.88s     Find the "onboarding-guide-id" TextField
+    t =     5.02s     Check for interrupting elements affecting "onboarding-guide-id" TextField
+    t =     5.06s     Synthesize event
+    t =     5.39s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     5.58s Tap "onboarding-start" Button
+    t =     5.58s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     5.58s     Find the "onboarding-start" Button
+    t =     5.61s     Check for interrupting elements affecting "onboarding-start" Button
+    t =     5.64s     Synthesize event
+    t =     6.04s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     6.47s Waiting 5.0s for "tab-today" Other to exist
+    t =     7.51s     Checking `Expect predicate `existsNoRetry == 1` for object "tab-today" Other`
+    t =     7.51s         Checking existence of `"tab-today" Other`
+    t =     7.55s Waiting 5.0s for Button (First Match) to exist
+    t =     8.59s     Checking `Expect predicate `existsNoRetry == 1` for object Button (First Match)`
+    t =     8.60s         Checking existence of `Button (First Match)`
+    t =     8.63s Tap Button (First Match)
+    t =     8.63s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     8.64s     Find the Button (First Match)
+    t =     8.66s     Check for interrupting elements affecting "today-task-ui-fixed-install-v1|9367-core-068" Button
+    t =     8.68s     Synthesize event
+    t =     8.96s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     8.97s Tap "tab-history" Other
+    t =     8.97s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     8.97s     Find the "tab-history" Other
+    t =    10.00s         Find the "tab-history" Other (retry 1)
+    t =    11.03s         Find the "tab-history" Other (retry 2)
+    t =    11.07s Requesting snapshot of accessibility hierarchy for app with pid 4870
+/Users/USER/Documents/app/EarthOnlineGuide/EarthOnlineGuideUITests/EarthOnlineGuideUITests.swift:22: error: -[EarthOnlineGuideUITests.EarthOnlineGuideUITests testFirstGuideToTodayCompletionHistoryUndoAndPreferences] : Failed to tap "tab-history" Other: No matches found for Elements matching predicate '"tab-history" IN identifiers' from input {(
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other, identifier: 'tab-today',
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other,
+    Other, label: 'Vertical scroll bar, 1 page', value: 0%,
+    Other,
+    Other,
+    Other
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Other from legacy attributes vs StaticText from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 48;
+    "XC_kAXXCAttributeElementBaseType" = UILabel;
+    "XC_kAXXCAttributeElementType" = UILabel;
+    "XC_kAXXCAttributeTraits" = 8590000128;
+}
+See test report attachments for more detail.
+    t =    11.18s Tear Down
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITests testFirstGuideToTodayCompletionHistoryUndoAndPreferences]' failed (11.439 seconds).
+Test Suite 'EarthOnlineGuideUITests' failed at 2026-08-25 15:31:56.114.
+	 Executed 1 test, with 1 failure (0 unexpected) in 11.439 (11.440) seconds
+Test Suite 'EarthOnlineGuideUITestsLaunchTests' started at 2026-08-25 15:31:56.115.
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITestsLaunchTests testLaunch]' started.
+    t =     0.00s Setting device orientation to Portrait
+    t =     0.02s     Device orientation changed to Portrait
+    t =     0.03s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     0.04s Setting appearance mode to Light
+    t =     0.05s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     0.07s Start Test at 2026-08-25 15:31:56.180
+    t =     0.09s Set Up
+    t =     0.09s Open com.earthonline.EarthOnlineGuide
+    t =     0.09s     Launch com.earthonline.EarthOnlineGuide
+    t =     0.09s         Terminate com.earthonline.EarthOnlineGuide:4870
+    t =     1.36s         Setting up automation session
+    t =     2.15s         Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     3.66s Find the Target Application 'com.earthonline.EarthOnlineGuide'
+    t =     3.79s Added attachment named 'Launch Screen'
+    t =     3.79s Tear Down
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITestsLaunchTests testLaunch]' passed (4.001 seconds).
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITestsLaunchTests testLaunch]' started.
+    t =     0.00s Setting device orientation to Landscape Right
+    t =     0.02s     Device orientation changed to Landscape Right
+    t =     0.11s     Interface orientation changed to Landscape Left
+    t =     0.11s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     0.23s Setting appearance mode to Light
+    t =     0.26s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     0.57s Start Test at 2026-08-25 15:32:00.682
+    t =     0.59s Set Up
+    t =     0.59s Open com.earthonline.EarthOnlineGuide
+    t =     0.59s     Launch com.earthonline.EarthOnlineGuide
+    t =     0.59s         Terminate com.earthonline.EarthOnlineGuide:5238
+    t =     0.73s             Interface orientation changed to Portrait
+    t =     1.87s         Interface orientation changed to Landscape Left
+    t =     1.87s         Setting up automation session
+    t =     2.51s         Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     3.93s Find the Target Application 'com.earthonline.EarthOnlineGuide'
+    t =     4.06s Added attachment named 'Launch Screen'
+    t =     4.06s Tear Down
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITestsLaunchTests testLaunch]' passed (4.295 seconds).
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITestsLaunchTests testLaunch]' started.
+    t =     0.00s Setting device orientation to Portrait
+    t =     0.01s     Device orientation changed to Portrait
+    t =     0.07s     Interface orientation changed to Portrait
+    t =     0.08s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     0.11s Setting appearance mode to Dark
+    t =     2.13s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     2.15s Start Test at 2026-08-25 15:32:06.566
+    t =     2.18s Set Up
+    t =     2.18s Open com.earthonline.EarthOnlineGuide
+    t =     2.18s     Launch com.earthonline.EarthOnlineGuide
+    t =     2.18s         Terminate com.earthonline.EarthOnlineGuide:5245
+    t =     3.45s         Setting up automation session
+    t =     4.13s         Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     5.49s Find the Target Application 'com.earthonline.EarthOnlineGuide'
+    t =     5.60s Added attachment named 'Launch Screen'
+    t =     5.61s Tear Down
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITestsLaunchTests testLaunch]' passed (5.829 seconds).
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITestsLaunchTests testLaunch]' started.
+    t =     0.00s Setting device orientation to Landscape Right
+    t =     0.01s     Device orientation changed to Landscape Right
+    t =     0.07s     Interface orientation changed to Landscape Left
+    t =     0.07s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     0.13s Setting appearance mode to Dark
+    t =     0.15s     Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     0.49s Start Test at 2026-08-25 15:32:10.731
+    t =     0.51s Set Up
+    t =     0.51s Open com.earthonline.EarthOnlineGuide
+    t =     0.51s     Launch com.earthonline.EarthOnlineGuide
+    t =     0.51s         Terminate com.earthonline.EarthOnlineGuide:5257
+    t =     0.64s             Interface orientation changed to Portrait
+    t =     1.78s         Interface orientation changed to Landscape Left
+    t =     1.78s         Setting up automation session
+    t =     2.42s         Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     3.90s Find the Target Application 'com.earthonline.EarthOnlineGuide'
+    t =     4.03s Added attachment named 'Launch Screen'
+    t =     4.03s Tear Down
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITestsLaunchTests testLaunch]' passed (4.254 seconds).
+Test Suite 'EarthOnlineGuideUITestsLaunchTests' passed at 2026-08-25 15:32:14.496.
+	 Executed 4 tests, with 0 failures (0 unexpected) in 18.379 (18.382) seconds
+Test Suite 'EarthOnlineGuideUITests.xctest' failed at 2026-08-25 15:32:14.497.
+	 Executed 5 tests, with 1 failure (0 unexpected) in 29.818 (29.823) seconds
+Test Suite 'All tests' failed at 2026-08-25 15:32:14.497.
+	 Executed 5 tests, with 1 failure (0 unexpected) in 29.818 (29.823) seconds

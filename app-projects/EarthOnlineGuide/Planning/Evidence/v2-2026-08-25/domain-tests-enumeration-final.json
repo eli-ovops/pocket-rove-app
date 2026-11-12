@@ -1,0 +1,187 @@
+{
+  "errors" : [
+
+  ],
+  "values" : [
+    {
+      "children" : [
+        {
+          "children" : [
+            {
+              "children" : [
+                {
+                  "kind" : "test",
+                  "name" : "businessDayChangesAtFiveAM()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "completionCooldownExcludesTask()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "developmentPackAllowsChineseFallbackAndOneCrossCategoryCanonical()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "developmentPackIsNotReleaseReady()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "displayDayIsNotPartOfSeedIdentity()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "eggDecisionIsDeterministic()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "hostedUnitTestsUseAnExplicitIsolatedContainerMode()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "insufficientCorePoolDoesNotProducePartialPlan()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "migrationFailureDoesNotReplaceOriginalStore()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "notificationIdentifiersAreStable()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "plansAreUniquePerInstallAndBusinessDayRatherThanDisplayDay()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "sameSeedProducesSamePlan()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "swiftDataPlanUsesOneContextAndPersistsRelationship()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "uiTestStoreAcceptsOnlyExplicitSafeRunIDsAndIsolatesRuns()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "unparseableLegacyBusinessDayUsesRecordedSafetyRecovery()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "v1DiskStoreMigratesProfilePlanSnapshotAndRevocationIdempotently()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "validatorRejectsDuplicateOrUnapprovedPack()"
+                }
+              ],
+              "kind" : "class",
+              "name" : "EarthOnlineGuideTests"
+            },
+            {
+              "children" : [
+                {
+                  "kind" : "test",
+                  "name" : "testApprovedUserOwnedChineseRecordCountsTowardDevelopmentCapacity()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testDualEligibleCanonicalTaskIsOneRecordAndUsesBothSourceMemberships()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testReviewingSourceCannotPassApprovedCapacityGate()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testSelectionFingerprintIsIndependentOfCardInputOrder()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testValidatorRejectsCanonicalIDRebindingAndUnknownAsset()"
+                }
+              ],
+              "kind" : "class",
+              "name" : "LocalTaskPackCatalogXCTests"
+            },
+            {
+              "children" : [
+                {
+                  "kind" : "test",
+                  "name" : "testAuthorizedReplacementUsesStableIdentifiersAndTapHasNoDomainMutation()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testOnlyExplicitEnableRequestsAuthorizationAndDeniedDoesNotSchedule()"
+                }
+              ],
+              "kind" : "class",
+              "name" : "NotificationServiceXCTests"
+            },
+            {
+              "children" : [
+                {
+                  "kind" : "test",
+                  "name" : "testMigrationFailureDoesNotReplaceOriginalStore()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testV1DiskStoreMigratesProfilePlanSnapshotAndRevocationIdempotently()"
+                }
+              ],
+              "kind" : "class",
+              "name" : "Task2MigrationXCTests"
+            },
+            {
+              "children" : [
+                {
+                  "kind" : "test",
+                  "name" : "testBusinessDayUsesFiveAMBoundaryAcrossDST()"
+                }
+              ],
+              "kind" : "class",
+              "name" : "Task3BusinessDayXCTests"
+            },
+            {
+              "children" : [
+                {
+                  "kind" : "test",
+                  "name" : "testActivePlanRemainsAuthoritativeWhenTimeZoneChanges()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testCompletedHistoryPersistsAcrossReopenAndRevocationRemovesIt()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testCompletionAndRevocationAreIdempotentAndOldDayCannotBeRevoked()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testCompletionCooldownLastsThirtyBusinessDaysAndReturnsOnThirtyFirst()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testInjectedClockKeepsPlanKeysMonotonicWhenTimeRollsBack()"
+                },
+                {
+                  "kind" : "test",
+                  "name" : "testInsufficientCorePoolDoesNotPersistPartialPlan()"
+                }
+              ],
+              "kind" : "class",
+              "name" : "Task3ServiceXCTests"
+            }
+          ],
+          "kind" : "target",
+          "name" : "EarthOnlineGuideTests"
+        }
+      ],
+      "kind" : "plan",
+      "name" : "EarthOnlineGuide"
+    }
+  ]
+}

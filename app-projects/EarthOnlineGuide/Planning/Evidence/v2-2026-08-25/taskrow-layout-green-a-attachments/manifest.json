@@ -1,0 +1,53 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "CFA44EEB-0F19-4597-B88D-96A0A72427C0",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.12.27 下午",
+        "timestamp" : 1787645547.605
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "DBEF0BE5-D224-4763-9503-CBE678DCF2FE",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.12.27 下午",
+        "timestamp" : 1787645547.056
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "B5B4AEAB-9321-4BDA-AEC1-8F69AF7162E4",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.12.26 下午",
+        "timestamp" : 1787645546.531
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "2C6C881C-3084-4136-9E22-CA9FFC525A4A",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-08-25 at 04.12.26 下午",
+        "timestamp" : 1787645546.096
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "4AF3635A-920F-463B-B850-CD23E3A582DB.mp4",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Screen Recording 2026-08-25 at 04.12.21 下午.mp4",
+        "timestamp" : 1787645541.774
+      }
+    ],
+    "testIdentifier" : "EarthOnlineGuideUITests/testFirstGuideToTodayCompletionHistoryUndoAndPreferences()",
+    "testIdentifierURL" : "test://com.apple.xcode/EarthOnlineGuide/EarthOnlineGuideUITests/EarthOnlineGuideUITests/testFirstGuideToTodayCompletionHistoryUndoAndPreferences"
+  }
+]

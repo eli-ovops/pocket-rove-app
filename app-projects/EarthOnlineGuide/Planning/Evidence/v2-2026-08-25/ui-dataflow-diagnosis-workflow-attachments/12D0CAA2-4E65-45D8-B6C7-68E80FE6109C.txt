@@ -1,0 +1,96 @@
+Application, 0x112448140, pid: 7832, label: 'EarthOnlineGuide' <App element pid: 7832>
+  Window (Main), 0x112448dc0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4398203904.5>
+    Other, 0x112448f00, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4448223744.8>
+      Other, 0x112449040, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4448845824.11>
+        Other, 0x112449180, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4398204928.15>
+          Other, 0x1124492c0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447156672.21>
+            Other, 0x112449400, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447126400.166>
+              Other, 0x112449540, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4859875840.167>
+                Other, 0x112449680, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447139840.169>
+                  Other, 0x1124497c0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4836080640.172>
+                    Other, 0x112449900, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447172608.175>
+                      Other, 0x112449a40, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447172160.178>
+                        Other, 0x112449b80, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447145920.184>
+                          NavigationBar, 0x112449cc0, {{0.0, 24.0}, {912.0, 54.0}}, identifier: '地球Online' <AX element pid: 7832, elementOrHash.elementID: 4839734272.191>
+                            StaticText, 0x112449e00, {{412.3, 35.7}, {87.0, 20.7}}, label: '地球Online' <AX element pid: 7832, elementOrHash.elementID: 4859670784.200>
+                          Other, 0x112449f40, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447142336.192>
+                            Other, 0x11244a080, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447160960.201>
+                              Other, 0x11244a1c0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4859668096.205>
+                                Other, 0x11244a300, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447183168.208>
+                                  ScrollView, 0x11244bd40, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4839833600.210>
+                                    Other, 0x11244be80, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447145024.211>
+                                      Other, 0x102e73980, {{0.0, 0.0}, {912.0, 132.8}} <AX element pid: 7832, elementOrHash.elementID: 4447164096.215>
+                                      Other, 0x102e73ac0, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 7832, elementOrHash.elementID: 4447166336.216>
+                                    Other, 0x102e73c00, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447144128.212>
+                                      Other, 0x102e73d40, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 7832, elementOrHash.elementID: 4837930112.217>
+                                        Image, 0x102e73e80, {{-120.0, 296.0}, {1152.0, 248.0}}, identifier: 'AdditionalDimmingOverlay' <AX element pid: 7832, elementOrHash.elementID: 4857857536.225>
+                                        Other, 0x102e72e40, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 7832, elementOrHash.elementID: 4928605184.226>
+                                          Other, 0x102e72f80, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 7832, elementOrHash.elementID: 4447166784.248>
+                                        Other, 0x102e730c0, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 7832, elementOrHash.elementID: 4533649408.227>
+                                          Other, 0x102e73200, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 7832, elementOrHash.elementID: 4447167680.249>
+                                          Other, 0x102e73340, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 7832, elementOrHash.elementID: 4447171712.250>
+                                    Other, 0x102e73480, {{0.0, 78.0}, {844.0, 468.0}} <AX element pid: 7832, elementOrHash.elementID: 4859885056.213>
+                                      StaticText, 0x102e735c0, {{84.0, 94.0}, {129.0, 40.7}}, label: '今日任务' <AX element pid: 7832, elementOrHash.elementID: 4447173504.218>
+                                      StaticText, 0x11249c000, {{84.0, 150.7}, {126.0, 18.0}}, label: '每天 5:00 AM 刷新' <AX element pid: 7832, elementOrHash.elementID: 4447173952.219>
+                                      Button, 0x11249c140, {{10.0, -150.3}, {818.0, 744.0}}, identifier: 'today-task-ui-fixed-install-v1|9367-core-064', label: '搜索了解一个陌生知识，进行中，双击完成' <AX element pid: 7832, elementOrHash.elementID: 4447647296.220>
+                                        Image, 0x11249c280, {{84.0, -150.3}, {744.0, 744.0}}, label: 'core-task-card-frame-v2' <AX element pid: 7832, elementOrHash.elementID: 4447137152.228>
+                                        Image, 0x11249c3c0, {{10.0, 206.7}, {120.0, 60.3}}, label: 'generic-task-icons-v1' <AX element pid: 7832, elementOrHash.elementID: 4447138496.229>
+                                        StaticText, 0x11249c500, {{142.0, 200.7}, {168.7, 20.3}}, label: '搜索了解一个陌生知识' <AX element pid: 7832, elementOrHash.elementID: 4447139392.230>
+                                        StaticText, 0x11249c640, {{142.0, 225.0}, {59.7, 18.0}}, label: '核心任务' <AX element pid: 7832, elementOrHash.elementID: 4447645504.231>
+                                        Image, 0x11249c780, {{793.7, 213.3}, {17.0, 17.0}}, identifier: 'circle', label: 'circle' <AX element pid: 7832, elementOrHash.elementID: 4447646848.232>
+                                      Button, 0x11249c8c0, {{10.0, -60.0}, {818.0, 744.0}}, identifier: 'today-task-ui-fixed-install-v1|9367-shared-004', label: '给绿植擦擦叶子，进行中，双击完成' <AX element pid: 7832, elementOrHash.elementID: 4447635200.221>
+                                        Image, 0x11249ca00, {{84.0, -60.0}, {744.0, 744.0}}, label: 'egg-task-card-frame-v2' <AX element pid: 7832, elementOrHash.elementID: 4447645952.233>
+                                        Image, 0x11249cb40, {{10.0, 267.3}, {120.0, 60.0}}, label: 'generic-task-icons-v1' <AX element pid: 7832, elementOrHash.elementID: 4447646400.234>
+                                        StaticText, 0x11249cc80, {{142.0, 291.0}, {118.0, 20.3}}, label: '给绿植擦擦叶子' <AX element pid: 7832, elementOrHash.elementID: 4447648640.235>
+                                        StaticText, 0x11249cdc0, {{142.0, 315.3}, {30.0, 18.0}}, label: '彩蛋' <AX element pid: 7832, elementOrHash.elementID: 4447647744.236>
+                                        Image, 0x11249cf00, {{793.7, 303.7}, {17.0, 17.0}}, identifier: 'circle', label: 'circle' <AX element pid: 7832, elementOrHash.elementID: 4447648192.237>
+                                      Button, 0x11249d040, {{40.0, 30.3}, {788.0, 744.3}}, identifier: 'today-task-ui-fixed-install-v1|9367-core-062', label: '说出自己最喜欢的颜色，进行中，双击完成' <AX element pid: 7832, elementOrHash.elementID: 4447643712.222>
+                                        Image, 0x11249d180, {{84.0, 30.3}, {744.0, 744.3}}, label: 'core-task-card-frame-v2' <AX element pid: 7832, elementOrHash.elementID: 4447640128.238>
+                                        Image, 0x11249d2c0, {{40.0, 387.7}, {120.0, 60.0}}, label: 'generic-task-icons-v1' <AX element pid: 7832, elementOrHash.elementID: 4447641024.239>
+                                        StaticText, 0x11249d400, {{142.0, 381.3}, {168.7, 20.3}}, label: '说出自己最喜欢的颜色' <AX element pid: 7832, elementOrHash.elementID: 4447645056.240>
+                                        StaticText, 0x11249d540, {{142.0, 405.7}, {59.7, 18.0}}, label: '核心任务' <AX element pid: 7832, elementOrHash.elementID: 4447643264.241>
+                                        Image, 0x11249d680, {{793.7, 394.0}, {17.0, 17.0}}, identifier: 'circle', label: 'circle' <AX element pid: 7832, elementOrHash.elementID: 4447644160.242>
+                                      Button, 0x11249d7c0, {{84.0, 120.7}, {744.0, 744.3}}, identifier: 'today-task-ui-fixed-install-v1|9367-core-068', label: '抚摸自己的嘴唇，进行中，双击完成' <AX element pid: 7832, elementOrHash.elementID: 4446702656.223>
+                                        Image, 0x11249d900, {{84.0, 120.7}, {744.0, 744.3}}, label: 'core-task-card-frame-v2' <AX element pid: 7832, elementOrHash.elementID: 4447642816.243>
+                                        Image, 0x11249da40, {{100.0, 448.0}, {120.0, 60.0}}, label: 'generic-task-icons-v1' <AX element pid: 7832, elementOrHash.elementID: 4447639232.244>
+                                        StaticText, 0x11249db80, {{142.0, 471.7}, {118.0, 20.3}}, label: '抚摸自己的嘴唇' <AX element pid: 7832, elementOrHash.elementID: 4447637440.245>
+                                        StaticText, 0x11249dcc0, {{142.0, 496.0}, {59.7, 18.0}}, label: '核心任务' <AX element pid: 7832, elementOrHash.elementID: 4447639680.246>
+                                        Image, 0x11249de00, {{793.7, 484.3}, {17.0, 17.0}}, identifier: 'circle', label: 'circle' <AX element pid: 7832, elementOrHash.elementID: 4447641920.247>
+                                    Other, 0x11249df40, {{822.3, 78.0}, {30.0, 278.0}}, label: 'Vertical scroll bar, 2 pages', value: 0% <AX element pid: 7832, elementOrHash.elementID: 4448229888.214>
+                                      Other, 0x11249e080, {{849.3, 81.0}, {3.0, 187.3}} <AX element pid: 7832, elementOrHash.elementID: 4447163200.224>
+                                    Other, 0x11249e1c0, {{822.3, 78.0}, {30.0, 278.0}}, label: 'Vertical scroll bar, 2 pages', value: 0% <AX element pid: 7832, elementOrHash.elementID: 4448229888.214>
+                                      Other, 0x11249e300, {{849.3, 81.0}, {3.0, 187.3}} <AX element pid: 7832, elementOrHash.elementID: 4447163200.224>
+                          Other, 0x11249e440, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4859886592.193>
+                            Other, 0x11249e580, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4838330880.202>
+              Other, 0x11249e6c0, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4447126848.168>
+                Other, 0x11249e800, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4447136256.170>
+                  TabBar, 0x11249e940, {{0.0, 356.0}, {912.0, 64.0}}, label: 'Tab Bar' <AX element pid: 7832, elementOrHash.elementID: 4533787520.173>
+                    Other, 0x11249ea80, {{342.0, 356.0}, {228.0, 44.0}} <AX element pid: 7832, elementOrHash.elementID: 4447127296.176>
+                      Other, 0x11249ebc0, {{342.0, 356.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447141184.179>
+                      Other, 0x11249ed00, {{342.0, 356.0}, {228.0, 44.0}} <AX element pid: 7832, elementOrHash.elementID: 4447128192.180>
+                        Button, 0x11249ee40, {{346.0, 360.0}, {71.3, 36.0}}, identifier: 'sun.max.fill', label: '今日', Selected <AX element pid: 7832, elementOrHash.elementID: 4839135488.185>
+                          Image, 0x11249ef80, {{352.0, 367.7}, {21.3, 21.3}}, identifier: 'sun.max.fill', label: 'brightness higher' <AX element pid: 7832, elementOrHash.elementID: 4859876352.194>
+                        Button, 0x11249f0c0, {{421.3, 360.0}, {70.3, 36.0}}, identifier: 'clock.arrow.circlepath', label: '历史' <AX element pid: 7832, elementOrHash.elementID: 4839138048.186>
+                          Image, 0x11249f200, {{427.0, 368.3}, {20.3, 20.0}}, identifier: 'clock.arrow.trianglehead.counterclockwise.rotate.90', label: 'clock.arrow.trianglehead.counterclockwise.rotate.90' <AX element pid: 7832, elementOrHash.elementID: 4859877888.195>
+                        Button, 0x11249f340, {{495.7, 360.0}, {70.3, 36.0}}, identifier: 'gearshape.fill', label: '设置' <AX element pid: 7832, elementOrHash.elementID: 4839140608.187>
+                          Image, 0x11249f480, {{501.7, 368.0}, {20.3, 20.3}}, identifier: 'gearshape.fill', label: 'gearshape.fill' <AX element pid: 7832, elementOrHash.elementID: 4859878912.196>
+                      Other, 0x11249f5c0, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4533786880.181>
+                        Other, 0x11249f700, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447129088.188>
+                          Other, 0x11249f840, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447125504.197>
+                          Other, 0x11249f980, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447127744.198>
+                            Other, 0x11249fac0, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447133568.203>
+                              Other, 0x11249fc00, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447134016.206>
+                                Other, 0x11249fd40, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447134464.209>
+                              Other, 0x11249fe80, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447132672.207>
+                            Other, 0x1124a0000, {{346.0, 360.0}, {71.3, 36.0}} <AX element pid: 7832, elementOrHash.elementID: 4447133120.204>
+                Other, 0x1124a0140, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4859873280.171>
+                  Other, 0x1124a0280, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4859667200.174>
+                    Other, 0x1124a03c0, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4447320512.177>
+                      Other, 0x1124a0500, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4447124352.182>
+                        Other, 0x1124a0640, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4859880960.189>
+                          Other, 0x1124a0780, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4447124800.199>
+                      Other, 0x1124a08c0, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4859881472.183>
+                        Other, 0x1124a0a00, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 7832, elementOrHash.elementID: 4447111808.190>
+  Window, 0x1124a0b40, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4398195456.6>
+    Other, 0x1124a0c80, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4446712064.9>
+      Other, 0x1124a0dc0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 7832, elementOrHash.elementID: 4446714304.12>

@@ -1,0 +1,35 @@
+2026-08-25 21:44:50.610002+0800 EarthOnlineGuideUITests-Runner[53276:469883] [Default] Running tests...
+objc[53276]: Class UIAccessibilityLoaderWebShared is implemented in both /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebCore.axbundle/WebCore (0x10afc8310) and /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebKit.axbundle/WebKit (0x109c8c398). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+    t =      nans Interface orientation changed to Portrait
+Test Suite 'EarthOnlineGuideUITests' started at 2026-08-25 21:44:56.279.
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITests testAccessibility3InjectionIsObservable]' started.
+    t =     0.00s Start Test at 2026-08-25 21:44:56.280
+    t =     0.39s Set Up
+    t =     0.40s Open com.earthonline.EarthOnlineGuide
+    t =     0.40s     Launch com.earthonline.EarthOnlineGuide
+    t =     2.06s         Setting up automation session
+    t =     3.00s         Wait for com.earthonline.EarthOnlineGuide to idle
+    t =     6.78s Waiting 5.0s for "ui-test-dynamic-type" StaticText to exist
+    t =     7.82s     Checking `Expect predicate `existsNoRetry == 1` for object "ui-test-dynamic-type" StaticText`
+    t =     7.82s         Checking existence of `"ui-test-dynamic-type" StaticText`
+    t =     7.96s         Capturing element debug description
+    t =     8.80s     Checking `Expect predicate `existsNoRetry == 1` for object "ui-test-dynamic-type" StaticText`
+    t =     8.80s         Checking existence of `"ui-test-dynamic-type" StaticText`
+    t =     8.84s         Capturing element debug description
+    t =     9.78s     Checking `Expect predicate `existsNoRetry == 1` for object "ui-test-dynamic-type" StaticText`
+    t =     9.79s         Checking existence of `"ui-test-dynamic-type" StaticText`
+    t =     9.83s         Capturing element debug description
+    t =    10.88s     Checking `Expect predicate `existsNoRetry == 1` for object "ui-test-dynamic-type" StaticText`
+    t =    10.88s         Checking existence of `"ui-test-dynamic-type" StaticText`
+    t =    10.92s         Capturing element debug description
+    t =    11.78s     Checking `Expect predicate `existsNoRetry == 1` for object "ui-test-dynamic-type" StaticText`
+    t =    11.79s         Checking existence of `"ui-test-dynamic-type" StaticText`
+    t =    11.83s         Capturing element debug description
+    t =    11.83s     Checking existence of `"ui-test-dynamic-type" StaticText`
+    t =    11.86s Collecting debug information to assist test failure triage
+    t =    11.86s     Requesting snapshot of accessibility hierarchy for app with pid 53343
+/Users/USER/Documents/app/EarthOnlineGuide/EarthOnlineGuideUITests/EarthOnlineGuideUITests.swift:31: error: -[EarthOnlineGuideUITests.EarthOnlineGuideUITests testAccessibility3InjectionIsObservable] : XCTAssertTrue failed
+    t =    12.57s Tear Down
+Test Case '-[EarthOnlineGuideUITests.EarthOnlineGuideUITests testAccessibility3InjectionIsObservable]' failed (12.857 seconds).
+Test Suite 'EarthOnlineGuideUITests' failed at 2026-08-25 21:45:09.136.
+	 Executed 1 test, with 1 failure (0 unexpected) in 12.857 (12.858) seconds

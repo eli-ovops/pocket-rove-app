@@ -1,0 +1,116 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "84D55B04-D2B6-4569-9E00-F2B2AE3E37C0.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Accessibility hierarchy — Empty History — Accessibility XXXL_0_C827E432-C858-44D5-9FC2-F83F9FC2A0B8.txt",
+        "timestamp" : 1787647203.811
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "CD15D5C5-4843-4700-9344-95AF51C7EC05.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Visual — Empty History — Accessibility XXXL_0_B0A0AA9A-1DB0-42B0-9733-30212E825A61.png",
+        "timestamp" : 1787647203.729
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "01B4B46B-DDBA-4193-B0A9-044A3F453FE7.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Accessibility hierarchy — Empty History_0_670A9393-2B23-4B89-AC6B-05B8FDC73D22.txt",
+        "timestamp" : 1787647198.72
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "F8F2F596-0202-4A19-BB21-AA9021ACFB58.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Visual — Empty History_0_B0577EBA-FB75-4C0D-97B6-F5DCE1F3FD49.png",
+        "timestamp" : 1787647198.641
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "1CC02A5A-A530-481F-9F23-ABA0E38CFB1D.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Accessibility hierarchy — Settings_0_AB9B856F-D9B4-4E23-A9D5-EB5AC7B5EC2D.txt",
+        "timestamp" : 1787647186.44
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "9E969331-C780-424B-A329-A8B0F334B541.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Visual — Settings_0_FA0FD328-934C-4B2E-9E4F-5EE12FBC01CA.png",
+        "timestamp" : 1787647186.259
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "25E34DF9-2F9A-4895-9365-6D50EFDD327E.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Accessibility hierarchy — History_0_70CD833A-ED64-4829-969B-46D35409EE67.txt",
+        "timestamp" : 1787647180.977
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "BA6134A9-6804-4018-B9DE-7500EA37773B.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Visual — History_0_49A7E9C7-4E4F-4CF0-97C3-4B262DEA69AB.png",
+        "timestamp" : 1787647180.883
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "271541D9-9111-47B7-AC0D-848A3D0DFB51.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Accessibility hierarchy — Today_0_C1672229-4D59-4EBE-A1C7-96774BE20FA2.txt",
+        "timestamp" : 1787647177.494
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "D6718808-88BA-4B5E-B915-40BAC43EC306.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Visual — Today_0_B0F06582-B045-4072-BC9C-6AE6ABA6FAFA.png",
+        "timestamp" : 1787647177.379
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "4A7DEE8E-5EE8-42A0-A5E5-8E533BEBC625.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Accessibility hierarchy — Onboarding_0_4F417F27-F26A-48A8-83AD-F500D2252D95.txt",
+        "timestamp" : 1787647172.51
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA",
+        "deviceName" : "EarthOnlineGuide iPhone Clean",
+        "exportedFileName" : "58AB2B91-A78D-4260-AFA2-92B412957A00.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Visual — Onboarding_0_D9279256-E299-4B80-B5E7-4A75ADC0D732.png",
+        "timestamp" : 1787647172.365
+      }
+    ],
+    "testIdentifier" : "EarthOnlineGuideUITests/testFirstGuideToTodayCompletionHistoryUndoAndPreferences()",
+    "testIdentifierURL" : "test://com.apple.xcode/EarthOnlineGuide/EarthOnlineGuideUITests/EarthOnlineGuideUITests/testFirstGuideToTodayCompletionHistoryUndoAndPreferences"
+  }
+]

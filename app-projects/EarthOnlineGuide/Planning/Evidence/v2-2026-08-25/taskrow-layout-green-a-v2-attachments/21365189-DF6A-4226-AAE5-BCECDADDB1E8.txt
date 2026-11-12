@@ -1,0 +1,125 @@
+Application, 0x114484140, pid: 12532, label: 'EarthOnlineGuide' <App element pid: 12532>
+  Window (Main), 0x1144843c0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4398613504.4>
+    Other, 0x114484500, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4456301056.5>
+      Other, 0x114484640, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4457252736.6>
+        Other, 0x114484780, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4398614528.7>
+          Other, 0x1144848c0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4454876480.8>
+            Other, 0x114484a00, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455964992.9>
+              Other, 0x114484b40, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4456305664.10>
+                Other, 0x114484c80, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455128512.12>
+                  Other, 0x114484dc0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4398620672.90>
+                    Other, 0x114484f00, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455492992.91>
+                      Other, 0x114485040, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455484480.92>
+                        Other, 0x114485180, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455466752.93>
+                          NavigationBar, 0x1144852c0, {{0.0, 24.0}, {912.0, 54.0}}, identifier: '设置' <AX element pid: 12532, elementOrHash.elementID: 4539066112.94>
+                            StaticText, 0x114485400, {{439.0, 35.7}, {34.0, 20.7}}, label: '设置' <AX element pid: 12532, elementOrHash.elementID: 4455167104.97>
+                          Other, 0x114485540, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455467200.95>
+                            Other, 0x114485680, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455472576.98>
+                              Other, 0x1144857c0, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455164416.100>
+                                Other, 0x114487340, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455493888.101>
+                                  CollectionView, 0x114487480, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4859284992.102>
+                                    Other, 0x1144875c0, {{-84.0, -762.0}, {1080.0, 1237.7}} <AX element pid: 12532, elementOrHash.elementID: 4925522944.103>
+                                    Other, 0x114487700, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455469888.104>
+                                    Other, 0x114487840, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455469440.105>
+                                      Other, 0x114487980, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 12532, elementOrHash.elementID: 4861140480.119>
+                                        Image, 0x114487ac0, {{-120.0, 296.0}, {1152.0, 248.0}}, identifier: 'AdditionalDimmingOverlay' <AX element pid: 12532, elementOrHash.elementID: 4925532160.135>
+                                        Other, 0x114487c00, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 12532, elementOrHash.elementID: 4924247808.136>
+                                          Other, 0x114487d40, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 12532, elementOrHash.elementID: 4455486720.151>
+                                        Other, 0x114487e80, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 12532, elementOrHash.elementID: 4861141120.137>
+                                          Other, 0x114440140, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 12532, elementOrHash.elementID: 4455489856.152>
+                                          Other, 0x114440000, {{0.0, 291.2}, {912.0, 128.8}} <AX element pid: 12532, elementOrHash.elementID: 4455489408.153>
+                                    Cell, 0x114440dc0, {{84.0, 78.0}, {744.0, 40.3}} <AX element pid: 12532, elementOrHash.elementID: 4540508160.106>
+                                      Other, 0x114440f00, {{84.0, 78.0}, {744.0, 40.3}} <AX element pid: 12532, elementOrHash.elementID: 4925521920.120>
+                                      Other, 0x114441040, {{84.0, 78.0}, {744.0, 40.3}} <AX element pid: 12532, elementOrHash.elementID: 4455507584.121>
+                                        Other, 0x114441180, {{84.0, 78.0}, {744.0, 40.3}} <AX element pid: 12532, elementOrHash.elementID: 4398592000.138>
+                                          Other, 0x1144412c0, {{84.0, 78.0}, {744.0, 40.3}} <AX element pid: 12532, elementOrHash.elementID: 4455459776.154>
+                                            StaticText, 0x114441400, {{84.0, 78.0}, {744.0, 40.3}}, label: '地球Online小向导' <AX element pid: 12532, elementOrHash.elementID: 4455459328.161>
+                                    Cell, 0x114441540, {{84.0, 118.3}, {744.0, 78.0}} <AX element pid: 12532, elementOrHash.elementID: 4540500480.107>
+                                      Other, 0x114441680, {{84.0, 118.3}, {744.0, 78.0}} <AX element pid: 12532, elementOrHash.elementID: 4924344320.122>
+                                        Other, 0x1144417c0, {{84.0, 118.3}, {744.0, 78.0}} <AX element pid: 12532, elementOrHash.elementID: 4455475712.139>
+                                      Other, 0x114441900, {{84.0, 118.3}, {744.0, 78.0}} <AX element pid: 12532, elementOrHash.elementID: 4455475264.123>
+                                        Other, 0x114441a40, {{84.0, 118.3}, {744.0, 78.0}} <AX element pid: 12532, elementOrHash.elementID: 4398584320.140>
+                                          Other, 0x114441b80, {{84.0, 118.3}, {744.0, 78.0}} <AX element pid: 12532, elementOrHash.elementID: 4455457536.155>
+                                            Image, 0x114441cc0, {{100.0, 133.3}, {48.0, 48.0}}, label: 'earth-guide-mark-v2' <AX element pid: 12532, elementOrHash.elementID: 4455456192.162>
+                                            StaticText, 0x114441e00, {{160.0, 148.3}, {44.3, 18.0}}, label: '向导ID' <AX element pid: 12532, elementOrHash.elementID: 4455457088.163>
+                                            StaticText, 0x114441f40, {{84.0, 118.3}, {744.0, 78.0}}, identifier: 'settings-guide-id', label: '向导ID, ui-guide' <AX element pid: 12532, elementOrHash.elementID: 4455458432.164>
+                                    Cell, 0x114442080, {{84.0, 196.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4540501760.108>
+                                      Other, 0x1144421c0, {{84.0, 196.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4924346368.124>
+                                        Other, 0x114442300, {{84.0, 196.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455476608.141>
+                                      Other, 0x1144d1900, {{84.0, 196.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455476160.125>
+                                        Other, 0x1144d1a40, {{84.0, 196.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4398582784.142>
+                                          Other, 0x1144d0140, {{84.0, 196.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455457984.156>
+                                            Button, 0x1144d0280, {{84.0, 196.3}, {744.0, 52.3}}, label: '开启通知' <AX element pid: 12532, elementOrHash.elementID: 4455460672.165>
+                                    Other, 0x1144d03c0, {{160.0, 195.3}, {652.0, 1.0}} <AX element pid: 12532, elementOrHash.elementID: 4925523456.109>
+                                    Cell, 0x1144d0500, {{84.0, 248.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4540503040.110>
+                                      Other, 0x1144d0640, {{84.0, 248.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4924347392.126>
+                                        Other, 0x1144d0780, {{84.0, 248.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455477504.143>
+                                      Other, 0x1144d08c0, {{84.0, 248.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455477056.127>
+                                        Other, 0x1144d0a00, {{84.0, 248.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4398585856.144>
+                                          Other, 0x1144d0b40, {{84.0, 248.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455463360.157>
+                                            Switch, 0x1144d0c80, {{84.0, 248.7}, {744.0, 52.3}}, identifier: 'settings-music', label: '音乐', value: 0 <AX element pid: 12532, elementOrHash.elementID: 4455462464.166>
+                                              StaticText, 0x1144d0dc0, {{100.0, 264.7}, {34.0, 20.3}}, label: '音乐' <AX element pid: 12532, elementOrHash.elementID: 4455461568.171>
+                                              Switch, 0x1144d0f00, {{751.0, 261.0}, {63.0, 28.0}}, value: 0 <AX element pid: 12532, elementOrHash.elementID: 4861135360.172>
+                                    Other, 0x1144d1040, {{100.0, 247.7}, {712.0, 1.0}} <AX element pid: 12532, elementOrHash.elementID: 4925523968.111>
+                                    Cell, 0x1144d1180, {{84.0, 301.0}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4540504320.112>
+                                      Other, 0x1144d12c0, {{84.0, 301.0}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4924349440.128>
+                                        Other, 0x1144d1400, {{84.0, 301.0}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455485824.145>
+                                      Other, 0x1144d1540, {{84.0, 301.0}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455484928.129>
+                                        Other, 0x1144d1680, {{84.0, 301.0}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4398587392.146>
+                                          Other, 0x1144d17c0, {{84.0, 301.0}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455498624.158>
+                                            Switch, 0x115030000, {{84.0, 301.0}, {744.0, 52.3}}, identifier: 'settings-sound', label: '音效', value: 0 <AX element pid: 12532, elementOrHash.elementID: 4455498176.167>
+                                              StaticText, 0x115030140, {{100.0, 317.0}, {34.0, 20.3}}, label: '音效' <AX element pid: 12532, elementOrHash.elementID: 4455463808.173>
+                                              Switch, 0x115030280, {{751.0, 313.3}, {63.0, 28.0}}, value: 0 <AX element pid: 12532, elementOrHash.elementID: 4861136640.174>
+                                    Other, 0x1150303c0, {{100.0, 300.0}, {712.0, 1.0}} <AX element pid: 12532, elementOrHash.elementID: 4925524480.113>
+                                    Cell, 0x115030500, {{84.0, 353.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4540505600.114>
+                                      Other, 0x115030640, {{84.0, 353.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4924353536.130>
+                                        Other, 0x115030780, {{84.0, 353.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455505792.147>
+                                      Other, 0x1150308c0, {{84.0, 353.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455505344.131>
+                                        Other, 0x115030a00, {{84.0, 353.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4398588928.148>
+                                          Other, 0x115030b40, {{84.0, 353.3}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4454666176.159>
+                                            StaticText, 0x115030c80, {{84.0, 353.3}, {744.0, 52.3}}, label: '音频资源未随测试版提供；开关仅保存未来偏好。' <AX element pid: 12532, elementOrHash.elementID: 4454611840.168>
+                                    Other, 0x115030dc0, {{100.0, 352.3}, {712.0, 1.0}} <AX element pid: 12532, elementOrHash.elementID: 4925524992.115>
+                                    Cell, 0x115030f00, {{84.0, 405.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4540506880.116>
+                                      Other, 0x115031040, {{84.0, 405.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4924355072.132>
+                                        Other, 0x115031180, {{84.0, 405.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455507136.149>
+                                      Other, 0x1150312c0, {{84.0, 405.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455506688.133>
+                                        Other, 0x115031400, {{84.0, 405.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4398590464.150>
+                                          Other, 0x115031540, {{84.0, 405.7}, {744.0, 52.3}} <AX element pid: 12532, elementOrHash.elementID: 4455479296.160>
+                                            StaticText, 0x115031680, {{100.0, 422.8}, {59.7, 18.0}}, label: '每日刷新' <AX element pid: 12532, elementOrHash.elementID: 4454667072.169>
+                                            StaticText, 0x1150317c0, {{84.0, 405.7}, {744.0, 52.3}}, label: '每日刷新, 5:00 AM' <AX element pid: 12532, elementOrHash.elementID: 4454663040.170>
+                                    Other, 0x115031900, {{100.0, 404.7}, {712.0, 1.0}} <AX element pid: 12532, elementOrHash.elementID: 4925525504.117>
+                                    Other, 0x115031a40, {{811.0, 78.0}, {30.0, 278.0}}, label: 'Vertical scroll bar, 2 pages', value: 0% <AX element pid: 12532, elementOrHash.elementID: 4541312512.118>
+                                      Other, 0x115031b80, {{838.0, 346.0}, {3.0, 7.0}} <AX element pid: 12532, elementOrHash.elementID: 4455474368.134>
+                                    Other, 0x115031cc0, {{811.0, 78.0}, {30.0, 278.0}}, label: 'Vertical scroll bar, 2 pages', value: 0% <AX element pid: 12532, elementOrHash.elementID: 4541312512.118>
+                                      Other, 0x115031e00, {{838.0, 346.0}, {3.0, 7.0}} <AX element pid: 12532, elementOrHash.elementID: 4455474368.134>
+                          Other, 0x115031f40, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4858783232.96>
+                            Other, 0x115032080, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4858785280.99>
+              Other, 0x1150321c0, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4455965440.11>
+                Other, 0x115032300, {{0.0, 0.0}, {912.0, 420.0}} <AX element pid: 12532, elementOrHash.elementID: 4455972160.13>
+                  TabBar, 0x115032440, {{0.0, 356.0}, {912.0, 64.0}}, label: 'Tab Bar' <AX element pid: 12532, elementOrHash.elementID: 4457255936.16>
+                    Other, 0x115032580, {{342.0, 356.0}, {228.0, 44.0}} <AX element pid: 12532, elementOrHash.elementID: 4455965888.19>
+                      Other, 0x1150326c0, {{342.0, 356.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455128960.22>
+                      Other, 0x115032800, {{342.0, 356.0}, {228.0, 44.0}} <AX element pid: 12532, elementOrHash.elementID: 4455966336.23>
+                        Button, 0x115032940, {{346.0, 360.0}, {71.3, 36.0}}, identifier: 'sun.max.fill', label: '今日' <AX element pid: 12532, elementOrHash.elementID: 4398748672.28>
+                          Image, 0x115032a80, {{352.0, 367.7}, {21.3, 21.3}}, identifier: 'sun.max.fill', label: 'brightness higher' <AX element pid: 12532, elementOrHash.elementID: 4456306176.37>
+                        Button, 0x115032bc0, {{421.3, 360.0}, {70.3, 36.0}}, identifier: 'clock.arrow.circlepath', label: '历史' <AX element pid: 12532, elementOrHash.elementID: 4398751232.29>
+                          Image, 0x115032d00, {{427.0, 368.3}, {20.3, 20.0}}, identifier: 'clock.arrow.trianglehead.counterclockwise.rotate.90', label: 'clock.arrow.trianglehead.counterclockwise.rotate.90' <AX element pid: 12532, elementOrHash.elementID: 4456307712.38>
+                        Button, 0x115032e40, {{495.7, 360.0}, {70.3, 36.0}}, identifier: 'gearshape.fill', label: '设置', Selected <AX element pid: 12532, elementOrHash.elementID: 4398753792.30>
+                          Image, 0x115032f80, {{501.7, 368.0}, {20.3, 20.3}}, identifier: 'gearshape.fill', label: 'gearshape.fill' <AX element pid: 12532, elementOrHash.elementID: 4456308736.39>
+                      Other, 0x1150330c0, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4457256576.24>
+                        Other, 0x115033200, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455968128.31>
+                          Other, 0x115033340, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455966784.40>
+                          Other, 0x115033480, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455968576.41>
+                            Other, 0x1150335c0, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455969920.46>
+                              Other, 0x115033700, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455970368.49>
+                                Other, 0x115033840, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455970816.52>
+                              Other, 0x115033980, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455969024.50>
+                            Other, 0x115033ac0, {{495.7, 360.0}, {70.3, 36.0}} <AX element pid: 12532, elementOrHash.elementID: 4455969472.47>
+                Other, 0x115033c00, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4456304128.14>
+                  Other, 0x115033d40, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4455159040.17>
+                    Other, 0x115033e80, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4455129408.20>
+                      Other, 0x115040000, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4455130304.25>
+                        Other, 0x115040140, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4456310784.32>
+                          Other, 0x115040280, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4455130752.42>
+                      Other, 0x1150403c0, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4456311296.26>
+                        Other, 0x115040500, {{0.0, 356.0}, {912.0, 64.0}} <AX element pid: 12532, elementOrHash.elementID: 4455131648.33>

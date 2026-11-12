@@ -1,0 +1,5069 @@
+{
+  "auditVersion": "content-safety-v1-20260825",
+  "scope": "Each canonical record audited once; four cross-class canonical records have one shared result.",
+  "sourcePack": "earth-online-guide-source-v1.json",
+  "licenseBasis": "User-owned Xiaohongshu task text authorized for this app; no third-party asset license implied.",
+  "decisionRules": "Conservatively reviewed/blocked tasks involving health, road, privacy, strangers, fire/electricity, hygiene, entrapment, or uncertain physical risk.",
+  "summary": {
+    "canonicalRecords": 218,
+    "canonicalCounts": {
+      "approved": 159,
+      "reviewing": 50,
+      "blocked": 9
+    },
+    "membershipCounts": {
+      "core": {
+        "approved": 124,
+        "reviewing": 39,
+        "blocked": 3,
+        "total": 166
+      },
+      "egg": {
+        "approved": 39,
+        "reviewing": 11,
+        "blocked": 6,
+        "total": 56
+      }
+    },
+    "activeCapacity": {
+      "minimumCore": 93,
+      "approvedCore": 124,
+      "minimumEgg": 31,
+      "approvedEgg": 39,
+      "result": "pass-development-zh"
+    },
+    "releaseStatus": "blocked-en-pending"
+  },
+  "records": [
+    {
+      "canonicalTaskID": "core-001",
+      "taskRevisionID": "source-v1-core-001",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          1
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "完成一件拖延很久的事"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-002",
+      "taskRevisionID": "source-v1-core-002",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          2
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "擦干净手机屏幕"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-003",
+      "taskRevisionID": "source-v1-core-003",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          3
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "用巴氏刷牙法刷一次牙"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "medical-technique-dental",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-004",
+      "taskRevisionID": "source-v1-core-004",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          4
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "扫扫床"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-005",
+      "taskRevisionID": "source-v1-core-005",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          5
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "丢掉一件闲置物品"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-006",
+      "taskRevisionID": "source-v1-core-006",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          6
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "学着打一个响指"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-007",
+      "taskRevisionID": "source-v1-core-007",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          7
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "给自己做一杯果茶"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-008",
+      "taskRevisionID": "source-v1-core-008",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          8
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "学做一个瑜伽伸展动作"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "physical-exercise-unsupervised",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-009",
+      "taskRevisionID": "source-v1-core-009",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          9
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "清理手机内存／存储空间"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "potential-user-data-deletion",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-010",
+      "taskRevisionID": "source-v1-core-010",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          10
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "推荐一部最喜欢的电影"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-011",
+      "taskRevisionID": "source-v1-core-011",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          11
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把洗手台的镜子擦得亮晶晶"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-012",
+      "taskRevisionID": "source-v1-core-012",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          12
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "剪干净自己的手脚指甲"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-013",
+      "taskRevisionID": "source-v1-core-013",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          13
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "记下今天天空的颜色"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-014",
+      "taskRevisionID": "source-v1-core-014",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          14
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "捡一片好看的落叶或花瓣"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-015",
+      "taskRevisionID": "source-v1-core-015",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          15
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "对着镜子夸自己一句话"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-016",
+      "taskRevisionID": "source-v1-core-016",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          16
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把枕头上的头发清理干净"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-017",
+      "taskRevisionID": "source-v1-core-017",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          17
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "找到一支紫色的笔"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-018",
+      "taskRevisionID": "source-v1-core-018",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          18
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "拍下最喜欢的一朵云"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-019",
+      "taskRevisionID": "source-v1-core-019",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          19
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "在手腕上画一个手表"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-020",
+      "taskRevisionID": "source-v1-core-020",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          20
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "用勺子吃西瓜"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-021",
+      "taskRevisionID": "source-v1-core-021",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          21
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "夸一下18:00后遇到的第一个人"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "unfamiliar-person-contact",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-022",
+      "taskRevisionID": "source-v1-core-022",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          22
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "尽量吃得健康一些"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "dietary-health-guidance",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-023",
+      "taskRevisionID": "source-v1-core-023",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          23
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "看完收藏夹里的一个长视频"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-024",
+      "taskRevisionID": "source-v1-core-024",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          24
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "晚上提前半个小时入睡"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-025",
+      "taskRevisionID": "source-v1-core-025",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          25
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真擦一遍电脑屏幕"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-026",
+      "taskRevisionID": "source-v1-core-026",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          26
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "分享一个最近吃到的美食"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-027",
+      "taskRevisionID": "source-v1-core-027",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          27
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "倒垃圾"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-028",
+      "taskRevisionID": "source-v1-core-028",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          28
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把一件歪掉的东西扶正"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-029",
+      "taskRevisionID": "source-v1-core-029",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          29
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "拒绝一件事情"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-030",
+      "taskRevisionID": "source-v1-core-030",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          30
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "找到一个橙色的东西"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-031",
+      "taskRevisionID": "source-v1-core-031",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          31
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "闭上眼睛深呼吸5次"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-032",
+      "taskRevisionID": "source-v1-core-032",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          32
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把今天穿过的鞋子整齐摆好"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "shared-001",
+      "taskRevisionID": "source-v1-shared-001",
+      "eligibleTypes": [
+        "core",
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [
+          33
+        ],
+        "egg": [
+          53
+        ]
+      },
+      "sourceTextZh": [
+        "开一部收藏很久却没开始看的剧或漫画（两类均出现）",
+        "开一部收藏很久却没开始看的剧或漫画（两类均出现）"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-034",
+      "taskRevisionID": "source-v1-core-034",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          34
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "看一次日落"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-035",
+      "taskRevisionID": "source-v1-core-035",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          35
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "原谅自己一件事"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-036",
+      "taskRevisionID": "source-v1-core-036",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          36
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "用力耸起双肩再放下，重复10次"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-037",
+      "taskRevisionID": "source-v1-core-037",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          37
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "推荐一本喜欢的书"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-038",
+      "taskRevisionID": "source-v1-core-038",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          38
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "拍下一朵不认识的花并上网查询"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-039",
+      "taskRevisionID": "source-v1-core-039",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          39
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "清理一下手机壳"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-040",
+      "taskRevisionID": "source-v1-core-040",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          40
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "学一种新的折纸"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-041",
+      "taskRevisionID": "source-v1-core-041",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          41
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "上厕所的时候不看手机"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-042",
+      "taskRevisionID": "source-v1-core-042",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          42
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "换一张手机壁纸"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-043",
+      "taskRevisionID": "source-v1-core-043",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          43
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "查看未来3天的天气预报"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-044",
+      "taskRevisionID": "source-v1-core-044",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          44
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "晚饭后散步10分钟"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-045",
+      "taskRevisionID": "source-v1-core-045",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          45
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "泡个舒服的脚"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "heat-water-self-care",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-046",
+      "taskRevisionID": "source-v1-core-046",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          46
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "换床单"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-047",
+      "taskRevisionID": "source-v1-core-047",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          47
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "尝尝小卖部里的便宜零食"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-048",
+      "taskRevisionID": "source-v1-core-048",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          48
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "给天空拍张照"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-049",
+      "taskRevisionID": "source-v1-core-049",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          49
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "改掉自己的坏习惯，哪怕只有今天"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "behavior-change-pressure",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-050",
+      "taskRevisionID": "source-v1-core-050",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          50
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "天气炎热，吃一根雪糕降温"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "dietary-weather-guidance",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-051",
+      "taskRevisionID": "source-v1-core-051",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          51
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "学习一些急救知识"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "medical-first-aid-training",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-052",
+      "taskRevisionID": "source-v1-core-052",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          52
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "对任意玩家说一句莫名其妙的话"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "unfamiliar-person-contact",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-053",
+      "taskRevisionID": "source-v1-core-053",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          53
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "删除不常用的App"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "potential-user-data-deletion",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-054",
+      "taskRevisionID": "source-v1-core-054",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          54
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "比平时多吃一些蔬菜"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "dietary-health-guidance",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-055",
+      "taskRevisionID": "source-v1-core-055",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          55
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "问一位好友上顿饭吃了什么"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-056",
+      "taskRevisionID": "source-v1-core-056",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          56
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "吃一顿自己爱吃的大餐"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-057",
+      "taskRevisionID": "source-v1-core-057",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          57
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "吃饭细嚼慢咽"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-058",
+      "taskRevisionID": "source-v1-core-058",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          58
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "出去呼吸新鲜空气"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-059",
+      "taskRevisionID": "source-v1-core-059",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          59
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把手机亮度调到最低，玩一会儿手机"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "eye-strain-device-setting",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-060",
+      "taskRevisionID": "source-v1-core-060",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          60
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "活动一下眼珠"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "health-exercise-guidance",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-061",
+      "taskRevisionID": "source-v1-core-061",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          61
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "给朋友发一个莫名其妙的表情"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "social-boundary",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-062",
+      "taskRevisionID": "source-v1-core-062",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          62
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "说出自己最喜欢的颜色"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-063",
+      "taskRevisionID": "source-v1-core-063",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          63
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把手机调成静音"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "safety-critical-device-setting",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-064",
+      "taskRevisionID": "source-v1-core-064",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          64
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "搜索了解一个陌生知识"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-065",
+      "taskRevisionID": "source-v1-core-065",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          65
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "睡前做五个臀桥"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "physical-exercise-unsupervised",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-066",
+      "taskRevisionID": "source-v1-core-066",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          66
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "问朋友排便是否通畅"
+      ],
+      "decision": "blocked",
+      "reasonCode": "intrusive-bodily-privacy",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-067",
+      "taskRevisionID": "source-v1-core-067",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          67
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "分享今天的步数"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "health-activity-sharing",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-068",
+      "taskRevisionID": "source-v1-core-068",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          68
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "抚摸自己的嘴唇"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-069",
+      "taskRevisionID": "source-v1-core-069",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          69
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "试着描述一下自己"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-070",
+      "taskRevisionID": "source-v1-core-070",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          70
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "出门前认真打扮自己"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-071",
+      "taskRevisionID": "source-v1-core-071",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          71
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "给房间通风10分钟"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-072",
+      "taskRevisionID": "source-v1-core-072",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          72
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把鞋子刷干净"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-073",
+      "taskRevisionID": "source-v1-core-073",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          73
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "逛30分钟公园"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "outdoor-road-safety",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-074",
+      "taskRevisionID": "source-v1-core-074",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          74
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "去菜市场买一个想吃的水果"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "outdoor-road-safety",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-075",
+      "taskRevisionID": "source-v1-core-075",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          75
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "抹护发精油"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "product-allergy",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-076",
+      "taskRevisionID": "source-v1-core-076",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          76
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "在树荫下读一会儿书"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-077",
+      "taskRevisionID": "source-v1-core-077",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          77
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "带着水果去散步"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "outdoor-road-safety",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-078",
+      "taskRevisionID": "source-v1-core-078",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          78
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "学会打一种简单的绳结"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-079",
+      "taskRevisionID": "source-v1-core-079",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          79
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "用语音回复一条原本准备打字的消息"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-080",
+      "taskRevisionID": "source-v1-core-080",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          80
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "补充常用位置的纸巾"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-081",
+      "taskRevisionID": "source-v1-core-081",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          81
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "学一种新的系鞋带方法"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-082",
+      "taskRevisionID": "source-v1-core-082",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          82
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "醒来后不看手机，先喝水"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-083",
+      "taskRevisionID": "source-v1-core-083",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          83
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "清理一下自己的背包"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-084",
+      "taskRevisionID": "source-v1-core-084",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          84
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "听歌时跟随节奏晃动身体"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-085",
+      "taskRevisionID": "source-v1-core-085",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          85
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "写下自己最难被别人理解的偏好"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-086",
+      "taskRevisionID": "source-v1-core-086",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          86
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "用温水洗脸"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-087",
+      "taskRevisionID": "source-v1-core-087",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          87
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "扔掉一支坏掉的笔"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-088",
+      "taskRevisionID": "source-v1-core-088",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          88
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "擦掉一处污渍"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-089",
+      "taskRevisionID": "source-v1-core-089",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          89
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "查清衣服洗涤标签上一个图标的意思"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-090",
+      "taskRevisionID": "source-v1-core-090",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          90
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "清理抽屉"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-091",
+      "taskRevisionID": "source-v1-core-091",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          91
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真读一遍某个物品的说明书"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-092",
+      "taskRevisionID": "source-v1-core-092",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          92
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "涂护手霜"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-093",
+      "taskRevisionID": "source-v1-core-093",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          93
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "换上一双干净的袜子"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-094",
+      "taskRevisionID": "source-v1-core-094",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          94
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "在厨房里找到三种不同的气味"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "sensory-exposure-uncertain",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-095",
+      "taskRevisionID": "source-v1-core-095",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          95
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "用一种颜色形容此刻的心情"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-096",
+      "taskRevisionID": "source-v1-core-096",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          96
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "闭上眼睛休息5分钟"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-097",
+      "taskRevisionID": "source-v1-core-097",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          97
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真使用一次牙线"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "medical-technique-dental",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-098",
+      "taskRevisionID": "source-v1-core-098",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          98
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "删除不用的手机闹钟"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-099",
+      "taskRevisionID": "source-v1-core-099",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          99
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "一边听音乐一边打扫房间"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-100",
+      "taskRevisionID": "source-v1-core-100",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          100
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "吃饭前数一下食物有哪些颜色"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-101",
+      "taskRevisionID": "source-v1-core-101",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          101
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "换洗擦脸毛巾"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-102",
+      "taskRevisionID": "source-v1-core-102",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          102
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "听一首小时候很喜欢的歌"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-103",
+      "taskRevisionID": "source-v1-core-103",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          103
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "涂润唇膏"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-104",
+      "taskRevisionID": "source-v1-core-104",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          104
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "拍下一处让自己觉得很干净的地方"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-105",
+      "taskRevisionID": "source-v1-core-105",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          105
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "坐在地板上发呆一会儿"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-106",
+      "taskRevisionID": "source-v1-core-106",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          106
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "吃一顿不赶时间的饭"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-107",
+      "taskRevisionID": "source-v1-core-107",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          107
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "整理床头柜"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-108",
+      "taskRevisionID": "source-v1-core-108",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          108
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "凭记忆画出从家到便利店的路线"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "location-privacy",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-109",
+      "taskRevisionID": "source-v1-core-109",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          109
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "洗脸时洗一洗耳朵后面"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-110",
+      "taskRevisionID": "source-v1-core-110",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          110
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "给自己认真地梳梳头"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-111",
+      "taskRevisionID": "source-v1-core-111",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          111
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把常穿的鞋子擦干净"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-112",
+      "taskRevisionID": "source-v1-core-112",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          112
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "尝试一种平常不会吃的食物"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "food-allergy-dietary",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-113",
+      "taskRevisionID": "source-v1-core-113",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          113
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "19:00之后不进食"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "dietary-restriction",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-114",
+      "taskRevisionID": "source-v1-core-114",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          114
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "和任意NPC交换一张生活照片"
+      ],
+      "decision": "blocked",
+      "reasonCode": "third-party-photo-privacy",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-115",
+      "taskRevisionID": "source-v1-core-115",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          115
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "概括上一条短视频的内容"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-116",
+      "taskRevisionID": "source-v1-core-116",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          116
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "走够8000步（天气允许时）"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "physical-activity-road-safety",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-117",
+      "taskRevisionID": "source-v1-core-117",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          117
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "给任意订单写一条评价"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-118",
+      "taskRevisionID": "source-v1-core-118",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          118
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "向起床后见到的第一个人说早安"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "unfamiliar-person-contact",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-119",
+      "taskRevisionID": "source-v1-core-119",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          119
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "写一篇心情日记"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-120",
+      "taskRevisionID": "source-v1-core-120",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          120
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "下楼倒垃圾"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-121",
+      "taskRevisionID": "source-v1-core-121",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          121
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真闻一闻家里最香的东西"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "sensory-exposure-uncertain",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-122",
+      "taskRevisionID": "source-v1-core-122",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          122
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "向最近帮助过自己的人说谢谢"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-123",
+      "taskRevisionID": "source-v1-core-123",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          123
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "睡前把自己的枕头拍松"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-124",
+      "taskRevisionID": "source-v1-core-124",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          124
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "把家里所有电子产品充满电"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "electrical-fire-risk",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-125",
+      "taskRevisionID": "source-v1-core-125",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          125
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "向遇到的小朋友做鬼脸"
+      ],
+      "decision": "blocked",
+      "reasonCode": "unconsented-child-contact",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-126",
+      "taskRevisionID": "source-v1-core-126",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          126
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真地睡着并睡很长时间"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "sleep-health-guidance",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-127",
+      "taskRevisionID": "source-v1-core-127",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          127
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "拍一张蓝色的照片"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-128",
+      "taskRevisionID": "source-v1-core-128",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          128
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "去喝水，然后再喝一杯"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-129",
+      "taskRevisionID": "source-v1-core-129",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          129
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "列一个愿望清单"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-130",
+      "taskRevisionID": "source-v1-core-130",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          130
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "吃一个好看的水果"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-131",
+      "taskRevisionID": "source-v1-core-131",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          131
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真给自己涂一次身体乳"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "product-allergy",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-132",
+      "taskRevisionID": "source-v1-core-132",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          132
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "整理一下被褥"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-133",
+      "taskRevisionID": "source-v1-core-133",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          133
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "坚持一整天不抠鼻屎"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-134",
+      "taskRevisionID": "source-v1-core-134",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          134
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "计算自己每日需要的饮水量"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "health-calculation",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-135",
+      "taskRevisionID": "source-v1-core-135",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          135
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "整理柜子里的衣服"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-136",
+      "taskRevisionID": "source-v1-core-136",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          136
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "坚持一整天不翘二郎腿"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "health-posture-guidance",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-137",
+      "taskRevisionID": "source-v1-core-137",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          137
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "睡前列好明天要做的事"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-138",
+      "taskRevisionID": "source-v1-core-138",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          138
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真观察一只小鸟"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-139",
+      "taskRevisionID": "source-v1-core-139",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          139
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "记录自己现在的心情"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-140",
+      "taskRevisionID": "source-v1-core-140",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          140
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "试着评估自己的压力状态"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "mental-health-self-assessment",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-141",
+      "taskRevisionID": "source-v1-core-141",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          141
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "晒够20分钟太阳"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "sun-exposure-health",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-142",
+      "taskRevisionID": "source-v1-core-142",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          142
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "说出一个自己认为最美好的词"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-143",
+      "taskRevisionID": "source-v1-core-143",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          143
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真地给自己拍张照片"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-144",
+      "taskRevisionID": "source-v1-core-144",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          144
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "给一位很久没有联系的朋友发消息"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-145",
+      "taskRevisionID": "source-v1-core-145",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          145
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "向别人推荐自己最喜欢的食物"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-146",
+      "taskRevisionID": "source-v1-core-146",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          146
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "提醒一位好友该喝水了"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "health-guidance-to-other",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-147",
+      "taskRevisionID": "source-v1-core-147",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          147
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "回忆一件令自己开心的事"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-148",
+      "taskRevisionID": "source-v1-core-148",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          148
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "睡前把明天要穿的衣服整齐叠好"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-149",
+      "taskRevisionID": "source-v1-core-149",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          149
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "清洗今天用过的杯子"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-150",
+      "taskRevisionID": "source-v1-core-150",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          150
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "找一棵喜欢的树抱一会儿"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-151",
+      "taskRevisionID": "source-v1-core-151",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          151
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "清洗一件常用的物品"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-152",
+      "taskRevisionID": "source-v1-core-152",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          152
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真观察云朵的变化，拍下最喜欢的一朵"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "shared-002",
+      "taskRevisionID": "source-v1-shared-002",
+      "eligibleTypes": [
+        "core",
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [
+          153
+        ],
+        "egg": [
+          54
+        ]
+      },
+      "sourceTextZh": [
+        "认真模仿一种动物的叫声（两类均出现）",
+        "认真模仿一种动物的叫声（两类均出现）"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-154",
+      "taskRevisionID": "source-v1-core-154",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          154
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "听一听朋友的歌单"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-155",
+      "taskRevisionID": "source-v1-core-155",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          155
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "尝试吃饭时不看手机"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-156",
+      "taskRevisionID": "source-v1-core-156",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          156
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "向任意一人推荐最喜欢的动漫或电视剧"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-157",
+      "taskRevisionID": "source-v1-core-157",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          157
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "说出自己平时最常说的一句话"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-158",
+      "taskRevisionID": "source-v1-core-158",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          158
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "了解一下如何剪Vlog"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-159",
+      "taskRevisionID": "source-v1-core-159",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          159
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "打开窗户，感受一会儿风"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-160",
+      "taskRevisionID": "source-v1-core-160",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          160
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "近距离观察一棵植物一会儿"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-161",
+      "taskRevisionID": "source-v1-core-161",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          161
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "在任意地方散一会儿步"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "outdoor-road-safety",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-162",
+      "taskRevisionID": "source-v1-core-162",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          162
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "看一个科普类长视频"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-163",
+      "taskRevisionID": "source-v1-core-163",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          163
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认真睡个午觉"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "shared-003",
+      "taskRevisionID": "source-v1-shared-003",
+      "eligibleTypes": [
+        "core",
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [
+          164
+        ],
+        "egg": [
+          55
+        ]
+      },
+      "sourceTextZh": [
+        "从三个不同角度拍一件物品（两类均出现）",
+        "从三个不同角度拍一件物品（两类均出现）"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "core-165",
+      "taskRevisionID": "source-v1-core-165",
+      "eligibleTypes": [
+        "core"
+      ],
+      "sourceMembership": {
+        "core": [
+          165
+        ],
+        "egg": []
+      },
+      "sourceTextZh": [
+        "认识一种非物质文化遗产"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "shared-004",
+      "taskRevisionID": "source-v1-shared-004",
+      "eligibleTypes": [
+        "core",
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [
+          166
+        ],
+        "egg": [
+          56
+        ]
+      },
+      "sourceTextZh": [
+        "给绿植擦擦叶子（两类均出现）",
+        "给绿植擦擦叶子（两类均出现）"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-001",
+      "taskRevisionID": "source-v1-egg-001",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          1
+        ]
+      },
+      "sourceTextZh": [
+        "写下一件最近独自完成的事"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-002",
+      "taskRevisionID": "source-v1-egg-002",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          2
+        ]
+      },
+      "sourceTextZh": [
+        "在公园收集3种不同的树叶"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "outdoor-road-safety",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-003",
+      "taskRevisionID": "source-v1-egg-003",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          3
+        ]
+      },
+      "sourceTextZh": [
+        "拍一张自己大笑的照片"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-004",
+      "taskRevisionID": "source-v1-egg-004",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          4
+        ]
+      },
+      "sourceTextZh": [
+        "亲一下自己的膝盖或肩膀"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-005",
+      "taskRevisionID": "source-v1-egg-005",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          5
+        ]
+      },
+      "sourceTextZh": [
+        "留意路边的小动物或小虫子，安静观察它们"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-006",
+      "taskRevisionID": "source-v1-egg-006",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          6
+        ]
+      },
+      "sourceTextZh": [
+        "把一个掉在地上的垃圾捡进垃圾桶"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "unknown-waste-contact",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-007",
+      "taskRevisionID": "source-v1-egg-007",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          7
+        ]
+      },
+      "sourceTextZh": [
+        "找一种最适合擦屁股的树叶"
+      ],
+      "decision": "blocked",
+      "reasonCode": "hygiene-medical-risk",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-008",
+      "taskRevisionID": "source-v1-egg-008",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          8
+        ]
+      },
+      "sourceTextZh": [
+        "想办法测试一下自己的大便有多重"
+      ],
+      "decision": "blocked",
+      "reasonCode": "bodily-waste-hygiene",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-009",
+      "taskRevisionID": "source-v1-egg-009",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          9
+        ]
+      },
+      "sourceTextZh": [
+        "搓热双手，揉揉自己的肚子"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-010",
+      "taskRevisionID": "source-v1-egg-010",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          10
+        ]
+      },
+      "sourceTextZh": [
+        "查查某件日常用品的发明者"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-011",
+      "taskRevisionID": "source-v1-egg-011",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          11
+        ]
+      },
+      "sourceTextZh": [
+        "写下一句现在最想听到的话"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-012",
+      "taskRevisionID": "source-v1-egg-012",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          12
+        ]
+      },
+      "sourceTextZh": [
+        "找到卧室里最香的东西"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-013",
+      "taskRevisionID": "source-v1-egg-013",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          13
+        ]
+      },
+      "sourceTextZh": [
+        "晒5分钟太阳"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "sun-exposure-health",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-014",
+      "taskRevisionID": "source-v1-egg-014",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          14
+        ]
+      },
+      "sourceTextZh": [
+        "说出正在穿的袜子的3个优点"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-015",
+      "taskRevisionID": "source-v1-egg-015",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          15
+        ]
+      },
+      "sourceTextZh": [
+        "在床上像毛毛虫一样蠕动"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-016",
+      "taskRevisionID": "source-v1-egg-016",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          16
+        ]
+      },
+      "sourceTextZh": [
+        "今日步数达到5000步"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "physical-activity-road-safety",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-017",
+      "taskRevisionID": "source-v1-egg-017",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          17
+        ]
+      },
+      "sourceTextZh": [
+        "用下巴刷下一条视频"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-018",
+      "taskRevisionID": "source-v1-egg-018",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          18
+        ]
+      },
+      "sourceTextZh": [
+        "亲吻一下自己的手腕"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-019",
+      "taskRevisionID": "source-v1-egg-019",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          19
+        ]
+      },
+      "sourceTextZh": [
+        "在衣服里藏些零钱，过两天拿出来"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-020",
+      "taskRevisionID": "source-v1-egg-020",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          20
+        ]
+      },
+      "sourceTextZh": [
+        "轻轻按摩自己的太阳穴"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "health-self-massage",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-021",
+      "taskRevisionID": "source-v1-egg-021",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          21
+        ]
+      },
+      "sourceTextZh": [
+        "给玩偶或宠物拍一张证件照"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-022",
+      "taskRevisionID": "source-v1-egg-022",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          22
+        ]
+      },
+      "sourceTextZh": [
+        "不打开手机，和手机深情对视1分钟"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-023",
+      "taskRevisionID": "source-v1-egg-023",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          23
+        ]
+      },
+      "sourceTextZh": [
+        "亲吻一下自己的手臂"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-024",
+      "taskRevisionID": "source-v1-egg-024",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          24
+        ]
+      },
+      "sourceTextZh": [
+        "坚持一整天不揉眼睛"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-025",
+      "taskRevisionID": "source-v1-egg-025",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          25
+        ]
+      },
+      "sourceTextZh": [
+        "在家里找到一个不认识的外文单词，并查清意思"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-026",
+      "taskRevisionID": "source-v1-egg-026",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          26
+        ]
+      },
+      "sourceTextZh": [
+        "躲进衣柜里"
+      ],
+      "decision": "blocked",
+      "reasonCode": "entrapment-risk",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-027",
+      "taskRevisionID": "source-v1-egg-027",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          27
+        ]
+      },
+      "sourceTextZh": [
+        "把头埋进衣柜里10秒"
+      ],
+      "decision": "blocked",
+      "reasonCode": "entrapment-risk",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-028",
+      "taskRevisionID": "source-v1-egg-028",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          28
+        ]
+      },
+      "sourceTextZh": [
+        "吃零食前为它举行一个开袋仪式"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-029",
+      "taskRevisionID": "source-v1-egg-029",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          29
+        ]
+      },
+      "sourceTextZh": [
+        "给某个水果拍张证件照"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-030",
+      "taskRevisionID": "source-v1-egg-030",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          30
+        ]
+      },
+      "sourceTextZh": [
+        "用慢动作做一遍经常做的事情"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-031",
+      "taskRevisionID": "source-v1-egg-031",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          31
+        ]
+      },
+      "sourceTextZh": [
+        "给便利店雪糕做一次锐评"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-032",
+      "taskRevisionID": "source-v1-egg-032",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          32
+        ]
+      },
+      "sourceTextZh": [
+        "用被子把自己卷起来"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "overheating-entrapment-uncertain",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-033",
+      "taskRevisionID": "source-v1-egg-033",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          33
+        ]
+      },
+      "sourceTextZh": [
+        "用鼻子在空气中写一遍自己的名字"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-034",
+      "taskRevisionID": "source-v1-egg-034",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          34
+        ]
+      },
+      "sourceTextZh": [
+        "观察自己走路时先迈哪只脚"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-035",
+      "taskRevisionID": "source-v1-egg-035",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          35
+        ]
+      },
+      "sourceTextZh": [
+        "用屁股关门"
+      ],
+      "decision": "blocked",
+      "reasonCode": "injury-or-property-damage",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-036",
+      "taskRevisionID": "source-v1-egg-036",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          36
+        ]
+      },
+      "sourceTextZh": [
+        "数一数家里有多少双鞋"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-037",
+      "taskRevisionID": "source-v1-egg-037",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          37
+        ]
+      },
+      "sourceTextZh": [
+        "找到一个紫色的东西"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-038",
+      "taskRevisionID": "source-v1-egg-038",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          38
+        ]
+      },
+      "sourceTextZh": [
+        "狠狠地伸个懒腰"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "physical-exercise-unsupervised",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-039",
+      "taskRevisionID": "source-v1-egg-039",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          39
+        ]
+      },
+      "sourceTextZh": [
+        "说出自己的一个优点"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-040",
+      "taskRevisionID": "source-v1-egg-040",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          40
+        ]
+      },
+      "sourceTextZh": [
+        "用舌头舔自己的胳膊肘"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "hygiene-uncertain",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-041",
+      "taskRevisionID": "source-v1-egg-041",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          41
+        ]
+      },
+      "sourceTextZh": [
+        "给自己梳一个大背头"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-042",
+      "taskRevisionID": "source-v1-egg-042",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          42
+        ]
+      },
+      "sourceTextZh": [
+        "奖励自己一个小蛋糕"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-043",
+      "taskRevisionID": "source-v1-egg-043",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          43
+        ]
+      },
+      "sourceTextZh": [
+        "用鼻子开灯"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "physical-injury-or-electric-risk",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-044",
+      "taskRevisionID": "source-v1-egg-044",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          44
+        ]
+      },
+      "sourceTextZh": [
+        "洗澡的时候吃一个水果"
+      ],
+      "decision": "blocked",
+      "reasonCode": "slip-hygiene-risk",
+      "contentStatus": "blocked",
+      "safetyStatus": "blocked",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-045",
+      "taskRevisionID": "source-v1-egg-045",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          45
+        ]
+      },
+      "sourceTextZh": [
+        "尝试把一杯水倒到最满"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "spill-burn-risk",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-046",
+      "taskRevisionID": "source-v1-egg-046",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          46
+        ]
+      },
+      "sourceTextZh": [
+        "隆重地感谢一件自己的日常用品"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-047",
+      "taskRevisionID": "source-v1-egg-047",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          47
+        ]
+      },
+      "sourceTextZh": [
+        "假装自己是今天的天气预报员"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-048",
+      "taskRevisionID": "source-v1-egg-048",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          48
+        ]
+      },
+      "sourceTextZh": [
+        "立刻喝一杯温水"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-049",
+      "taskRevisionID": "source-v1-egg-049",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          49
+        ]
+      },
+      "sourceTextZh": [
+        "模仿自己最常用的表情包"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-050",
+      "taskRevisionID": "source-v1-egg-050",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          50
+        ]
+      },
+      "sourceTextZh": [
+        "用力挠一下自己的屁股"
+      ],
+      "decision": "reviewing",
+      "reasonCode": "hygiene-uncertain",
+      "contentStatus": "reviewing",
+      "safetyStatus": "reviewing",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-051",
+      "taskRevisionID": "source-v1-egg-051",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          51
+        ]
+      },
+      "sourceTextZh": [
+        "用很正式的语气介绍自己的拖鞋"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    },
+    {
+      "canonicalTaskID": "egg-052",
+      "taskRevisionID": "source-v1-egg-052",
+      "eligibleTypes": [
+        "egg"
+      ],
+      "sourceMembership": {
+        "core": [],
+        "egg": [
+          52
+        ]
+      },
+      "sourceTextZh": [
+        "吃饭前严格按照七步洗手法洗一次手"
+      ],
+      "decision": "approved",
+      "reasonCode": "low-risk-self-directed",
+      "contentStatus": "approved",
+      "safetyStatus": "approved",
+      "licenseStatus": "verified-user-owned",
+      "localizationStatus": "zh-ready",
+      "englishStatus": "pending"
+    }
+  ]
+}

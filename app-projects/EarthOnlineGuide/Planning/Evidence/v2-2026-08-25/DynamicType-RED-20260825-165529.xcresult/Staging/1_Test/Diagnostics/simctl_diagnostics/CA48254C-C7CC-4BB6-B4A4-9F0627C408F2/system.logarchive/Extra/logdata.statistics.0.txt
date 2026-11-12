@@ -1,0 +1,578 @@
+--- !logd statistics record
+type  : File Rotate
+file  : Special/0000000000000001.tracev3
+time  : 2026-08-25 15:12:04+0800
+total : 14178111
+procs :
+    - [    5086742,  35.9, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [    1266720,   8.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/lsd ]
+    - [    1036284,   7.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assetsubscriptiond ]
+    - [    1032683,   7.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [    1029289,   7.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/containermanagerd ]
+    - [     750288,   5.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd ]
+    - [     624341,   4.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/siriknowledged ]
+    - [     432622,   3.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     343441,   2.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd ]
+    - [     303459,   2.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     215882,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     214315,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [     210448,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/modelcatalogd ]
+    - [     199856,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/Speech.framework/XPCServices/localspeechrecognition.xpc/localspeechrecognition ]
+    - [     153649,   1.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     131775,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [     101837,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/routined ]
+    - [      94087,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd ]
+    - [      71508,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd ]
+    - [      56241,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DataMigration.framework/XPCServices/com.apple.datamigrator.xpc/com.apple.datamigrator ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 15:12:16+0800
+total : 10687286
+procs :
+    - [    1382183,  12.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [    1230469,  11.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/PosterBoard.app/PosterBoard ]
+    - [    1146501,  10.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/lsd ]
+    - [     745379,   7.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     625124,   5.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [     576504,   5.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     470096,   4.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd ]
+    - [     370627,   3.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/TCC.framework/Support/tccd ]
+    - [     337637,   3.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/trustd ]
+    - [     268876,   2.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     266560,   2.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/Contacts.framework/Support/contactsd ]
+    - [     254212,   2.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     189908,   1.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/swcd ]
+    - [     171629,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/HealthKit.framework/healthd ]
+    - [     153626,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assetsubscriptiond ]
+    - [     117022,   1.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd ]
+    - [     109348,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/siriknowledged ]
+    - [     105916,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/linkd ]
+    - [     105291,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/modelmanagerd ]
+    - [      93075,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/remindd ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Special/0000000000000002.tracev3
+time  : 2026-08-25 15:12:26+0800
+total : 8685291
+procs :
+    - [    2014652,  23.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [    1305328,  15.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     720989,   8.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     662172,   7.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assetsubscriptiond ]
+    - [     621551,   7.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [     540834,   6.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     509225,   5.9, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     368736,   4.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/WidgetRenderer_Default.app/WidgetRenderer_Default ]
+    - [     264117,   3.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MobileAssetDaemon.framework/XPCServices/com.apple.MobileAsset.DownloadService.Builtin.xpc/com.apple.MobileAsset.DownloadService.Builtin ]
+    - [     258329,   3.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [     129650,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd ]
+    - [     122586,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CascadeSets.framework/XPCServices/SetStoreUpdateService.xpc/SetStoreUpdateService ]
+    - [     107590,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     106591,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/modelcatalogd ]
+    - [      71442,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/sharingd ]
+    - [      65121,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/HealthKit.framework/healthd ]
+    - [      60410,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/linkd ]
+    - [      57517,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DataMigration.framework/XPCServices/com.apple.migrationpluginwrapper.xpc/com.apple.migrationpluginwrapper ]
+    - [      51237,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DataMigration.framework/XPCServices/com.apple.datamigrator.xpc/com.apple.datamigrator ]
+    - [      40653,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FitnessIntelligenceDaemonCore.framework/XPCServices/FitnessIntelligenceSnapshotService.xpc/FitnessIntelligenceSnapshotService ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Persist/0000000000000001.tracev3
+time  : 2026-08-25 15:12:44+0800
+total : 33225136
+procs :
+    - [    2913348,   8.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/PosterBoard.app/PosterBoard ]
+    - [    2511817,   7.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [    2081589,   6.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/AssetsLibrary.framework/Support/assetsd ]
+    - [    2033907,   6.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1836266,   5.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [    1736059,   5.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/sbin/launchd_sim ]
+    - [    1315924,   4.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [    1156257,   3.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [     968602,   2.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     950888,   2.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FitnessIntelligenceDaemonCore.framework/XPCServices/FitnessIntelligenceSnapshotService.xpc/FitnessIntelligenceSnapshotService ]
+    - [     793249,   2.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/trustd ]
+    - [     679259,   2.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/TCC.framework/Support/tccd ]
+    - [     667031,   2.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/HealthKit.framework/healthd ]
+    - [     634659,   1.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SeymourServices.framework/fitcored ]
+    - [     631801,   1.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     580287,   1.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd ]
+    - [     522130,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/containermanagerd ]
+    - [     425504,   1.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ApplePushService.framework/apsd ]
+    - [     419693,   1.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [     409909,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/StreamingExtractor.framework/XPCServices/STExtractionService.xpc/STExtractionService ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 15:12:46+0800
+total : 12205440
+procs :
+    - [    3032387,  24.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [    1695621,  13.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/PosterBoard.app/PosterBoard ]
+    - [    1033659,   8.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/HealthKit.framework/healthd ]
+    - [     932335,   7.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     505496,   4.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     347776,   2.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FitnessIntelligenceDaemonCore.framework/XPCServices/FitnessIntelligenceSnapshotService.xpc/FitnessIntelligenceSnapshotService ]
+    - [     344940,   2.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     322519,   2.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/WorkflowKit.framework/XPCServices/BackgroundShortcutRunner.xpc/BackgroundShortcutRunner ]
+    - [     268339,   2.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     223948,   1.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileCal.app/PlugIns/CalendarWidgetExtension.appex/CalendarWidgetExtension ]
+    - [     212154,   1.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [     199624,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/TCC.framework/Support/tccd ]
+    - [     176633,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [     162336,   1.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted ]
+    - [     146415,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/iconservicesagent ]
+    - [     127972,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/MapKit.framework/XPCServices/com.apple.MapKit.SnapshotService.xpc/com.apple.MapKit.SnapshotService ]
+    - [     116611,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd ]
+    - [     114159,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd ]
+    - [     105010,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/siriknowledged ]
+    - [     104452,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Special/0000000000000003.tracev3
+time  : 2026-08-25 15:14:50+0800
+total : 8817868
+procs :
+    - [    1354296,  15.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd ]
+    - [    1344075,  15.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [    1135816,  12.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     900590,  10.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [     777813,   8.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/triald ]
+    - [     500268,   5.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FitnessIntelligenceDaemonCore.framework/XPCServices/FitnessIntelligenceSnapshotService.xpc/FitnessIntelligenceSnapshotService ]
+    - [     405813,   4.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/HealthKit.framework/healthd ]
+    - [     385168,   4.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assetsubscriptiond ]
+    - [     304592,   3.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     232170,   2.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/XPCServices/com.apple.siri.embeddedspeech.xpc/com.apple.siri.embeddedspeech ]
+    - [     137031,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/modelcatalogd ]
+    - [     129816,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/Health.app/PlugIns/HealthBalanceWidgetExtension.appex/HealthBalanceWidgetExtension ]
+    - [     116408,   1.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MobileAssetDaemon.framework/XPCServices/com.apple.MobileAsset.DownloadService.Builtin.xpc/com.apple.MobileAsset.DownloadService.Builtin ]
+    - [      86011,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/WidgetRenderer_Default.app/WidgetRenderer_Default ]
+    - [      84632,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [      68635,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [      59856,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileSafari.app/PlugIns/SafariWidgetExtension.appex/SafariWidgetExtension ]
+    - [      53897,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/siriknowledged ]
+    - [      43505,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [      40096,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileCal.app/PlugIns/CalendarWidgetExtension.appex/CalendarWidgetExtension ]
+
+--- !logd snapshot record
+client : /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+time   : 2026-08-25 15:27:06+0800
+flags  : 0x3
+
+--- !logd snapshot record
+client : /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/bin/log
+time   : 2026-08-25 15:30:49+0800
+flags  : 0x3
+
+--- !logd statistics record
+type  : File Rotate
+file  : Special/0000000000000006.tracev3
+time  : 2026-08-25 15:32:00+0800
+total : 10766854
+procs :
+    - [    2184152,  20.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1029236,   9.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     831993,   7.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     830633,   7.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [     711398,   6.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [     509245,   4.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd ]
+    - [     455384,   4.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/modelcatalogd ]
+    - [     408924,   3.8, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     372259,   3.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     323940,   3.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/containermanagerd ]
+    - [     234765,   2.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assetsubscriptiond ]
+    - [     219754,   2.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd ]
+    - [     217350,   2.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     210798,   2.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [     202682,   1.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd ]
+    - [     157997,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     131238,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/WidgetRenderer_Default.app/WidgetRenderer_Default ]
+    - [     113008,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/routined ]
+    - [      81935,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/sharingd ]
+    - [      74070,   0.7, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/CB3CD0F6-C601-444E-A638-DF56297D2111/EarthOnlineGuide.app/EarthOnlineGuide ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 15:32:00+0800
+total : 9563119
+procs :
+    - [    1911496,  20.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1735828,  18.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     523678,   5.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd ]
+    - [     454765,   4.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/PosterBoard.app/PosterBoard ]
+    - [     370595,   3.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [     319571,   3.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/TCC.framework/Support/tccd ]
+    - [     297987,   3.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     250209,   2.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd ]
+    - [     224867,   2.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     217430,   2.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/CB3CD0F6-C601-444E-A638-DF56297D2111/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     184979,   1.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/swcd ]
+    - [     144698,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     133967,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     126735,   1.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     124270,   1.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/HealthKit.framework/healthd ]
+    - [     116360,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [     111676,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/TextInput/kbd ]
+    - [     101419,   1.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assetsubscriptiond ]
+    - [      97459,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [      85134,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd ]
+
+--- !logd snapshot record
+client : /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/bin/log
+time   : 2026-08-25 15:32:29+0800
+flags  : 0x3
+
+--- !logd statistics record
+type  : File Rotate
+file  : Persist/0000000000000004.tracev3
+time  : 2026-08-25 15:38:52+0800
+total : 34988503
+procs :
+    - [    7360326,  21.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    2486329,   7.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [    1974062,   5.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1898703,   5.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/sbin/launchd_sim ]
+    - [    1627825,   4.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [    1425267,   4.1, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/208095CA-A99A-48C2-836B-0AFFD43593B1/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1159940,   3.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [    1059530,   3.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [     923277,   2.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/CB3CD0F6-C601-444E-A638-DF56297D2111/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     888611,   2.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/Applications/PosterBoard.app/PosterBoard ]
+    - [     843393,   2.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/193C5172-7B96-4F79-A26B-AEE979FB8728/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     837791,   2.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/6EE6852F-7CAC-4E31-A686-49571AF8E5F2/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     832862,   2.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     545625,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd ]
+    - [     461851,   1.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/322A7219-CCA4-4233-AA6F-70EEC96C5BE0/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     458153,   1.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     422198,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/TCC.framework/Support/tccd ]
+    - [     361449,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ApplePushService.framework/apsd ]
+    - [     332163,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     311465,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 15:39:06+0800
+total : 11096410
+procs :
+    - [    4508316,  40.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1499686,  13.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     675193,   6.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     468500,   4.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/208095CA-A99A-48C2-836B-0AFFD43593B1/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     378331,   3.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/swcd ]
+    - [     344978,   3.1, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/193C5172-7B96-4F79-A26B-AEE979FB8728/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     340469,   3.1, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/6EE6852F-7CAC-4E31-A686-49571AF8E5F2/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     288192,   2.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/3C2DEF9E-A98B-416B-8D4A-AE6FF4932642/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     268452,   2.4, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/dtdeviceinfod ]
+    - [     231376,   2.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     186848,   1.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [     168712,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     154718,   1.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/CB3CD0F6-C601-444E-A638-DF56297D2111/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     125376,   1.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/TextInput/kbd ]
+    - [     113496,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     112884,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     109476,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/MapKit.framework/XPCServices/com.apple.MapKit.SnapshotService.xpc/com.apple.MapKit.SnapshotService ]
+    - [      99231,   0.9, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/322A7219-CCA4-4233-AA6F-70EEC96C5BE0/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      76336,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted ]
+    - [      56120,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Special/0000000000000007.tracev3
+time  : 2026-08-25 15:42:04+0800
+total : 15857752
+procs :
+    - [    9303120,  58.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1232546,   7.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1044078,   6.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     772290,   4.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     760243,   4.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd ]
+    - [     332144,   2.1, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     182368,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [     163951,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/lsd ]
+    - [     123334,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     120663,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/installd ]
+    - [     109745,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/siriknowledged ]
+    - [      76715,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [      74285,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [      65172,   0.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/8720B722-A0EC-4948-89D9-3FA7C46D6178/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      55236,   0.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/appprotectiond ]
+    - [      50708,   0.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SleepDaemon.framework/sleepd ]
+    - [      49854,   0.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/6EE6852F-7CAC-4E31-A686-49571AF8E5F2/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      49645,   0.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/193C5172-7B96-4F79-A26B-AEE979FB8728/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      49313,   0.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/3C2DEF9E-A98B-416B-8D4A-AE6FF4932642/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      48723,   0.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/B5210152-D3CE-41AA-BBDC-1484AF49A10B/EarthOnlineGuide.app/EarthOnlineGuide ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 15:54:24+0800
+total : 11367936
+procs :
+    - [    4785239,  42.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1373270,  12.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     720023,   6.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/8720B722-A0EC-4948-89D9-3FA7C46D6178/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     652969,   5.7, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/B5210152-D3CE-41AA-BBDC-1484AF49A10B/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     565373,   5.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     390059,   3.4, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/dtdeviceinfod ]
+    - [     337478,   3.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/swcd ]
+    - [     210808,   1.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     185704,   1.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/3C2DEF9E-A98B-416B-8D4A-AE6FF4932642/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     177044,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     172359,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     170176,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     166961,   1.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/7599DEA0-DEAC-4A2A-9CF2-D5DEDF65C3D6/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     164541,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/MapKit.framework/XPCServices/com.apple.MapKit.SnapshotService.xpc/com.apple.MapKit.SnapshotService ]
+    - [     158064,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [     107609,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [      89514,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/TextInput/kbd ]
+    - [      72056,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted ]
+    - [      60417,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub ]
+    - [      48368,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Persist/0000000000000005.tracev3
+time  : 2026-08-25 16:10:12+0800
+total : 39658047
+procs :
+    - [    7156278,  18.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    3057312,   7.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [    2207074,   5.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [    2137557,   5.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/sbin/launchd_sim ]
+    - [    2093063,   5.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1785354,   4.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/8720B722-A0EC-4948-89D9-3FA7C46D6178/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1631151,   4.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [    1570541,   4.0, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/B5210152-D3CE-41AA-BBDC-1484AF49A10B/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1486511,   3.7, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/4B6DF82B-067F-4BBC-B1DD-BF9952C087A3/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1425699,   3.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/3C2DEF9E-A98B-416B-8D4A-AE6FF4932642/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1390290,   3.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [    1160244,   2.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     913874,   2.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd ]
+    - [     862774,   2.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/AEF63381-0BC2-432C-956F-96D174388537/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     860985,   2.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/CCEAD187-5414-41DD-9A7A-ED9C6FDA9172/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     792607,   2.0, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/C62C2766-FA27-4C6A-996C-0CA67180CABA/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     792307,   2.0, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/4EC3C77E-10FB-46B8-858B-CB22B08550A0/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     779306,   2.0, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/ABA33E83-1AD1-43DC-8AB6-4879EA1EB16A/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     709490,   1.8, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/dtdeviceinfod ]
+    - [     668365,   1.7, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/7599DEA0-DEAC-4A2A-9CF2-D5DEDF65C3D6/EarthOnlineGuide.app/EarthOnlineGuide ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Special/0000000000000008.tracev3
+time  : 2026-08-25 16:12:21+0800
+total : 13187079
+procs :
+    - [    5612528,  42.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1344418,  10.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1144082,   8.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     875278,   6.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     866370,   6.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd ]
+    - [     386144,   2.9, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     250653,   1.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     198485,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [     194626,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [     186646,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/lsd ]
+    - [     137296,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/installd ]
+    - [     113546,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/siriknowledged ]
+    - [      92644,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [      62611,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/appprotectiond ]
+    - [      55545,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SleepDaemon.framework/sleepd ]
+    - [      54796,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/containermanagerd_system ]
+    - [      52359,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ClipServices.framework/clipserviced ]
+    - [      51315,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstored ]
+    - [      51032,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SessionCore.framework/Support/liveactivitiesd ]
+    - [      50906,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/routined ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 16:12:22+0800
+total : 11002882
+procs :
+    - [    3809476,  34.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1464372,  13.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     710696,   6.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     493284,   4.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/swcd ]
+    - [     420510,   3.8, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/4B6DF82B-067F-4BBC-B1DD-BF9952C087A3/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     316200,   2.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     312376,   2.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     278789,   2.5, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/dtdeviceinfod ]
+    - [     246714,   2.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/AEF63381-0BC2-432C-956F-96D174388537/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     218182,   2.0, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/CCEAD187-5414-41DD-9A7A-ED9C6FDA9172/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     197141,   1.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     189245,   1.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     170328,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [     165422,   1.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/4EC3C77E-10FB-46B8-858B-CB22B08550A0/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     165316,   1.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/C62C2766-FA27-4C6A-996C-0CA67180CABA/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     163878,   1.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/MapKit.framework/XPCServices/com.apple.MapKit.SnapshotService.xpc/com.apple.MapKit.SnapshotService ]
+    - [     160273,   1.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/B80304F8-11BD-4DC4-B512-13B770C4D118/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     157254,   1.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/ABA33E83-1AD1-43DC-8AB6-4879EA1EB16A/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      80442,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub ]
+    - [      79816,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 16:20:36+0800
+total : 11350412
+procs :
+    - [    3041540,  26.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1536741,  13.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1364760,  12.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     507620,   4.5, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/dtdeviceinfod ]
+    - [     490163,   4.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/swcd ]
+    - [     437115,   3.9, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/C777E2D0-8619-4603-8E03-15B3F304EAFE/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     428698,   3.8, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/FE67BF5E-AA6A-44EF-813A-5DAC677025FC/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     370297,   3.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/A938724D-6365-4797-A310-52904BD10456/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     360580,   3.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/34D43396-21F7-4A86-90F6-D4246F2FD425/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     358871,   3.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/E429310C-E384-475D-8C7E-233459630AC4/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     291864,   2.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     241617,   2.1, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/83C8A936-1670-40C5-BE85-CBBEAF680F1D/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     178770,   1.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/6A092521-545D-40C9-BFF7-2A5F6E986924/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     178304,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [     158112,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     156338,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [      77148,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/TextInput/kbd ]
+    - [      71536,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted ]
+    - [      71453,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [      68413,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Special/0000000000000009.tracev3
+time  : 2026-08-25 16:29:59+0800
+total : 13303283
+procs :
+    - [    6208064,  46.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1372934,  10.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     932596,   7.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     875262,   6.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     853107,   6.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd ]
+    - [     378490,   2.8, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     183108,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/lsd ]
+    - [     178096,   1.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [     136196,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/installd ]
+    - [     119585,   0.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [     109708,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/siriknowledged ]
+    - [     106601,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [      92735,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [      62820,   0.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/80BF9ADE-5FA2-4E58-9F91-8A0304F4F159/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      62764,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/appprotectiond ]
+    - [      56636,   0.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/C777E2D0-8619-4603-8E03-15B3F304EAFE/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      55893,   0.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/FE67BF5E-AA6A-44EF-813A-5DAC677025FC/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      55312,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SleepDaemon.framework/sleepd ]
+    - [      54941,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SessionCore.framework/Support/liveactivitiesd ]
+    - [      54879,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/containermanagerd_system ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Persist/0000000000000006.tracev3
+time  : 2026-08-25 16:31:24+0800
+total : 43175061
+procs :
+    - [    7967056,  18.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/80BF9ADE-5FA2-4E58-9F91-8A0304F4F159/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    4804441,  11.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    2735592,   6.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [    1956777,   4.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1953768,   4.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/D21F4530-01E0-46B9-A341-DA11181076D3/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1795198,   4.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [    1712415,   4.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [    1653764,   3.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/sbin/launchd_sim ]
+    - [    1529441,   3.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/C777E2D0-8619-4603-8E03-15B3F304EAFE/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1450693,   3.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/FE67BF5E-AA6A-44EF-813A-5DAC677025FC/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1374570,   3.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/A938724D-6365-4797-A310-52904BD10456/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1372902,   3.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/34D43396-21F7-4A86-90F6-D4246F2FD425/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1362716,   3.2, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/E429310C-E384-475D-8C7E-233459630AC4/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1211603,   2.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [    1109054,   2.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/83C8A936-1670-40C5-BE85-CBBEAF680F1D/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     904289,   2.1, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/6A092521-545D-40C9-BFF7-2A5F6E986924/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     896303,   2.1, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/dtdeviceinfod ]
+    - [     840951,   1.9, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     777054,   1.8, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/B80304F8-11BD-4DC4-B512-13B770C4D118/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     736159,   1.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 16:32:17+0800
+total : 11900758
+procs :
+    - [    3007337,  25.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    2314878,  19.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/80BF9ADE-5FA2-4E58-9F91-8A0304F4F159/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [    1374308,  11.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [     984803,   8.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     753425,   6.3, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/C5B19F8E-2642-4B6B-8DE3-8E0B455AF9A0/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     706586,   5.9, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/D21F4530-01E0-46B9-A341-DA11181076D3/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     634811,   5.3, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/dtdeviceinfod ]
+    - [     301038,   2.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/swcd ]
+    - [     218880,   1.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     189621,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     186648,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     163878,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/MapKit.framework/XPCServices/com.apple.MapKit.SnapshotService.xpc/com.apple.MapKit.SnapshotService ]
+    - [     128844,   1.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     125656,   1.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [      62221,   0.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/1AFDF8C1-546D-4E14-9077-B5565095A859/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      51640,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted ]
+    - [      47337,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [      44168,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub ]
+    - [      36556,   0.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/TextInput/kbd ]
+    - [      32226,   0.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+
+--- !logd statistics record
+type  : File Rotate
+file  : Special/000000000000000a.tracev3
+time  : 2026-08-25 16:41:23+0800
+total : 15407453
+procs :
+    - [    9201320,  59.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1184804,   7.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     892138,   5.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     720804,   4.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     713147,   4.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd ]
+    - [     310687,   2.0, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/CoreSimulatorBridge ]
+    - [     210496,   1.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed ]
+    - [     152538,   1.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/lsd ]
+    - [     126121,   0.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/siriknowledged ]
+    - [     112372,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/installd ]
+    - [      89250,   0.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/C5B19F8E-2642-4B6B-8DE3-8E0B455AF9A0/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      87780,   0.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/E08BFAE5-D7A6-49B6-93F3-E161F3B4C8D9/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      87305,   0.6, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/0BAEA7AC-DFCC-4A9A-84E9-8ECAD45C7E3C/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      86884,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [      81705,   0.5, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/D21F4530-01E0-46B9-A341-DA11181076D3/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      75427,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [      75236,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod ]
+    - [      57241,   0.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/A48835AC-5440-4C01-A41B-C81246D69413/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [      51319,   0.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/appprotectiond ]
+    - [      47245,   0.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SleepDaemon.framework/sleepd ]
+
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2026-08-25 16:41:24+0800
+total : 11555492
+procs :
+    - [    3550140,  30.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [    1706180,  14.8, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/backboardd ]
+    - [    1178475,  10.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/runningboardd ]
+    - [     912696,   7.9, /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/Platforms/iphoneos/usr/libexec/dtdeviceinfod ]
+    - [     777447,   6.7, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/0BAEA7AC-DFCC-4A9A-84E9-8ECAD45C7E3C/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     771311,   6.7, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/E08BFAE5-D7A6-49B6-93F3-E161F3B4C8D9/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     425869,   3.7, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/A48835AC-5440-4C01-A41B-C81246D69413/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     377377,   3.3, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/swcd ]
+    - [     231192,   2.0, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd ]
+    - [     182448,   1.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/dasd ]
+    - [     157158,   1.4, /Users/USER/Library/Developer/CoreSimulator/Devices/7DDC2A41-46E2-4F2A-BC2C-A97C1F6819CA/data/Containers/Bundle/Application/1AFDF8C1-546D-4E14-9077-B5565095A859/EarthOnlineGuide.app/EarthOnlineGuide ]
+    - [     134040,   1.2, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/testmanagerd ]
+    - [     129003,   1.1, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [      80442,   0.7, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/DVTInstrumentsFoundation.framework/DTServiceHub ]
+    - [      71829,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [      68939,   0.6, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/TextInput/kbd ]
+    - [      56408,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted ]
+    - [      56372,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [      54850,   0.5, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/MapKit.framework/XPCServices/com.apple.MapKit.SnapshotService.xpc/com.apple.MapKit.SnapshotService ]
+    - [      44392,   0.4, /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/gamed ]
+
+--- !logd snapshot record
+client : /Library/Developer/CoreSimulator/Volumes/iOS_23F77/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.5.simruntime/Contents/Resources/RuntimeRoot/usr/bin/log
+time   : 2026-08-25 16:57:09+0800
+flags  : 0x3
+

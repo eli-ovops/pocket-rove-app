@@ -1,0 +1,1573 @@
+Standard output and standard error from com.earthonline.EarthOnlineGuide with process ID 54419 beginning at 2026-08-25 13:47:30 +0000
+
+2026-08-25 21:47:30.868893+0800 EarthOnlineGuide[54419:482379] [error] error: Failed to stat path '/Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1/earth.sqlite', errno 2 / No such file or directory.
+CoreData: error: Failed to stat path '/Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1/earth.sqlite', errno 2 / No such file or directory.
+2026-08-25 21:47:30.868973+0800 EarthOnlineGuide[54419:482379] [error] error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-08-25 21:47:30.869019+0800 EarthOnlineGuide[54419:482379] [error] error: Failed to statfs file; errno 2 / No such file or directory.
+CoreData: error: Failed to statfs file; errno 2 / No such file or directory.
+2026-08-25 21:47:30.869056+0800 EarthOnlineGuide[54419:482379] [error] error: Logging status information for directory path: /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1
+CoreData: error: Logging status information for directory path: /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1
+2026-08-25 21:47:30.869086+0800 EarthOnlineGuide[54419:482379] [error] error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-08-25 21:47:30.869261+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /
+CoreData: error: Information for /
+2026-08-25 21:47:30.869282+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.869301+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.869340+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		704 bytes
+CoreData: error:   File Size: 		704 bytes
+2026-08-25 21:47:30.869368+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		2
+CoreData: error:   File inode: 		2
+2026-08-25 21:47:30.869390+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		0
+CoreData: error:   File user ID: 		0
+2026-08-25 21:47:30.869412+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		0
+CoreData: error:   File group ID: 		0
+2026-08-25 21:47:30.869509+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.869544+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.869569+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.869590+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.869624+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.869653+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not writeable with errno 30
+CoreData: error:   component is not writeable with errno 30
+2026-08-25 21:47:30.869678+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users
+CoreData: error: Information for /Users
+2026-08-25 21:47:30.869698+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.869716+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.869736+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-08-25 21:47:30.869760+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		18337
+CoreData: error:   File inode: 		18337
+2026-08-25 21:47:30.869778+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		0
+CoreData: error:   File user ID: 		0
+2026-08-25 21:47:30.869796+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		80
+CoreData: error:   File group ID: 		80
+2026-08-25 21:47:30.869813+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.869830+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.869848+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.869868+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.869906+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.869931+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not writeable with errno 13
+CoreData: error:   component is not writeable with errno 13
+2026-08-25 21:47:30.869956+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER
+CoreData: error: Information for /Users/USER
+2026-08-25 21:47:30.869976+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.869993+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.870013+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		1920 bytes
+CoreData: error:   File Size: 		1920 bytes
+2026-08-25 21:47:30.870031+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		310665
+CoreData: error:   File inode: 		310665
+2026-08-25 21:47:30.870049+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.870068+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.870104+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.870128+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.870153+0800 EarthOnlineGuide[54419:482379] [error] error:   750
+CoreData: error:   750
+2026-08-25 21:47:30.870175+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.870212+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.870238+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.870270+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library
+CoreData: error: Information for /Users/USER/Library
+2026-08-25 21:47:30.870290+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.870315+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.870332+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		3008 bytes
+CoreData: error:   File Size: 		3008 bytes
+2026-08-25 21:47:30.870352+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		310672
+CoreData: error:   File inode: 		310672
+2026-08-25 21:47:30.870370+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.870390+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.871373+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.871396+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.871418+0800 EarthOnlineGuide[54419:482379] [error] error:   700
+CoreData: error:   700
+2026-08-25 21:47:30.871440+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.871485+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.871523+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.871555+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer
+CoreData: error: Information for /Users/USER/Library/Developer
+2026-08-25 21:47:30.871996+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.872015+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.872036+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		224 bytes
+CoreData: error:   File Size: 		224 bytes
+2026-08-25 21:47:30.872055+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		46449724
+CoreData: error:   File inode: 		46449724
+2026-08-25 21:47:30.872074+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.872092+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.872109+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.872953+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.872979+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.872999+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.873035+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.873062+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.873086+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator
+2026-08-25 21:47:30.873105+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.873428+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.873447+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-08-25 21:47:30.873474+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		60562026
+CoreData: error:   File inode: 		60562026
+2026-08-25 21:47:30.873495+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.873518+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.873538+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.873556+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.873576+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.873749+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.873793+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.873826+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.873855+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices
+2026-08-25 21:47:30.873879+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.873907+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.873994+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		992 bytes
+CoreData: error:   File Size: 		992 bytes
+2026-08-25 21:47:30.874022+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		60562027
+CoreData: error:   File inode: 		60562027
+2026-08-25 21:47:30.874044+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.874073+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.874100+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.874186+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.874223+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.874250+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.874289+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.874326+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.874362+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A
+2026-08-25 21:47:30.874392+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.874418+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.874443+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		128 bytes
+CoreData: error:   File Size: 		128 bytes
+2026-08-25 21:47:30.874466+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		65718627
+CoreData: error:   File inode: 		65718627
+2026-08-25 21:47:30.874490+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.874516+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.874539+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.874608+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.874631+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.874654+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.874704+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.874740+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.874776+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data
+2026-08-25 21:47:30.874804+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.874827+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.874853+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		384 bytes
+CoreData: error:   File Size: 		384 bytes
+2026-08-25 21:47:30.874880+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		65718628
+CoreData: error:   File inode: 		65718628
+2026-08-25 21:47:30.875049+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.875073+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.875095+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.875119+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.875143+0800 EarthOnlineGuide[54419:482379] [error] error:   775
+CoreData: error:   775
+2026-08-25 21:47:30.875166+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.875201+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.875238+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.875270+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers
+2026-08-25 21:47:30.875298+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.875323+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.875346+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		224 bytes
+CoreData: error:   File Size: 		224 bytes
+2026-08-25 21:47:30.875373+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		65718988
+CoreData: error:   File inode: 		65718988
+2026-08-25 21:47:30.875399+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.875422+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.875445+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.875470+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.875494+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.875518+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.875564+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.875596+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.875634+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data
+2026-08-25 21:47:30.875659+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.875683+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.875706+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		192 bytes
+CoreData: error:   File Size: 		192 bytes
+2026-08-25 21:47:30.875728+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		65718997
+CoreData: error:   File inode: 		65718997
+2026-08-25 21:47:30.875751+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.875773+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.875798+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.875823+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.875851+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.875878+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.875918+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.875950+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.875986+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application
+2026-08-25 21:47:30.876012+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.876040+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.876063+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		3840 bytes
+CoreData: error:   File Size: 		3840 bytes
+2026-08-25 21:47:30.876088+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		65719700
+CoreData: error:   File inode: 		65719700
+2026-08-25 21:47:30.876112+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.876134+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.876160+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.876185+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.876206+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.876228+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.876274+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.876306+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.876342+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72
+2026-08-25 21:47:30.876369+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.876392+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.876417+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		224 bytes
+CoreData: error:   File Size: 		224 bytes
+2026-08-25 21:47:30.876441+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		65847098
+CoreData: error:   File inode: 		65847098
+2026-08-25 21:47:30.876463+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.876488+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.876514+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.876536+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.876560+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.876587+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.876632+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.876664+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.876697+0800 EarthOnlineGuide[54419:482379] [error] error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp
+CoreData: error: Information for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp
+2026-08-25 21:47:30.876724+0800 EarthOnlineGuide[54419:482379] [error] error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-08-25 21:47:30.876750+0800 EarthOnlineGuide[54419:482379] [error] error:   Device ID: 		16777230
+CoreData: error:   Device ID: 		16777230
+2026-08-25 21:47:30.876771+0800 EarthOnlineGuide[54419:482379] [error] error:   File Size: 		64 bytes
+CoreData: error:   File Size: 		64 bytes
+2026-08-25 21:47:30.876799+0800 EarthOnlineGuide[54419:482379] [error] error:   File inode: 		65847105
+CoreData: error:   File inode: 		65847105
+2026-08-25 21:47:30.876824+0800 EarthOnlineGuide[54419:482379] [error] error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-08-25 21:47:30.876846+0800 EarthOnlineGuide[54419:482379] [error] error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-08-25 21:47:30.876868+0800 EarthOnlineGuide[54419:482379] [error] error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-08-25 21:47:30.876890+0800 EarthOnlineGuide[54419:482379] [error] error: d
+CoreData: error: d
+2026-08-25 21:47:30.876914+0800 EarthOnlineGuide[54419:482379] [error] error:   755
+CoreData: error:   755
+2026-08-25 21:47:30.876937+0800 EarthOnlineGuide[54419:482379] [error] error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-08-25 21:47:30.876981+0800 EarthOnlineGuide[54419:482379] [error] error:   component is readable
+CoreData: error:   component is readable
+2026-08-25 21:47:30.877018+0800 EarthOnlineGuide[54419:482379] [error] error:   component is writeable
+CoreData: error:   component is writeable
+2026-08-25 21:47:30.877052+0800 EarthOnlineGuide[54419:482379] [error] error: Failed to stat path '/Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores', errno 2 / No such file or directory.
+CoreData: error: Failed to stat path '/Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores', errno 2 / No such file or directory.
+2026-08-25 21:47:30.877088+0800 EarthOnlineGuide[54419:482379] [error] error: Failed to stat path '/Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1', errno 2 / No such file or directory.
+CoreData: error: Failed to stat path '/Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1', errno 2 / No such file or directory.
+2026-08-25 21:47:30.877868+0800 EarthOnlineGuide[54419:482379] [error] error: addPersistentStoreWithType:configuration:URL:options:error: returned error NSCocoaErrorDomain (512)
+CoreData: error: addPersistentStoreWithType:configuration:URL:options:error: returned error NSCocoaErrorDomain (512)
+2026-08-25 21:47:30.877893+0800 EarthOnlineGuide[54419:482379] [error] error: userInfo:
+CoreData: error: userInfo:
+2026-08-25 21:47:30.877917+0800 EarthOnlineGuide[54419:482379] [error] error: 	reason : Failed to create file; code = 2
+CoreData: error: 	reason : Failed to create file; code = 2
+2026-08-25 21:47:30.877936+0800 EarthOnlineGuide[54419:482379] [error] error: storeType: SQLite
+CoreData: error: storeType: SQLite
+2026-08-25 21:47:30.877959+0800 EarthOnlineGuide[54419:482379] [error] error: configuration: (null)
+CoreData: error: configuration: (null)
+2026-08-25 21:47:30.877987+0800 EarthOnlineGuide[54419:482379] [error] error: URL: file:///Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1/earth.sqlite
+CoreData: error: URL: file:///Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1/earth.sqlite
+CoreData: annotation: options:
+CoreData: annotation: 	NSMigratePersistentStoresAutomaticallyOption : 1
+CoreData: annotation: 	NSPersistentStoreStagedMigrationManagerOptionKey : <NSStagedMigrationManager: 0x600000234ba0>
+CoreData: annotation: 	NSInferMappingModelAutomaticallyOption : 1
+CoreData: annotation: 	NSPersistentStoreRemoteChangeNotificationOptionKey : 1
+CoreData: annotation: 	NSPersistentHistoryTrackingKey : 1
+2026-08-25 21:47:30.878908+0800 EarthOnlineGuide[54419:482379] [error] error: <NSPersistentStoreCoordinator: 0x6000029051f0>: Attempting recovery from error encountered during addPersistentStore: 0x600000c74ea0 Error Domain=NSCocoaErrorDomain Code=512 "The file couldn’t be saved." UserInfo={reason=Failed to create file; code = 2}
+CoreData: error: <NSPersistentStoreCoordinator: 0x6000029051f0>: Attempting recovery from error encountered during addPersistentStore: 0x600000c74ea0 Error Domain=NSCocoaErrorDomain Code=512 "The file couldn’t be saved." UserInfo={reason=Failed to create file; code = 2}
+2026-08-25 21:47:30.878954+0800 EarthOnlineGuide[54419:482379] [error] error: During recovery, parent directory path reported as missing
+CoreData: error: During recovery, parent directory path reported as missing
+2026-08-25 21:47:30.885409+0800 EarthOnlineGuide[54419:482379] [error] error: Recovery attempt while adding <NSPersistentStoreDescription: 0x600000c74ea0> (type: SQLite, url: file:///Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1/earth.sqlite) was successful!
+CoreData: error: Recovery attempt while adding <NSPersistentStoreDescription: 0x600000c74ea0> (type: SQLite, url: file:///Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Data/Application/E72CA5A5-13ED-448E-BBDE-2F06CFBD9B72/tmp/EarthOnlineGuideUITestStores/dynamic-type-red-v1/earth.sqlite) was successful!
+2026-08-25 21:47:31.214281+0800 EarthOnlineGuide[54419:482400] [Default] Received request to exchange capabilities, remote interface capabilities are: <XCTCapabilities: 0x6000000053b0>: {
+    "query runtime issue reporting" = 1;
+    "query runtime issue reporting/automation type mismatch" = 1;
+}
+2026-08-25 21:47:31.218915+0800 EarthOnlineGuide[54419:482400] [Default] Received request to notify when the main run loop is idle
+2026-08-25 21:47:31.219043+0800 EarthOnlineGuide[54419:482400] [Default] Idle notifier finished setting up run loop observer
+2026-08-25 21:47:31.219125+0800 EarthOnlineGuide[54419:482400] [Default] Received request to notify when animations are idle
+2026-08-25 21:47:31.219179+0800 EarthOnlineGuide[54419:482400] [Default] Sending animations idle reply with error: (null)
+2026-08-25 21:47:31.561602+0800 EarthOnlineGuide[54419:482379] [Default] Idle notifier run loop observer fired
+2026-08-25 21:47:31.561698+0800 EarthOnlineGuide[54419:482379] [Default] Sending main run loop idle reply
+No image named 'earth-guide-mark-v2' found in asset catalog for /Users/USER/Library/Developer/CoreSimulator/Devices/E110C410-6304-4235-B45A-F1A1200C1A2A/data/Containers/Bundle/Application/0BC090A6-6247-4CDF-B079-268D4ACA0DAB/EarthOnlineGuide.app
+2026-08-25 21:47:32.530713+0800 EarthOnlineGuide[54419:482379] void * _Nullable NSMapGet(NSMapTable * _Nonnull, const void * _Nullable): map table argument is NULL
+2026-08-25 21:47:33.630715+0800 EarthOnlineGuide[54419:482395] [Default] Received request to fetch matches for query: ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:33.631003+0800 EarthOnlineGuide[54419:482399] [Default] Evaluating query:
+ ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:33.631137+0800 EarthOnlineGuide[54419:482399] [Default] Getting root element snapshot
+2026-08-25 21:47:33.631262+0800 EarthOnlineGuide[54419:482399] [Default] Getting snapshot for App element pid: 54419 for query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:33.634195+0800 EarthOnlineGuide[54419:482399] [Default] Query requires iOS snapshot attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeValue, XC_kAXXCAttributeTraits, XC_kAXXCAttributePlaceholderValue.
+2026-08-25 21:47:33.634356+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:33.634398+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:33.634407+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:33.634448+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:33.634451+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:33.645667+0800 EarthOnlineGuide[54419:482379] [Default] Got main window <AXUIElementRef 0x600000ceecd0> {pid=54419} {uid=[ID:5 hash:0x10b6127f0]}
+2026-08-25 21:47:33.650187+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeTraits, XC_kAXXCAttributeTruncatedValue, XC_kAXXCAttributeParent, XC_kAXXCAttributePlaceholderValue
+2026-08-25 21:47:33.650355+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with parameters {
+    attributes =     (
+        5004,
+        5019,
+        5003,
+        5058,
+        2001,
+        2004,
+        2158,
+        5002,
+        5043
+    );
+    maxArrayCount = 2147483647;
+    maxChildren = 2147483647;
+    maxDepth = 2147483647;
+    snapshotKeyHonorModalViews = 0;
+    traverseFromParentsToChildren = 1;
+}
+2026-08-25 21:47:33.650439+0800 EarthOnlineGuide[54419:482379] [Default] Snapshot attributes 5004, 5019, 5003, 5058, 2001, 2004, 2158, 5002, 5043
+2026-08-25 21:47:33.698971+0800 EarthOnlineGuide[54419:482379] [Default] Got snapshot for <AXUIElementRef 0x600000cf4870> {pid=54419} {uid=[ID:1 hash:0x0]}
+2026-08-25 21:47:33.699141+0800 EarthOnlineGuide[54419:482379] [Default] Got app orientation 0
+2026-08-25 21:47:33.699190+0800 EarthOnlineGuide[54419:482379] [Default] Captured accessibility snapshot data in 0.06s
+2026-08-25 21:47:33.699339+0800 EarthOnlineGuide[54419:482399] [Default] Found main window: Window
+2026-08-25 21:47:33.699597+0800 EarthOnlineGuide[54419:482399] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:33.699826+0800 EarthOnlineGuide[54419:482399] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:33.700022+0800 EarthOnlineGuide[54419:482399] [Default] TextField, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused is not actually a child of Other, including at this point anyway (rdar://problem/20738636)
+2026-08-25 21:47:33.700144+0800 EarthOnlineGuide[54419:482399] [Default] App orientation is 0 (not portrait) and UITextEffectsWindow window Window is not main window
+2026-08-25 21:47:33.700190+0800 EarthOnlineGuide[54419:482399] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:33.700270+0800 EarthOnlineGuide[54419:482399] [Default] App orientation is 0 (not portrait) and UIRemoteKeyboardWindow window Window is not main window
+2026-08-25 21:47:33.700354+0800 EarthOnlineGuide[54419:482399] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:33.700467+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Q' for privileged AX value slot attributes
+2026-08-25 21:47:33.700508+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'W' for privileged AX value slot attributes
+2026-08-25 21:47:33.700546+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'E' for privileged AX value slot attributes
+2026-08-25 21:47:33.700603+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'R' for privileged AX value slot attributes
+2026-08-25 21:47:33.700635+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'T' for privileged AX value slot attributes
+2026-08-25 21:47:33.700664+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Y' for privileged AX value slot attributes
+2026-08-25 21:47:33.700693+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'U' for privileged AX value slot attributes
+2026-08-25 21:47:33.700723+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'I' for privileged AX value slot attributes
+2026-08-25 21:47:33.700754+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'O' for privileged AX value slot attributes
+2026-08-25 21:47:33.700783+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'P' for privileged AX value slot attributes
+2026-08-25 21:47:33.700810+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'A' for privileged AX value slot attributes
+2026-08-25 21:47:33.700851+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'S' for privileged AX value slot attributes
+2026-08-25 21:47:33.700884+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'D' for privileged AX value slot attributes
+2026-08-25 21:47:33.700914+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'F' for privileged AX value slot attributes
+2026-08-25 21:47:33.700941+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'G' for privileged AX value slot attributes
+2026-08-25 21:47:33.701028+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'H' for privileged AX value slot attributes
+2026-08-25 21:47:33.701076+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'J' for privileged AX value slot attributes
+2026-08-25 21:47:33.701286+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'K' for privileged AX value slot attributes
+2026-08-25 21:47:33.701341+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'L' for privileged AX value slot attributes
+2026-08-25 21:47:33.701371+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'shift' for privileged AX value slot attributes
+2026-08-25 21:47:33.701400+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934649
+2026-08-25 21:47:33.701664+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934649, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:33.701754+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Z' for privileged AX value slot attributes
+2026-08-25 21:47:33.701829+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'X' for privileged AX value slot attributes
+2026-08-25 21:47:33.702052+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'C' for privileged AX value slot attributes
+2026-08-25 21:47:33.702137+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'V' for privileged AX value slot attributes
+2026-08-25 21:47:33.702207+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'B' for privileged AX value slot attributes
+2026-08-25 21:47:33.702374+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'N' for privileged AX value slot attributes
+2026-08-25 21:47:33.702411+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'M' for privileged AX value slot attributes
+2026-08-25 21:47:33.702456+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'delete' for privileged AX value slot attributes
+2026-08-25 21:47:33.702525+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'numbers' for privileged AX value slot attributes
+2026-08-25 21:47:33.702559+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Emoji' for privileged AX value slot attributes
+2026-08-25 21:47:33.702596+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:33.702636+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:33.702664+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'space' for privileged AX value slot attributes
+2026-08-25 21:47:33.702696+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'done' for privileged AX value slot attributes
+2026-08-25 21:47:33.702729+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:33.702763+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:33.703001+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:33.703107+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:33.713638+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:33.713710+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:33.713729+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:33.713763+0800 EarthOnlineGuide[54419:482379] [Default] XCTElementQuery: set data source for rootElementSnapshot to <XCTAutomationSession: 0x60000261d0e0>
+2026-08-25 21:47:33.713918+0800 EarthOnlineGuide[54419:482399] [Default] Finding all matches with input Application, pid: 54419, label: 'EarthOnlineGuide' using transformers 
+↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:33.714665+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] applied transformer `Descendants matching type StaticText` to input {(
+    Application, pid: 54419, label: 'EarthOnlineGuide'
+)}, found {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}
+2026-08-25 21:47:33.715012+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] applied transformer `Elements matching predicate '"ui-test-dynamic-type" IN identifiers'` to input {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}, found {(
+)}
+2026-08-25 21:47:33.715197+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] setting out related elements in early return {(
+)}
+2026-08-25 21:47:33.716686+0800 EarthOnlineGuide[54419:482399] [Default] Current tree:
+Application, 0x10b3104c0, pid: 54419, label: 'EarthOnlineGuide' <App element pid: 54419>
+  Window (Main), 0x10b32dba0 <AX element pid: 54419, elementOrHash.elementID: 4485883888.5>
+    Other, 0x10b330570 <AX element pid: 54419, elementOrHash.elementID: 4485887328.8>
+      Other, 0x118005680 <AX element pid: 54419, elementOrHash.elementID: 4485890320.11>
+        Other, 0x1180057a0 <AX element pid: 54419, elementOrHash.elementID: 4482744352.15>
+          Other, 0x1180058c0 <AX element pid: 54419, elementOrHash.elementID: 105553169893408.23>
+            Image, 0x1180059e0, label: 'earth-guide-mark-v2' <AX element pid: 54419, elementOrHash.elementID: 105553169784640.29>
+            StaticText, 0x118005b00, label: '欢迎来到地球Online' <AX element pid: 54419, elementOrHash.elementID: 105553169784800.30>
+            StaticText, 0x118005c20, label: '请设置你的ID' <AX element pid: 54419, elementOrHash.elementID: 105553169785600.31>
+            TextField, 0x118005d40, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused <AX element pid: 54419, elementOrHash.elementID: 4505169408.3>
+            Button, 0x10b3312f0, identifier: 'onboarding-start', label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893248.32>
+              Image, 0x10b330f90, label: 'Right', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893888.38>
+              StaticText, 0x10b32e630, label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169891488.39>
+  Window, 0x10b330200 <AX element pid: 54419, elementOrHash.elementID: 4488257024.6>
+    Other, 0x10d033e80 <AX element pid: 54419, elementOrHash.elementID: 4513361264.9>
+      Other, 0x10d031a50 <AX element pid: 54419, elementOrHash.elementID: 4694495376.12>
+      Other, 0x10d05a670 <AX element pid: 54419, elementOrHash.elementID: 4513362944.13>
+        Other, 0x10d00ca20 <AX element pid: 54419, elementOrHash.elementID: 4513285376.16>
+          Other, 0x10d037ac0 <AX element pid: 54419, elementOrHash.elementID: 105553169781920.24>
+        Other, 0x10d03dd50 <AX element pid: 54419, elementOrHash.elementID: 4487155088.17>
+  Window, 0x10d03dfe0 <AX element pid: 54419, elementOrHash.elementID: 4488513024.7>
+    Other, 0x10d057230 <AX element pid: 54419, elementOrHash.elementID: 4487143904.10>
+      Other, 0x10d042b60 <AX element pid: 54419, elementOrHash.elementID: 4487144624.14>
+        Other, 0x10d066a50 <AX element pid: 54419, elementOrHash.elementID: 4486967712.18>
+        Other, 0x10d03e320 <AX element pid: 54419, elementOrHash.elementID: 4487191824.19>
+          Other, 0x10d038430 <AX element pid: 54419, elementOrHash.elementID: 4487192448.25>
+            Other, 0x10d0157d0 <AX element pid: 54419, elementOrHash.elementID: 4487192960.33>
+        Other, 0x10d01b000, identifier: 'SystemInputAssistantView' <AX element pid: 54419, elementOrHash.elementID: 4483132736.20>
+          Other, 0x10d02a900, identifier: 'CenterPageView' <AX element pid: 54419, elementOrHash.elementID: 4513347456.26>
+            Other, 0x10d02e7a0 <AX element pid: 54419, elementOrHash.elementID: 4513344736.34>
+              ScrollView, 0x10d03f2a0 <AX element pid: 54419, elementOrHash.elementID: 4530931712.40>
+            Other, 0x10d019a30 <AX element pid: 54419, elementOrHash.elementID: 4513353088.35>
+              Other, 0x10d04cd40, label: 'Typing Predictions' <AX element pid: 54419, elementOrHash.elementID: 4486894096.41>
+                Other, 0x10d0202c0 <AX element pid: 54419, elementOrHash.elementID: 4487082560.44>
+                  Other, 0x10d0342f0 <AX element pid: 54419, elementOrHash.elementID: 4487036928.77>
+                    Other, 0x10d04c310 <AX element pid: 54419, elementOrHash.elementID: 4513419408.78>
+                    Other, 0x10d04c430 <AX element pid: 54419, elementOrHash.elementID: 4513432160.79>
+                    Other, 0x10d0402d0 <AX element pid: 54419, elementOrHash.elementID: 4513442480.80>
+        Other, 0x10d0403f0 <AX element pid: 54419, elementOrHash.elementID: 4487171824.21>
+          Other, 0x10d044730 <AX element pid: 54419, elementOrHash.elementID: 4487167424.27>
+            Other, 0x10d044850 <AX element pid: 54419, elementOrHash.elementID: 4487168560.36>
+              Other, 0x10d031cb0 <AX element pid: 54419, elementOrHash.elementID: 4487169584.42>
+        Other, 0x10d031dd0 <AX element pid: 54419, elementOrHash.elementID: 4482854656.22>
+          Keyboard, 0x10d031ef0 <AX element pid: 54419, elementOrHash.elementID: 4486900656.28>
+            Other, 0x10d03ed40 <AX element pid: 54419, elementOrHash.elementID: 4488227840.37>
+              Other, 0x10d03ee60 <AX element pid: 54419, elementOrHash.elementID: 4496850432.43>
+                Key, 0x10d03ef80, label: 'Q' <AX element pid: 54419, elementOrHash.elementID: 105553156374720.45>
+                Key, 0x10d064c40, label: 'W' <AX element pid: 54419, elementOrHash.elementID: 105553156375008.46>
+                Key, 0x10b32fe90, label: 'E' <AX element pid: 54419, elementOrHash.elementID: 105553156375104.47>
+                Key, 0x10b6524a0, label: 'R' <AX element pid: 54419, elementOrHash.elementID: 105553156375200.48>
+                Key, 0x10b32a730, label: 'T' <AX element pid: 54419, elementOrHash.elementID: 105553156375296.49>
+                Key, 0x10d064d60, label: 'Y' <AX element pid: 54419, elementOrHash.elementID: 105553156375392.50>
+                Key, 0x10b32e2d0, label: 'U' <AX element pid: 54419, elementOrHash.elementID: 105553156375488.51>
+                Key, 0x10d064e80, label: 'I' <AX element pid: 54419, elementOrHash.elementID: 105553156375584.52>
+                Key, 0x10b32df40, label: 'O' <AX element pid: 54419, elementOrHash.elementID: 105553156375680.53>
+                Key, 0x10d064fa0, label: 'P' <AX element pid: 54419, elementOrHash.elementID: 105553156375776.54>
+                Key, 0x10b3358c0, label: 'A' <AX element pid: 54419, elementOrHash.elementID: 105553156375872.55>
+                Key, 0x10b648980, label: 'S' <AX element pid: 54419, elementOrHash.elementID: 105553156375968.56>
+                Key, 0x10b64fba0, label: 'D' <AX element pid: 54419, elementOrHash.elementID: 105553156376064.57>
+                Key, 0x10d0650c0, label: 'F' <AX element pid: 54419, elementOrHash.elementID: 105553156376160.58>
+                Key, 0x10b335f90, label: 'G' <AX element pid: 54419, elementOrHash.elementID: 105553156376256.59>
+                Key, 0x10b33df70, label: 'H' <AX element pid: 54419, elementOrHash.elementID: 105553156376352.60>
+                Key, 0x10b340230, label: 'J' <AX element pid: 54419, elementOrHash.elementID: 105553156376448.61>
+                Key, 0x118006110, label: 'K' <AX element pid: 54419, elementOrHash.elementID: 105553156376544.62>
+                Key, 0x10b33fed0, label: 'L' <AX element pid: 54419, elementOrHash.elementID: 105553156376640.63>
+                Button, 0x10b339a40, identifier: 'shift', label: 'shift', Selected <AX element pid: 54419, elementOrHash.elementID: 105553156376736.64>
+                Key, 0x10d065f90, label: 'Z' <AX element pid: 54419, elementOrHash.elementID: 105553156376832.65>
+                Key, 0x10d0660b0, label: 'X' <AX element pid: 54419, elementOrHash.elementID: 105553156376928.66>
+                Key, 0x10b754890, label: 'C' <AX element pid: 54419, elementOrHash.elementID: 105553156377024.67>
+                Key, 0x10d0661d0, label: 'V' <AX element pid: 54419, elementOrHash.elementID: 105553156377120.68>
+                Key, 0x10b74f510, label: 'B' <AX element pid: 54419, elementOrHash.elementID: 105553156377216.69>
+                Key, 0x10b72e720, label: 'N' <AX element pid: 54419, elementOrHash.elementID: 105553156377312.70>
+                Key, 0x10b749fc0, label: 'M' <AX element pid: 54419, elementOrHash.elementID: 105553156377408.71>
+                Key, 0x10b650660, identifier: 'delete', label: 'delete' <AX element pid: 54419, elementOrHash.elementID: 105553156377504.72>
+                Key, 0x10b650780, identifier: 'more', label: 'numbers' <AX element pid: 54419, elementOrHash.elementID: 105553156377600.73>
+                Button, 0x10b73d4d0, label: 'Emoji' <AX element pid: 54419, elementOrHash.elementID: 105553156377696.74>
+                Key, 0x10b650b90, label: 'space' <AX element pid: 54419, elementOrHash.elementID: 105553156377792.75>
+                Button, 0x10b33d520, identifier: 'Done', label: 'done' <AX element pid: 54419, elementOrHash.elementID: 105553156377888.76>
+2026-08-25 21:47:33.719076+0800 EarthOnlineGuide[54419:482399] [Default] Query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' found matching snapshots: {(
+)} (error: (null))
+2026-08-25 21:47:33.719248+0800 EarthOnlineGuide[54419:482399] [Default] Replying to query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' with results: <XCTElementQueryResults: 0x600000cbb960> (error: (null))
+2026-08-25 21:47:34.663114+0800 EarthOnlineGuide[54419:482399] [Default] Received request to fetch matches for query: ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:34.663224+0800 EarthOnlineGuide[54419:482393] [Default] Evaluating query:
+ ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:34.663263+0800 EarthOnlineGuide[54419:482393] [Default] Getting root element snapshot
+2026-08-25 21:47:34.663328+0800 EarthOnlineGuide[54419:482393] [Default] Getting snapshot for App element pid: 54419 for query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:34.663380+0800 EarthOnlineGuide[54419:482393] [Default] Query requires iOS snapshot attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeValue, XC_kAXXCAttributeTraits, XC_kAXXCAttributePlaceholderValue.
+2026-08-25 21:47:34.663465+0800 EarthOnlineGuide[54419:482393] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:34.663539+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:34.663534+0800 EarthOnlineGuide[54419:482393] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:34.663568+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:34.663570+0800 EarthOnlineGuide[54419:482393] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:34.664208+0800 EarthOnlineGuide[54419:482379] [Default] Got main window <AXUIElementRef 0x600000cecd50> {pid=54419} {uid=[ID:5 hash:0x10b6127f0]}
+2026-08-25 21:47:34.664312+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeTraits, XC_kAXXCAttributeTruncatedValue, XC_kAXXCAttributeParent, XC_kAXXCAttributePlaceholderValue
+2026-08-25 21:47:34.664390+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with parameters {
+    attributes =     (
+        5004,
+        5019,
+        5003,
+        5058,
+        2001,
+        2004,
+        2158,
+        5002,
+        5043
+    );
+    maxArrayCount = 2147483647;
+    maxChildren = 2147483647;
+    maxDepth = 2147483647;
+    snapshotKeyHonorModalViews = 0;
+    traverseFromParentsToChildren = 1;
+}
+2026-08-25 21:47:34.664453+0800 EarthOnlineGuide[54419:482379] [Default] Snapshot attributes 5004, 5019, 5003, 5058, 2001, 2004, 2158, 5002, 5043
+2026-08-25 21:47:34.672120+0800 EarthOnlineGuide[54419:482379] [Default] Got snapshot for <AXUIElementRef 0x600000d28450> {pid=54419} {uid=[ID:1 hash:0x0]}
+2026-08-25 21:47:34.672258+0800 EarthOnlineGuide[54419:482379] [Default] Got app orientation 0
+2026-08-25 21:47:34.672351+0800 EarthOnlineGuide[54419:482379] [Default] Captured accessibility snapshot data in 0.01s
+2026-08-25 21:47:34.672425+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'EarthOnlineGuide' for privileged AX value slot attributes
+2026-08-25 21:47:34.672518+0800 EarthOnlineGuide[54419:482393] [Default] Found main window: Window
+2026-08-25 21:47:34.672609+0800 EarthOnlineGuide[54419:482393] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:34.672665+0800 EarthOnlineGuide[54419:482393] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:34.672709+0800 EarthOnlineGuide[54419:482393] [Default] TextField, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused is not actually a child of Other, including at this point anyway (rdar://problem/20738636)
+2026-08-25 21:47:34.672810+0800 EarthOnlineGuide[54419:482393] [Default] App orientation is 0 (not portrait) and UITextEffectsWindow window Window is not main window
+2026-08-25 21:47:34.672853+0800 EarthOnlineGuide[54419:482393] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:34.672929+0800 EarthOnlineGuide[54419:482393] [Default] App orientation is 0 (not portrait) and UIRemoteKeyboardWindow window Window is not main window
+2026-08-25 21:47:34.672963+0800 EarthOnlineGuide[54419:482393] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:34.673064+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'Q' for privileged AX value slot attributes
+2026-08-25 21:47:34.673111+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'W' for privileged AX value slot attributes
+2026-08-25 21:47:34.673172+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'E' for privileged AX value slot attributes
+2026-08-25 21:47:34.673206+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'R' for privileged AX value slot attributes
+2026-08-25 21:47:34.673244+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'T' for privileged AX value slot attributes
+2026-08-25 21:47:34.673296+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'Y' for privileged AX value slot attributes
+2026-08-25 21:47:34.673351+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'U' for privileged AX value slot attributes
+2026-08-25 21:47:34.673385+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'I' for privileged AX value slot attributes
+2026-08-25 21:47:34.673422+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'O' for privileged AX value slot attributes
+2026-08-25 21:47:34.673503+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'P' for privileged AX value slot attributes
+2026-08-25 21:47:34.673532+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'A' for privileged AX value slot attributes
+2026-08-25 21:47:34.673711+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'S' for privileged AX value slot attributes
+2026-08-25 21:47:34.673770+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'D' for privileged AX value slot attributes
+2026-08-25 21:47:34.673867+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'F' for privileged AX value slot attributes
+2026-08-25 21:47:34.674010+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'G' for privileged AX value slot attributes
+2026-08-25 21:47:34.674147+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'H' for privileged AX value slot attributes
+2026-08-25 21:47:34.674213+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'J' for privileged AX value slot attributes
+2026-08-25 21:47:34.674261+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'K' for privileged AX value slot attributes
+2026-08-25 21:47:34.674294+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'L' for privileged AX value slot attributes
+2026-08-25 21:47:34.674323+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'shift' for privileged AX value slot attributes
+2026-08-25 21:47:34.674350+0800 EarthOnlineGuide[54419:482393] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934649
+2026-08-25 21:47:34.674394+0800 EarthOnlineGuide[54419:482393] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934649, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:34.674423+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'Z' for privileged AX value slot attributes
+2026-08-25 21:47:34.674615+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'X' for privileged AX value slot attributes
+2026-08-25 21:47:34.674653+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'C' for privileged AX value slot attributes
+2026-08-25 21:47:34.674681+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'V' for privileged AX value slot attributes
+2026-08-25 21:47:34.674712+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'B' for privileged AX value slot attributes
+2026-08-25 21:47:34.674752+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'N' for privileged AX value slot attributes
+2026-08-25 21:47:34.674783+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'M' for privileged AX value slot attributes
+2026-08-25 21:47:34.674976+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'delete' for privileged AX value slot attributes
+2026-08-25 21:47:34.675067+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'numbers' for privileged AX value slot attributes
+2026-08-25 21:47:34.675113+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'Emoji' for privileged AX value slot attributes
+2026-08-25 21:47:34.675148+0800 EarthOnlineGuide[54419:482393] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:34.675186+0800 EarthOnlineGuide[54419:482393] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:34.675240+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'space' for privileged AX value slot attributes
+2026-08-25 21:47:34.675374+0800 EarthOnlineGuide[54419:482393] [Default] Checking 'done' for privileged AX value slot attributes
+2026-08-25 21:47:34.675423+0800 EarthOnlineGuide[54419:482393] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:34.675459+0800 EarthOnlineGuide[54419:482393] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:34.675563+0800 EarthOnlineGuide[54419:482393] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:34.675596+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:34.675591+0800 EarthOnlineGuide[54419:482393] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:34.675646+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:34.675689+0800 EarthOnlineGuide[54419:482379] [Default] XCTElementQuery: set data source for rootElementSnapshot to <XCTAutomationSession: 0x60000261d0e0>
+2026-08-25 21:47:34.675706+0800 EarthOnlineGuide[54419:482393] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:34.675836+0800 EarthOnlineGuide[54419:482393] [Default] Finding all matches with input Application, pid: 54419, label: 'EarthOnlineGuide' using transformers 
+↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:34.676432+0800 EarthOnlineGuide[54419:482393] [Default] [Match All] applied transformer `Descendants matching type StaticText` to input {(
+    Application, pid: 54419, label: 'EarthOnlineGuide'
+)}, found {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}
+2026-08-25 21:47:34.676682+0800 EarthOnlineGuide[54419:482393] [Default] [Match All] applied transformer `Elements matching predicate '"ui-test-dynamic-type" IN identifiers'` to input {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}, found {(
+)}
+2026-08-25 21:47:34.676816+0800 EarthOnlineGuide[54419:482393] [Default] [Match All] setting out related elements in early return {(
+)}
+2026-08-25 21:47:34.678402+0800 EarthOnlineGuide[54419:482393] [Default] Current tree:
+Application, 0x10b330570, pid: 54419, label: 'EarthOnlineGuide' <App element pid: 54419>
+  Window (Main), 0x10b32e630 <AX element pid: 54419, elementOrHash.elementID: 4485883888.5>
+    Other, 0x10b32dba0 <AX element pid: 54419, elementOrHash.elementID: 4485887328.8>
+      Other, 0x10b330200 <AX element pid: 54419, elementOrHash.elementID: 4485890320.11>
+        Other, 0x10b32fe90 <AX element pid: 54419, elementOrHash.elementID: 4482744352.15>
+          Other, 0x10b32a730 <AX element pid: 54419, elementOrHash.elementID: 105553169893408.23>
+            Image, 0x10b32e2d0, label: 'earth-guide-mark-v2' <AX element pid: 54419, elementOrHash.elementID: 105553169784640.29>
+            StaticText, 0x10b32df40, label: '欢迎来到地球Online' <AX element pid: 54419, elementOrHash.elementID: 105553169784800.30>
+            StaticText, 0x10b3358c0, label: '请设置你的ID' <AX element pid: 54419, elementOrHash.elementID: 105553169785600.31>
+            TextField, 0x10b335f90, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused <AX element pid: 54419, elementOrHash.elementID: 4505169408.3>
+            Button, 0x10b33df70, identifier: 'onboarding-start', label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893248.32>
+              Image, 0x10b340230, label: 'Right', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893888.38>
+              StaticText, 0x10b33fed0, label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169891488.39>
+  Window, 0x10b339a40 <AX element pid: 54419, elementOrHash.elementID: 4488257024.6>
+    Other, 0x10d05a670 <AX element pid: 54419, elementOrHash.elementID: 4513361264.9>
+      Other, 0x10d037ac0 <AX element pid: 54419, elementOrHash.elementID: 4694495376.12>
+      Other, 0x10d05f7a0 <AX element pid: 54419, elementOrHash.elementID: 4513362944.13>
+        Other, 0x10d00ca20 <AX element pid: 54419, elementOrHash.elementID: 4513285376.16>
+          Other, 0x10d03dd50 <AX element pid: 54419, elementOrHash.elementID: 105553169781920.24>
+        Other, 0x10d057230 <AX element pid: 54419, elementOrHash.elementID: 4487155088.17>
+  Window, 0x10d03dfe0 <AX element pid: 54419, elementOrHash.elementID: 4488513024.7>
+    Other, 0x10b33d520 <AX element pid: 54419, elementOrHash.elementID: 4487143904.10>
+      Other, 0x10b3104c0 <AX element pid: 54419, elementOrHash.elementID: 4487144624.14>
+        Other, 0x10b340c70 <AX element pid: 54419, elementOrHash.elementID: 4486967712.18>
+        Other, 0x10b340fd0 <AX element pid: 54419, elementOrHash.elementID: 4487191824.19>
+          Other, 0x10b341360 <AX element pid: 54419, elementOrHash.elementID: 4487192448.25>
+            Other, 0x10b342490 <AX element pid: 54419, elementOrHash.elementID: 4487192960.33>
+        Other, 0x10b3427f0, identifier: 'SystemInputAssistantView' <AX element pid: 54419, elementOrHash.elementID: 4483132736.20>
+          Other, 0x10b342b80, identifier: 'CenterPageView' <AX element pid: 54419, elementOrHash.elementID: 4513347456.26>
+            Other, 0x10b342f00 <AX element pid: 54419, elementOrHash.elementID: 4513344736.34>
+              ScrollView, 0x10b343290 <AX element pid: 54419, elementOrHash.elementID: 4530931712.40>
+            Other, 0x10b3435e0 <AX element pid: 54419, elementOrHash.elementID: 4513353088.35>
+              Other, 0x10b343970, label: 'Typing Predictions' <AX element pid: 54419, elementOrHash.elementID: 4486894096.41>
+                Other, 0x10b343ce0 <AX element pid: 54419, elementOrHash.elementID: 4487082560.44>
+                  Other, 0x10b344050 <AX element pid: 54419, elementOrHash.elementID: 4487036928.77>
+                    Other, 0x10b3443c0 <AX element pid: 54419, elementOrHash.elementID: 4513419408.78>
+                    Other, 0x10b344730 <AX element pid: 54419, elementOrHash.elementID: 4513432160.79>
+                    Other, 0x10b344aa0 <AX element pid: 54419, elementOrHash.elementID: 4513442480.80>
+        Other, 0x10b344df0 <AX element pid: 54419, elementOrHash.elementID: 4487171824.21>
+          Other, 0x10b345150 <AX element pid: 54419, elementOrHash.elementID: 4487167424.27>
+            Other, 0x10b3454b0 <AX element pid: 54419, elementOrHash.elementID: 4487168560.36>
+              Other, 0x10b345840 <AX element pid: 54419, elementOrHash.elementID: 4487169584.42>
+        Other, 0x10b345b90 <AX element pid: 54419, elementOrHash.elementID: 4482854656.22>
+          Keyboard, 0x10b345f10 <AX element pid: 54419, elementOrHash.elementID: 4486900656.28>
+            Other, 0x10b3462a0 <AX element pid: 54419, elementOrHash.elementID: 4488227840.37>
+              Other, 0x10b346610 <AX element pid: 54419, elementOrHash.elementID: 4496850432.43>
+                Key, 0x10b346960, label: 'Q' <AX element pid: 54419, elementOrHash.elementID: 105553156374720.45>
+                Key, 0x10b346cf0, label: 'W' <AX element pid: 54419, elementOrHash.elementID: 105553156375008.46>
+                Key, 0x10d066a50, label: 'E' <AX element pid: 54419, elementOrHash.elementID: 105553156375104.47>
+                Key, 0x10d042b60, label: 'R' <AX element pid: 54419, elementOrHash.elementID: 105553156375200.48>
+                Key, 0x10b6524a0, label: 'T' <AX element pid: 54419, elementOrHash.elementID: 105553156375296.49>
+                Key, 0x10d03e320, label: 'Y' <AX element pid: 54419, elementOrHash.elementID: 105553156375392.50>
+                Key, 0x10b754890, label: 'U' <AX element pid: 54419, elementOrHash.elementID: 105553156375488.51>
+                Key, 0x10d038430, label: 'I' <AX element pid: 54419, elementOrHash.elementID: 105553156375584.52>
+                Key, 0x10b74f510, label: 'O' <AX element pid: 54419, elementOrHash.elementID: 105553156375680.53>
+                Key, 0x10b648980, label: 'P' <AX element pid: 54419, elementOrHash.elementID: 105553156375776.54>
+                Key, 0x10d039b20, label: 'A' <AX element pid: 54419, elementOrHash.elementID: 105553156375872.55>
+                Key, 0x102907f80, label: 'S' <AX element pid: 54419, elementOrHash.elementID: 105553156375968.56>
+                Key, 0x10b347040, label: 'D' <AX element pid: 54419, elementOrHash.elementID: 105553156376064.57>
+                Key, 0x10b74e5f0, label: 'F' <AX element pid: 54419, elementOrHash.elementID: 105553156376160.58>
+                Key, 0x10d308b00, label: 'G' <AX element pid: 54419, elementOrHash.elementID: 105553156376256.59>
+                Key, 0x115004b10, label: 'H' <AX element pid: 54419, elementOrHash.elementID: 105553156376352.60>
+                Key, 0x10b72e720, label: 'J' <AX element pid: 54419, elementOrHash.elementID: 105553156376448.61>
+                Key, 0x10b6284b0, label: 'K' <AX element pid: 54419, elementOrHash.elementID: 105553156376544.62>
+                Key, 0x10b73d240, label: 'L' <AX element pid: 54419, elementOrHash.elementID: 105553156376640.63>
+                Button, 0x10b744a00, identifier: 'shift', label: 'shift', Selected <AX element pid: 54419, elementOrHash.elementID: 105553156376736.64>
+                Key, 0x10b72cee0, label: 'Z' <AX element pid: 54419, elementOrHash.elementID: 105553156376832.65>
+                Key, 0x10b64fba0, label: 'X' <AX element pid: 54419, elementOrHash.elementID: 105553156376928.66>
+                Key, 0x10b644c20, label: 'C' <AX element pid: 54419, elementOrHash.elementID: 105553156377024.67>
+                Key, 0x10b650660, label: 'V' <AX element pid: 54419, elementOrHash.elementID: 105553156377120.68>
+                Key, 0x10b722410, label: 'B' <AX element pid: 54419, elementOrHash.elementID: 105553156377216.69>
+                Key, 0x10b347390, label: 'N' <AX element pid: 54419, elementOrHash.elementID: 105553156377312.70>
+                Key, 0x10b650780, label: 'M' <AX element pid: 54419, elementOrHash.elementID: 105553156377408.71>
+                Key, 0x117d070b0, identifier: 'delete', label: 'delete' <AX element pid: 54419, elementOrHash.elementID: 105553156377504.72>
+                Key, 0x118006110, identifier: 'more', label: 'numbers' <AX element pid: 54419, elementOrHash.elementID: 105553156377600.73>
+                Button, 0x10b650b90, label: 'Emoji' <AX element pid: 54419, elementOrHash.elementID: 105553156377696.74>
+                Key, 0x10b650cb0, label: 'space' <AX element pid: 54419, elementOrHash.elementID: 105553156377792.75>
+                Button, 0x118104080, identifier: 'Done', label: 'done' <AX element pid: 54419, elementOrHash.elementID: 105553156377888.76>
+2026-08-25 21:47:34.680065+0800 EarthOnlineGuide[54419:482393] [Default] Query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' found matching snapshots: {(
+)} (error: (null))
+2026-08-25 21:47:34.680333+0800 EarthOnlineGuide[54419:482393] [Default] Replying to query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' with results: <XCTElementQueryResults: 0x600000d29590> (error: (null))
+2026-08-25 21:47:35.622176+0800 EarthOnlineGuide[54419:482393] [Default] Received request to fetch matches for query: ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:35.622293+0800 EarthOnlineGuide[54419:482399] [Default] Evaluating query:
+ ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:35.622334+0800 EarthOnlineGuide[54419:482399] [Default] Getting root element snapshot
+2026-08-25 21:47:35.622397+0800 EarthOnlineGuide[54419:482399] [Default] Getting snapshot for App element pid: 54419 for query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:35.622455+0800 EarthOnlineGuide[54419:482399] [Default] Query requires iOS snapshot attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeValue, XC_kAXXCAttributeTraits, XC_kAXXCAttributePlaceholderValue.
+2026-08-25 21:47:35.622510+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:35.622883+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:35.622880+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:35.622942+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:35.623018+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:35.623300+0800 EarthOnlineGuide[54419:482379] [Default] Got main window <AXUIElementRef 0x600000d2c3f0> {pid=54419} {uid=[ID:5 hash:0x10b6127f0]}
+2026-08-25 21:47:35.623355+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeTraits, XC_kAXXCAttributeTruncatedValue, XC_kAXXCAttributeParent, XC_kAXXCAttributePlaceholderValue
+2026-08-25 21:47:35.623412+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with parameters {
+    attributes =     (
+        5004,
+        5019,
+        5003,
+        5058,
+        2001,
+        2004,
+        2158,
+        5002,
+        5043
+    );
+    maxArrayCount = 2147483647;
+    maxChildren = 2147483647;
+    maxDepth = 2147483647;
+    snapshotKeyHonorModalViews = 0;
+    traverseFromParentsToChildren = 1;
+}
+2026-08-25 21:47:35.623473+0800 EarthOnlineGuide[54419:482379] [Default] Snapshot attributes 5004, 5019, 5003, 5058, 2001, 2004, 2158, 5002, 5043
+2026-08-25 21:47:35.630212+0800 EarthOnlineGuide[54419:482379] [Default] Got snapshot for <AXUIElementRef 0x600000d28cc0> {pid=54419} {uid=[ID:1 hash:0x0]}
+2026-08-25 21:47:35.630329+0800 EarthOnlineGuide[54419:482379] [Default] Got app orientation 0
+2026-08-25 21:47:35.630366+0800 EarthOnlineGuide[54419:482379] [Default] Captured accessibility snapshot data in 0.01s
+2026-08-25 21:47:35.630428+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'EarthOnlineGuide' for privileged AX value slot attributes
+2026-08-25 21:47:35.630489+0800 EarthOnlineGuide[54419:482399] [Default] Found main window: Window
+2026-08-25 21:47:35.630545+0800 EarthOnlineGuide[54419:482399] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:35.630664+0800 EarthOnlineGuide[54419:482399] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:35.630756+0800 EarthOnlineGuide[54419:482399] [Default] TextField, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused is not actually a child of Other, including at this point anyway (rdar://problem/20738636)
+2026-08-25 21:47:35.630935+0800 EarthOnlineGuide[54419:482399] [Default] App orientation is 0 (not portrait) and UITextEffectsWindow window Window is not main window
+2026-08-25 21:47:35.630987+0800 EarthOnlineGuide[54419:482399] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:35.631049+0800 EarthOnlineGuide[54419:482399] [Default] App orientation is 0 (not portrait) and UIRemoteKeyboardWindow window Window is not main window
+2026-08-25 21:47:35.631141+0800 EarthOnlineGuide[54419:482399] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:35.631307+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Q' for privileged AX value slot attributes
+2026-08-25 21:47:35.631469+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'W' for privileged AX value slot attributes
+2026-08-25 21:47:35.631517+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'E' for privileged AX value slot attributes
+2026-08-25 21:47:35.631548+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'R' for privileged AX value slot attributes
+2026-08-25 21:47:35.631577+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'T' for privileged AX value slot attributes
+2026-08-25 21:47:35.631623+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Y' for privileged AX value slot attributes
+2026-08-25 21:47:35.631653+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'U' for privileged AX value slot attributes
+2026-08-25 21:47:35.631687+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'I' for privileged AX value slot attributes
+2026-08-25 21:47:35.631714+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'O' for privileged AX value slot attributes
+2026-08-25 21:47:35.631766+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'P' for privileged AX value slot attributes
+2026-08-25 21:47:35.631806+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'A' for privileged AX value slot attributes
+2026-08-25 21:47:35.631910+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'S' for privileged AX value slot attributes
+2026-08-25 21:47:35.632101+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'D' for privileged AX value slot attributes
+2026-08-25 21:47:35.632340+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'F' for privileged AX value slot attributes
+2026-08-25 21:47:35.632420+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'G' for privileged AX value slot attributes
+2026-08-25 21:47:35.632494+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'H' for privileged AX value slot attributes
+2026-08-25 21:47:35.632616+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'J' for privileged AX value slot attributes
+2026-08-25 21:47:35.632674+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'K' for privileged AX value slot attributes
+2026-08-25 21:47:35.632714+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'L' for privileged AX value slot attributes
+2026-08-25 21:47:35.632748+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'shift' for privileged AX value slot attributes
+2026-08-25 21:47:35.632781+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934649
+2026-08-25 21:47:35.632821+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934649, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:35.632853+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Z' for privileged AX value slot attributes
+2026-08-25 21:47:35.633060+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'X' for privileged AX value slot attributes
+2026-08-25 21:47:35.633128+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'C' for privileged AX value slot attributes
+2026-08-25 21:47:35.633267+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'V' for privileged AX value slot attributes
+2026-08-25 21:47:35.633392+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'B' for privileged AX value slot attributes
+2026-08-25 21:47:35.633512+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'N' for privileged AX value slot attributes
+2026-08-25 21:47:35.633554+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'M' for privileged AX value slot attributes
+2026-08-25 21:47:35.633589+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'delete' for privileged AX value slot attributes
+2026-08-25 21:47:35.633629+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'numbers' for privileged AX value slot attributes
+2026-08-25 21:47:35.633658+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Emoji' for privileged AX value slot attributes
+2026-08-25 21:47:35.633689+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:35.633719+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:35.633766+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'space' for privileged AX value slot attributes
+2026-08-25 21:47:35.633865+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'done' for privileged AX value slot attributes
+2026-08-25 21:47:35.633892+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:35.633931+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:35.634026+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:35.634065+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:35.634071+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:35.634094+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:35.634099+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:35.634121+0800 EarthOnlineGuide[54419:482379] [Default] XCTElementQuery: set data source for rootElementSnapshot to <XCTAutomationSession: 0x60000261d0e0>
+2026-08-25 21:47:35.634180+0800 EarthOnlineGuide[54419:482399] [Default] Finding all matches with input Application, pid: 54419, label: 'EarthOnlineGuide' using transformers 
+↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:35.634466+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] applied transformer `Descendants matching type StaticText` to input {(
+    Application, pid: 54419, label: 'EarthOnlineGuide'
+)}, found {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}
+2026-08-25 21:47:35.634597+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] applied transformer `Elements matching predicate '"ui-test-dynamic-type" IN identifiers'` to input {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}, found {(
+)}
+2026-08-25 21:47:35.634634+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] setting out related elements in early return {(
+)}
+2026-08-25 21:47:35.635474+0800 EarthOnlineGuide[54419:482399] [Default] Current tree:
+Application, 0x10d033e80, pid: 54419, label: 'EarthOnlineGuide' <App element pid: 54419>
+  Window (Main), 0x10d031a50 <AX element pid: 54419, elementOrHash.elementID: 4485883888.5>
+    Other, 0x10d05a670 <AX element pid: 54419, elementOrHash.elementID: 4485887328.8>
+      Other, 0x10d00ca20 <AX element pid: 54419, elementOrHash.elementID: 4485890320.11>
+        Other, 0x10d057230 <AX element pid: 54419, elementOrHash.elementID: 4482744352.15>
+          Other, 0x10d05f7a0 <AX element pid: 54419, elementOrHash.elementID: 105553169893408.23>
+            Image, 0x10d03dfe0, label: 'earth-guide-mark-v2' <AX element pid: 54419, elementOrHash.elementID: 105553169784640.29>
+            StaticText, 0x10d066a50, label: '欢迎来到地球Online' <AX element pid: 54419, elementOrHash.elementID: 105553169784800.30>
+            StaticText, 0x10d042b60, label: '请设置你的ID' <AX element pid: 54419, elementOrHash.elementID: 105553169785600.31>
+            TextField, 0x10d03e320, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused <AX element pid: 54419, elementOrHash.elementID: 4505169408.3>
+            Button, 0x102907f80, identifier: 'onboarding-start', label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893248.32>
+              Image, 0x10b754890, label: 'Right', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893888.38>
+              StaticText, 0x10b72e720, label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169891488.39>
+  Window, 0x10b73d240 <AX element pid: 54419, elementOrHash.elementID: 4488257024.6>
+    Other, 0x10b6524a0 <AX element pid: 54419, elementOrHash.elementID: 4513361264.9>
+      Other, 0x10b648980 <AX element pid: 54419, elementOrHash.elementID: 4694495376.12>
+      Other, 0x10b6284b0 <AX element pid: 54419, elementOrHash.elementID: 4513362944.13>
+        Other, 0x10b64fba0 <AX element pid: 54419, elementOrHash.elementID: 4513285376.16>
+          Other, 0x10b644c20 <AX element pid: 54419, elementOrHash.elementID: 105553169781920.24>
+        Other, 0x10b650660 <AX element pid: 54419, elementOrHash.elementID: 4487155088.17>
+  Window, 0x10b650780 <AX element pid: 54419, elementOrHash.elementID: 4488513024.7>
+    Other, 0x10d038430 <AX element pid: 54419, elementOrHash.elementID: 4487143904.10>
+      Other, 0x10d039b20 <AX element pid: 54419, elementOrHash.elementID: 4487144624.14>
+        Other, 0x10d01b000 <AX element pid: 54419, elementOrHash.elementID: 4486967712.18>
+        Other, 0x10d0157d0 <AX element pid: 54419, elementOrHash.elementID: 4487191824.19>
+          Other, 0x10d03f2a0 <AX element pid: 54419, elementOrHash.elementID: 4487192448.25>
+            Other, 0x10d04cd40 <AX element pid: 54419, elementOrHash.elementID: 4487192960.33>
+        Other, 0x10d02e7a0, identifier: 'SystemInputAssistantView' <AX element pid: 54419, elementOrHash.elementID: 4483132736.20>
+          Other, 0x10d02a900, identifier: 'CenterPageView' <AX element pid: 54419, elementOrHash.elementID: 4513347456.26>
+            Other, 0x10d05d400 <AX element pid: 54419, elementOrHash.elementID: 4513344736.34>
+              ScrollView, 0x10d0342f0 <AX element pid: 54419, elementOrHash.elementID: 4530931712.40>
+            Other, 0x10d0202c0 <AX element pid: 54419, elementOrHash.elementID: 4513353088.35>
+              Other, 0x10d029a10, label: 'Typing Predictions' <AX element pid: 54419, elementOrHash.elementID: 4486894096.41>
+                Other, 0x10d029b30 <AX element pid: 54419, elementOrHash.elementID: 4487082560.44>
+                  Other, 0x10d04c310 <AX element pid: 54419, elementOrHash.elementID: 4487036928.77>
+                    Other, 0x10d04c430 <AX element pid: 54419, elementOrHash.elementID: 4513419408.78>
+                    Other, 0x10d066f60 <AX element pid: 54419, elementOrHash.elementID: 4513432160.79>
+                    Other, 0x10d067080 <AX element pid: 54419, elementOrHash.elementID: 4513442480.80>
+        Other, 0x10d0402d0 <AX element pid: 54419, elementOrHash.elementID: 4487171824.21>
+          Other, 0x10d0403f0 <AX element pid: 54419, elementOrHash.elementID: 4487167424.27>
+            Other, 0x10d044730 <AX element pid: 54419, elementOrHash.elementID: 4487168560.36>
+              Other, 0x10d044850 <AX element pid: 54419, elementOrHash.elementID: 4487169584.42>
+        Other, 0x10d065f90 <AX element pid: 54419, elementOrHash.elementID: 4482854656.22>
+          Keyboard, 0x10d0660b0 <AX element pid: 54419, elementOrHash.elementID: 4486900656.28>
+            Other, 0x10d0661d0 <AX element pid: 54419, elementOrHash.elementID: 4488227840.37>
+              Other, 0x10d031cb0 <AX element pid: 54419, elementOrHash.elementID: 4496850432.43>
+                Key, 0x10d031dd0, label: 'Q' <AX element pid: 54419, elementOrHash.elementID: 105553156374720.45>
+                Key, 0x10b650b90, label: 'W' <AX element pid: 54419, elementOrHash.elementID: 105553156375008.46>
+                Key, 0x10b330f90, label: 'E' <AX element pid: 54419, elementOrHash.elementID: 105553156375104.47>
+                Key, 0x10b3312f0, label: 'R' <AX element pid: 54419, elementOrHash.elementID: 105553156375200.48>
+                Key, 0x10b32e2d0, label: 'T' <AX element pid: 54419, elementOrHash.elementID: 105553156375296.49>
+                Key, 0x10b744a00, label: 'Y' <AX element pid: 54419, elementOrHash.elementID: 105553156375392.50>
+                Key, 0x10b32df40, label: 'U' <AX element pid: 54419, elementOrHash.elementID: 105553156375488.51>
+                Key, 0x10b72cee0, label: 'I' <AX element pid: 54419, elementOrHash.elementID: 105553156375584.52>
+                Key, 0x10b3358c0, label: 'O' <AX element pid: 54419, elementOrHash.elementID: 105553156375680.53>
+                Key, 0x10b722410, label: 'P' <AX element pid: 54419, elementOrHash.elementID: 105553156375776.54>
+                Key, 0x10b749fc0, label: 'A' <AX element pid: 54419, elementOrHash.elementID: 105553156375872.55>
+                Key, 0x10b650cb0, label: 'S' <AX element pid: 54419, elementOrHash.elementID: 105553156375968.56>
+                Key, 0x10d031ef0, label: 'D' <AX element pid: 54419, elementOrHash.elementID: 105553156376064.57>
+                Key, 0x118104080, label: 'F' <AX element pid: 54419, elementOrHash.elementID: 105553156376160.58>
+                Key, 0x10d02f450, label: 'G' <AX element pid: 54419, elementOrHash.elementID: 105553156376256.59>
+                Key, 0x10b73d4d0, label: 'H' <AX element pid: 54419, elementOrHash.elementID: 105553156376352.60>
+                Key, 0x10b7329b0, label: 'J' <AX element pid: 54419, elementOrHash.elementID: 105553156376448.61>
+                Key, 0x10b732ad0, label: 'K' <AX element pid: 54419, elementOrHash.elementID: 105553156376544.62>
+                Key, 0x10b335f90, label: 'L' <AX element pid: 54419, elementOrHash.elementID: 105553156376640.63>
+                Button, 0x10b7497b0, identifier: 'shift', label: 'shift', Selected <AX element pid: 54419, elementOrHash.elementID: 105553156376736.64>
+                Key, 0x10b340230, label: 'Z' <AX element pid: 54419, elementOrHash.elementID: 105553156376832.65>
+                Key, 0x10b7498d0, label: 'X' <AX element pid: 54419, elementOrHash.elementID: 105553156376928.66>
+                Key, 0x10b33fed0, label: 'C' <AX element pid: 54419, elementOrHash.elementID: 105553156377024.67>
+                Key, 0x118105af0, label: 'V' <AX element pid: 54419, elementOrHash.elementID: 105553156377120.68>
+                Key, 0x118006110, label: 'B' <AX element pid: 54419, elementOrHash.elementID: 105553156377216.69>
+                Key, 0x118005880, label: 'N' <AX element pid: 54419, elementOrHash.elementID: 105553156377312.70>
+                Key, 0x10b33df70, label: 'M' <AX element pid: 54419, elementOrHash.elementID: 105553156377408.71>
+                Key, 0x10b715790, identifier: 'delete', label: 'delete' <AX element pid: 54419, elementOrHash.elementID: 105553156377504.72>
+                Key, 0x10b650dd0, identifier: 'more', label: 'numbers' <AX element pid: 54419, elementOrHash.elementID: 105553156377600.73>
+                Button, 0x10b650ef0, label: 'Emoji' <AX element pid: 54419, elementOrHash.elementID: 105553156377696.74>
+                Key, 0x10b651010, label: 'space' <AX element pid: 54419, elementOrHash.elementID: 105553156377792.75>
+                Button, 0x10b32a730, identifier: 'Done', label: 'done' <AX element pid: 54419, elementOrHash.elementID: 105553156377888.76>
+2026-08-25 21:47:35.636647+0800 EarthOnlineGuide[54419:482399] [Default] Query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' found matching snapshots: {(
+)} (error: (null))
+2026-08-25 21:47:35.636776+0800 EarthOnlineGuide[54419:482399] [Default] Replying to query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' with results: <XCTElementQueryResults: 0x600000d2ca80> (error: (null))
+2026-08-25 21:47:36.681500+0800 EarthOnlineGuide[54419:482399] [Default] Received request to fetch matches for query: ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:36.681720+0800 EarthOnlineGuide[54419:482396] [Default] Evaluating query:
+ ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:36.681795+0800 EarthOnlineGuide[54419:482396] [Default] Getting root element snapshot
+2026-08-25 21:47:36.681852+0800 EarthOnlineGuide[54419:482396] [Default] Getting snapshot for App element pid: 54419 for query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:36.681920+0800 EarthOnlineGuide[54419:482396] [Default] Query requires iOS snapshot attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeValue, XC_kAXXCAttributeTraits, XC_kAXXCAttributePlaceholderValue.
+2026-08-25 21:47:36.682029+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:36.682114+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:36.682110+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:36.682147+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:36.682158+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:36.682870+0800 EarthOnlineGuide[54419:482379] [Default] Got main window <AXUIElementRef 0x600000d20540> {pid=54419} {uid=[ID:5 hash:0x10b6127f0]}
+2026-08-25 21:47:36.682987+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeTraits, XC_kAXXCAttributeTruncatedValue, XC_kAXXCAttributeParent, XC_kAXXCAttributePlaceholderValue
+2026-08-25 21:47:36.683047+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with parameters {
+    attributes =     (
+        5004,
+        5019,
+        5003,
+        5058,
+        2001,
+        2004,
+        2158,
+        5002,
+        5043
+    );
+    maxArrayCount = 2147483647;
+    maxChildren = 2147483647;
+    maxDepth = 2147483647;
+    snapshotKeyHonorModalViews = 0;
+    traverseFromParentsToChildren = 1;
+}
+2026-08-25 21:47:36.683085+0800 EarthOnlineGuide[54419:482379] [Default] Snapshot attributes 5004, 5019, 5003, 5058, 2001, 2004, 2158, 5002, 5043
+2026-08-25 21:47:36.692698+0800 EarthOnlineGuide[54419:482379] [Default] Got snapshot for <AXUIElementRef 0x600000d2c090> {pid=54419} {uid=[ID:1 hash:0x0]}
+2026-08-25 21:47:36.692827+0800 EarthOnlineGuide[54419:482379] [Default] Got app orientation 0
+2026-08-25 21:47:36.692867+0800 EarthOnlineGuide[54419:482379] [Default] Captured accessibility snapshot data in 0.01s
+2026-08-25 21:47:36.692925+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'EarthOnlineGuide' for privileged AX value slot attributes
+2026-08-25 21:47:36.693002+0800 EarthOnlineGuide[54419:482396] [Default] Found main window: Window
+2026-08-25 21:47:36.693064+0800 EarthOnlineGuide[54419:482396] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:36.693111+0800 EarthOnlineGuide[54419:482396] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:36.693152+0800 EarthOnlineGuide[54419:482396] [Default] TextField, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused is not actually a child of Other, including at this point anyway (rdar://problem/20738636)
+2026-08-25 21:47:36.693216+0800 EarthOnlineGuide[54419:482396] [Default] App orientation is 0 (not portrait) and UITextEffectsWindow window Window is not main window
+2026-08-25 21:47:36.693262+0800 EarthOnlineGuide[54419:482396] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:36.693359+0800 EarthOnlineGuide[54419:482396] [Default] App orientation is 0 (not portrait) and UIRemoteKeyboardWindow window Window is not main window
+2026-08-25 21:47:36.693439+0800 EarthOnlineGuide[54419:482396] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:36.693541+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'Q' for privileged AX value slot attributes
+2026-08-25 21:47:36.693580+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'W' for privileged AX value slot attributes
+2026-08-25 21:47:36.693610+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'E' for privileged AX value slot attributes
+2026-08-25 21:47:36.693648+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'R' for privileged AX value slot attributes
+2026-08-25 21:47:36.693677+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'T' for privileged AX value slot attributes
+2026-08-25 21:47:36.693704+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'Y' for privileged AX value slot attributes
+2026-08-25 21:47:36.693743+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'U' for privileged AX value slot attributes
+2026-08-25 21:47:36.693773+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'I' for privileged AX value slot attributes
+2026-08-25 21:47:36.693800+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'O' for privileged AX value slot attributes
+2026-08-25 21:47:36.693828+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'P' for privileged AX value slot attributes
+2026-08-25 21:47:36.693877+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'A' for privileged AX value slot attributes
+2026-08-25 21:47:36.693904+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'S' for privileged AX value slot attributes
+2026-08-25 21:47:36.693929+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'D' for privileged AX value slot attributes
+2026-08-25 21:47:36.693987+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'F' for privileged AX value slot attributes
+2026-08-25 21:47:36.694018+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'G' for privileged AX value slot attributes
+2026-08-25 21:47:36.694053+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'H' for privileged AX value slot attributes
+2026-08-25 21:47:36.694083+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'J' for privileged AX value slot attributes
+2026-08-25 21:47:36.694114+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'K' for privileged AX value slot attributes
+2026-08-25 21:47:36.694151+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'L' for privileged AX value slot attributes
+2026-08-25 21:47:36.694186+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'shift' for privileged AX value slot attributes
+2026-08-25 21:47:36.694224+0800 EarthOnlineGuide[54419:482396] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934649
+2026-08-25 21:47:36.694293+0800 EarthOnlineGuide[54419:482396] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934649, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:36.694320+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'Z' for privileged AX value slot attributes
+2026-08-25 21:47:36.694373+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'X' for privileged AX value slot attributes
+2026-08-25 21:47:36.694442+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'C' for privileged AX value slot attributes
+2026-08-25 21:47:36.694490+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'V' for privileged AX value slot attributes
+2026-08-25 21:47:36.694589+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'B' for privileged AX value slot attributes
+2026-08-25 21:47:36.694623+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'N' for privileged AX value slot attributes
+2026-08-25 21:47:36.694768+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'M' for privileged AX value slot attributes
+2026-08-25 21:47:36.694851+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'delete' for privileged AX value slot attributes
+2026-08-25 21:47:36.694976+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'numbers' for privileged AX value slot attributes
+2026-08-25 21:47:36.695095+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'Emoji' for privileged AX value slot attributes
+2026-08-25 21:47:36.695147+0800 EarthOnlineGuide[54419:482396] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:36.695187+0800 EarthOnlineGuide[54419:482396] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:36.695221+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'space' for privileged AX value slot attributes
+2026-08-25 21:47:36.695265+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'done' for privileged AX value slot attributes
+2026-08-25 21:47:36.695297+0800 EarthOnlineGuide[54419:482396] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:36.695325+0800 EarthOnlineGuide[54419:482396] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:36.695429+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:36.695463+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:36.695459+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:36.695490+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:36.695492+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:36.695541+0800 EarthOnlineGuide[54419:482379] [Default] XCTElementQuery: set data source for rootElementSnapshot to <XCTAutomationSession: 0x60000261d0e0>
+2026-08-25 21:47:36.695633+0800 EarthOnlineGuide[54419:482396] [Default] Finding all matches with input Application, pid: 54419, label: 'EarthOnlineGuide' using transformers 
+↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:36.695985+0800 EarthOnlineGuide[54419:482396] [Default] [Match All] applied transformer `Descendants matching type StaticText` to input {(
+    Application, pid: 54419, label: 'EarthOnlineGuide'
+)}, found {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}
+2026-08-25 21:47:36.696089+0800 EarthOnlineGuide[54419:482396] [Default] [Match All] applied transformer `Elements matching predicate '"ui-test-dynamic-type" IN identifiers'` to input {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}, found {(
+)}
+2026-08-25 21:47:36.696120+0800 EarthOnlineGuide[54419:482396] [Default] [Match All] setting out related elements in early return {(
+)}
+2026-08-25 21:47:36.697203+0800 EarthOnlineGuide[54419:482396] [Default] Current tree:
+Application, 0x10d033e80, pid: 54419, label: 'EarthOnlineGuide' <App element pid: 54419>
+  Window (Main), 0x10d05a670 <AX element pid: 54419, elementOrHash.elementID: 4485883888.5>
+    Other, 0x10b754890 <AX element pid: 54419, elementOrHash.elementID: 4485887328.8>
+      Other, 0x10b74f510 <AX element pid: 54419, elementOrHash.elementID: 4485890320.11>
+        Other, 0x10b72e720 <AX element pid: 54419, elementOrHash.elementID: 4482744352.15>
+          Other, 0x10b73d240 <AX element pid: 54419, elementOrHash.elementID: 105553169893408.23>
+            Image, 0x10b744a00, label: 'earth-guide-mark-v2' <AX element pid: 54419, elementOrHash.elementID: 105553169784640.29>
+            StaticText, 0x10b72cee0, label: '欢迎来到地球Online' <AX element pid: 54419, elementOrHash.elementID: 105553169784800.30>
+            StaticText, 0x10b722410, label: '请设置你的ID' <AX element pid: 54419, elementOrHash.elementID: 105553169785600.31>
+            TextField, 0x10b749fc0, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused <AX element pid: 54419, elementOrHash.elementID: 4505169408.3>
+            Button, 0x10b6524a0, identifier: 'onboarding-start', label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893248.32>
+              Image, 0x10b648980, label: 'Right', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893888.38>
+              StaticText, 0x10b6284b0, label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169891488.39>
+  Window, 0x10b64fba0 <AX element pid: 54419, elementOrHash.elementID: 4488257024.6>
+    Other, 0x10b3358c0 <AX element pid: 54419, elementOrHash.elementID: 4513361264.9>
+      Other, 0x10b32df40 <AX element pid: 54419, elementOrHash.elementID: 4694495376.12>
+      Other, 0x10b335f90 <AX element pid: 54419, elementOrHash.elementID: 4513362944.13>
+        Other, 0x10b340230 <AX element pid: 54419, elementOrHash.elementID: 4513285376.16>
+          Other, 0x10d031a50 <AX element pid: 54419, elementOrHash.elementID: 105553169781920.24>
+        Other, 0x10b33fed0 <AX element pid: 54419, elementOrHash.elementID: 4487155088.17>
+  Window, 0x10b33df70 <AX element pid: 54419, elementOrHash.elementID: 4488513024.7>
+    Other, 0x10b32a730 <AX element pid: 54419, elementOrHash.elementID: 4487143904.10>
+      Other, 0x10b32fe90 <AX element pid: 54419, elementOrHash.elementID: 4487144624.14>
+        Other, 0x10b330200 <AX element pid: 54419, elementOrHash.elementID: 4486967712.18>
+        Other, 0x10b32dba0 <AX element pid: 54419, elementOrHash.elementID: 4487191824.19>
+          Other, 0x10b339a40 <AX element pid: 54419, elementOrHash.elementID: 4487192448.25>
+            Other, 0x10b32e630 <AX element pid: 54419, elementOrHash.elementID: 4487192960.33>
+        Other, 0x10b340c70, identifier: 'SystemInputAssistantView' <AX element pid: 54419, elementOrHash.elementID: 4483132736.20>
+          Other, 0x10b342490, identifier: 'CenterPageView' <AX element pid: 54419, elementOrHash.elementID: 4513347456.26>
+            Other, 0x10b341360 <AX element pid: 54419, elementOrHash.elementID: 4513344736.34>
+              ScrollView, 0x10b340fd0 <AX element pid: 54419, elementOrHash.elementID: 4530931712.40>
+            Other, 0x10b343290 <AX element pid: 54419, elementOrHash.elementID: 4513353088.35>
+              Other, 0x10b342f00, label: 'Typing Predictions' <AX element pid: 54419, elementOrHash.elementID: 4486894096.41>
+                Other, 0x10b3443c0 <AX element pid: 54419, elementOrHash.elementID: 4487082560.44>
+                  Other, 0x10b344730 <AX element pid: 54419, elementOrHash.elementID: 4487036928.77>
+                    Other, 0x10b344aa0 <AX element pid: 54419, elementOrHash.elementID: 4513419408.78>
+                    Other, 0x10b344050 <AX element pid: 54419, elementOrHash.elementID: 4513432160.79>
+                    Other, 0x10b343ce0 <AX element pid: 54419, elementOrHash.elementID: 4513442480.80>
+        Other, 0x10b343970 <AX element pid: 54419, elementOrHash.elementID: 4487171824.21>
+          Other, 0x10b3435e0 <AX element pid: 54419, elementOrHash.elementID: 4487167424.27>
+            Other, 0x10b342b80 <AX element pid: 54419, elementOrHash.elementID: 4487168560.36>
+              Other, 0x10b3427f0 <AX element pid: 54419, elementOrHash.elementID: 4487169584.42>
+        Other, 0x10b345840 <AX element pid: 54419, elementOrHash.elementID: 4482854656.22>
+          Keyboard, 0x10b3454b0 <AX element pid: 54419, elementOrHash.elementID: 4486900656.28>
+            Other, 0x10b345150 <AX element pid: 54419, elementOrHash.elementID: 4488227840.37>
+              Other, 0x10b344df0 <AX element pid: 54419, elementOrHash.elementID: 4496850432.43>
+                Key, 0x10b346960, label: 'Q' <AX element pid: 54419, elementOrHash.elementID: 105553156374720.45>
+                Key, 0x10d03dd50, label: 'W' <AX element pid: 54419, elementOrHash.elementID: 105553156375008.46>
+                Key, 0x10d037ac0, label: 'E' <AX element pid: 54419, elementOrHash.elementID: 105553156375104.47>
+                Key, 0x10b644c20, label: 'R' <AX element pid: 54419, elementOrHash.elementID: 105553156375200.48>
+                Key, 0x10b650660, label: 'T' <AX element pid: 54419, elementOrHash.elementID: 105553156375296.49>
+                Key, 0x10b650780, label: 'Y' <AX element pid: 54419, elementOrHash.elementID: 105553156375392.50>
+                Key, 0x10b346cf0, label: 'U' <AX element pid: 54419, elementOrHash.elementID: 105553156375488.51>
+                Key, 0x10b347040, label: 'I' <AX element pid: 54419, elementOrHash.elementID: 105553156375584.52>
+                Key, 0x10b650b90, label: 'O' <AX element pid: 54419, elementOrHash.elementID: 105553156375680.53>
+                Key, 0x10b347390, label: 'P' <AX element pid: 54419, elementOrHash.elementID: 105553156375776.54>
+                Key, 0x10d03dfe0, label: 'A' <AX element pid: 54419, elementOrHash.elementID: 105553156375872.55>
+                Key, 0x10d05f7a0, label: 'S' <AX element pid: 54419, elementOrHash.elementID: 105553156375968.56>
+                Key, 0x10d057230, label: 'D' <AX element pid: 54419, elementOrHash.elementID: 105553156376064.57>
+                Key, 0x10d00ca20, label: 'F' <AX element pid: 54419, elementOrHash.elementID: 105553156376160.58>
+                Key, 0x10d066a50, label: 'G' <AX element pid: 54419, elementOrHash.elementID: 105553156376256.59>
+                Key, 0x10b73d4d0, label: 'H' <AX element pid: 54419, elementOrHash.elementID: 105553156376352.60>
+                Key, 0x10b7497b0, label: 'J' <AX element pid: 54419, elementOrHash.elementID: 105553156376448.61>
+                Key, 0x10d042b60, label: 'K' <AX element pid: 54419, elementOrHash.elementID: 105553156376544.62>
+                Key, 0x10d03e320, label: 'L' <AX element pid: 54419, elementOrHash.elementID: 105553156376640.63>
+                Button, 0x10d039b20, identifier: 'shift', label: 'shift', Selected <AX element pid: 54419, elementOrHash.elementID: 105553156376736.64>
+                Key, 0x10d038430, label: 'Z' <AX element pid: 54419, elementOrHash.elementID: 105553156376832.65>
+                Key, 0x10b346610, label: 'X' <AX element pid: 54419, elementOrHash.elementID: 105553156376928.66>
+                Key, 0x10b7498d0, label: 'C' <AX element pid: 54419, elementOrHash.elementID: 105553156377024.67>
+                Key, 0x10d01b000, label: 'V' <AX element pid: 54419, elementOrHash.elementID: 105553156377120.68>
+                Key, 0x10b7329b0, label: 'B' <AX element pid: 54419, elementOrHash.elementID: 105553156377216.69>
+                Key, 0x10d0157d0, label: 'N' <AX element pid: 54419, elementOrHash.elementID: 105553156377312.70>
+                Key, 0x10b732ad0, label: 'M' <AX element pid: 54419, elementOrHash.elementID: 105553156377408.71>
+                Key, 0x10b75a4b0, identifier: 'delete', label: 'delete' <AX element pid: 54419, elementOrHash.elementID: 105553156377504.72>
+                Key, 0x10d308b00, identifier: 'more', label: 'numbers' <AX element pid: 54419, elementOrHash.elementID: 105553156377600.73>
+                Button, 0x118006110, label: 'Emoji' <AX element pid: 54419, elementOrHash.elementID: 105553156377696.74>
+                Key, 0x10b650cb0, label: 'space' <AX element pid: 54419, elementOrHash.elementID: 105553156377792.75>
+                Button, 0x10b650dd0, identifier: 'Done', label: 'done' <AX element pid: 54419, elementOrHash.elementID: 105553156377888.76>
+2026-08-25 21:47:36.698245+0800 EarthOnlineGuide[54419:482396] [Default] Query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' found matching snapshots: {(
+)} (error: (null))
+2026-08-25 21:47:36.698352+0800 EarthOnlineGuide[54419:482396] [Default] Replying to query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' with results: <XCTElementQueryResults: 0x600000cb0cf0> (error: (null))
+2026-08-25 21:47:37.698526+0800 EarthOnlineGuide[54419:482396] [Default] Received request to fetch matches for query: ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:37.698783+0800 EarthOnlineGuide[54419:482399] [Default] Evaluating query:
+ ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:37.699868+0800 EarthOnlineGuide[54419:482399] [Default] Getting root element snapshot
+2026-08-25 21:47:37.700268+0800 EarthOnlineGuide[54419:482399] [Default] Getting snapshot for App element pid: 54419 for query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:37.700511+0800 EarthOnlineGuide[54419:482399] [Default] Query requires iOS snapshot attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeValue, XC_kAXXCAttributeTraits, XC_kAXXCAttributePlaceholderValue.
+2026-08-25 21:47:37.700665+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:37.700758+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:37.700770+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:37.700836+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:37.700843+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:37.701809+0800 EarthOnlineGuide[54419:482379] [Default] Got main window <AXUIElementRef 0x600000c65770> {pid=54419} {uid=[ID:5 hash:0x10b6127f0]}
+2026-08-25 21:47:37.702189+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeTraits, XC_kAXXCAttributeTruncatedValue, XC_kAXXCAttributeParent, XC_kAXXCAttributePlaceholderValue
+2026-08-25 21:47:37.702417+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with parameters {
+    attributes =     (
+        5004,
+        5019,
+        5003,
+        5058,
+        2001,
+        2004,
+        2158,
+        5002,
+        5043
+    );
+    maxArrayCount = 2147483647;
+    maxChildren = 2147483647;
+    maxDepth = 2147483647;
+    snapshotKeyHonorModalViews = 0;
+    traverseFromParentsToChildren = 1;
+}
+2026-08-25 21:47:37.702572+0800 EarthOnlineGuide[54419:482379] [Default] Snapshot attributes 5004, 5019, 5003, 5058, 2001, 2004, 2158, 5002, 5043
+2026-08-25 21:47:37.717699+0800 EarthOnlineGuide[54419:482379] [Default] Got snapshot for <AXUIElementRef 0x600000c65410> {pid=54419} {uid=[ID:1 hash:0x0]}
+2026-08-25 21:47:37.717796+0800 EarthOnlineGuide[54419:482379] [Default] Got app orientation 0
+2026-08-25 21:47:37.717836+0800 EarthOnlineGuide[54419:482379] [Default] Captured accessibility snapshot data in 0.02s
+2026-08-25 21:47:37.717888+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'EarthOnlineGuide' for privileged AX value slot attributes
+2026-08-25 21:47:37.717965+0800 EarthOnlineGuide[54419:482399] [Default] Found main window: Window
+2026-08-25 21:47:37.718036+0800 EarthOnlineGuide[54419:482399] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:37.718106+0800 EarthOnlineGuide[54419:482399] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:37.718202+0800 EarthOnlineGuide[54419:482399] [Default] TextField, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused is not actually a child of Other, including at this point anyway (rdar://problem/20738636)
+2026-08-25 21:47:37.718308+0800 EarthOnlineGuide[54419:482399] [Default] App orientation is 0 (not portrait) and UITextEffectsWindow window Window is not main window
+2026-08-25 21:47:37.718348+0800 EarthOnlineGuide[54419:482399] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:37.718412+0800 EarthOnlineGuide[54419:482399] [Default] App orientation is 0 (not portrait) and UIRemoteKeyboardWindow window Window is not main window
+2026-08-25 21:47:37.718454+0800 EarthOnlineGuide[54419:482399] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:37.718592+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Q' for privileged AX value slot attributes
+2026-08-25 21:47:37.718631+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'W' for privileged AX value slot attributes
+2026-08-25 21:47:37.718670+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'E' for privileged AX value slot attributes
+2026-08-25 21:47:37.718702+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'R' for privileged AX value slot attributes
+2026-08-25 21:47:37.718733+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'T' for privileged AX value slot attributes
+2026-08-25 21:47:37.718773+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Y' for privileged AX value slot attributes
+2026-08-25 21:47:37.719578+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'U' for privileged AX value slot attributes
+2026-08-25 21:47:37.719614+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'I' for privileged AX value slot attributes
+2026-08-25 21:47:37.719645+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'O' for privileged AX value slot attributes
+2026-08-25 21:47:37.719676+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'P' for privileged AX value slot attributes
+2026-08-25 21:47:37.719704+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'A' for privileged AX value slot attributes
+2026-08-25 21:47:37.719762+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'S' for privileged AX value slot attributes
+2026-08-25 21:47:37.719797+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'D' for privileged AX value slot attributes
+2026-08-25 21:47:37.719825+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'F' for privileged AX value slot attributes
+2026-08-25 21:47:37.720027+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'G' for privileged AX value slot attributes
+2026-08-25 21:47:37.720074+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'H' for privileged AX value slot attributes
+2026-08-25 21:47:37.720109+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'J' for privileged AX value slot attributes
+2026-08-25 21:47:37.720153+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'K' for privileged AX value slot attributes
+2026-08-25 21:47:37.720207+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'L' for privileged AX value slot attributes
+2026-08-25 21:47:37.720304+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'shift' for privileged AX value slot attributes
+2026-08-25 21:47:37.720410+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934649
+2026-08-25 21:47:37.720457+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934649, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:37.720497+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Z' for privileged AX value slot attributes
+2026-08-25 21:47:37.720537+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'X' for privileged AX value slot attributes
+2026-08-25 21:47:37.720573+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'C' for privileged AX value slot attributes
+2026-08-25 21:47:37.720609+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'V' for privileged AX value slot attributes
+2026-08-25 21:47:37.720641+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'B' for privileged AX value slot attributes
+2026-08-25 21:47:37.720687+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'N' for privileged AX value slot attributes
+2026-08-25 21:47:37.720718+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'M' for privileged AX value slot attributes
+2026-08-25 21:47:37.720758+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'delete' for privileged AX value slot attributes
+2026-08-25 21:47:37.720805+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'numbers' for privileged AX value slot attributes
+2026-08-25 21:47:37.720859+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'Emoji' for privileged AX value slot attributes
+2026-08-25 21:47:37.720966+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:37.721018+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:37.721080+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'space' for privileged AX value slot attributes
+2026-08-25 21:47:37.721129+0800 EarthOnlineGuide[54419:482399] [Default] Checking 'done' for privileged AX value slot attributes
+2026-08-25 21:47:37.721175+0800 EarthOnlineGuide[54419:482399] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:37.721221+0800 EarthOnlineGuide[54419:482399] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:37.721351+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:37.721399+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:37.721405+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:37.721450+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:37.721458+0800 EarthOnlineGuide[54419:482399] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:37.721497+0800 EarthOnlineGuide[54419:482379] [Default] XCTElementQuery: set data source for rootElementSnapshot to <XCTAutomationSession: 0x60000261d0e0>
+2026-08-25 21:47:37.721609+0800 EarthOnlineGuide[54419:482399] [Default] Finding all matches with input Application, pid: 54419, label: 'EarthOnlineGuide' using transformers 
+↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:37.722072+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] applied transformer `Descendants matching type StaticText` to input {(
+    Application, pid: 54419, label: 'EarthOnlineGuide'
+)}, found {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}
+2026-08-25 21:47:37.722186+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] applied transformer `Elements matching predicate '"ui-test-dynamic-type" IN identifiers'` to input {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}, found {(
+)}
+2026-08-25 21:47:37.722257+0800 EarthOnlineGuide[54419:482399] [Default] [Match All] setting out related elements in early return {(
+)}
+2026-08-25 21:47:37.723181+0800 EarthOnlineGuide[54419:482399] [Default] Current tree:
+Application, 0x10b6524a0, pid: 54419, label: 'EarthOnlineGuide' <App element pid: 54419>
+  Window (Main), 0x10b648980 <AX element pid: 54419, elementOrHash.elementID: 4485883888.5>
+    Other, 0x10b6284b0 <AX element pid: 54419, elementOrHash.elementID: 4485887328.8>
+      Other, 0x10b64fba0 <AX element pid: 54419, elementOrHash.elementID: 4485890320.11>
+        Other, 0x10b644c20 <AX element pid: 54419, elementOrHash.elementID: 4482744352.15>
+          Other, 0x10b650660 <AX element pid: 54419, elementOrHash.elementID: 105553169893408.23>
+            Image, 0x10b650780, label: 'earth-guide-mark-v2' <AX element pid: 54419, elementOrHash.elementID: 105553169784640.29>
+            StaticText, 0x10b652c00, label: '欢迎来到地球Online' <AX element pid: 54419, elementOrHash.elementID: 105553169784800.30>
+            StaticText, 0x10b652d20, label: '请设置你的ID' <AX element pid: 54419, elementOrHash.elementID: 105553169785600.31>
+            TextField, 0x10b652e40, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused <AX element pid: 54419, elementOrHash.elementID: 4505169408.3>
+            Button, 0x10b754890, identifier: 'onboarding-start', label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893248.32>
+              Image, 0x10b74f510, label: 'Right', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893888.38>
+              StaticText, 0x10b74e5f0, label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169891488.39>
+  Window, 0x10b72e720 <AX element pid: 54419, elementOrHash.elementID: 4488257024.6>
+    Other, 0x10b73d240 <AX element pid: 54419, elementOrHash.elementID: 4513361264.9>
+      Other, 0x10b744a00 <AX element pid: 54419, elementOrHash.elementID: 4694495376.12>
+      Other, 0x10b72cee0 <AX element pid: 54419, elementOrHash.elementID: 4513362944.13>
+        Other, 0x10b722410 <AX element pid: 54419, elementOrHash.elementID: 4513285376.16>
+          Other, 0x10b749fc0 <AX element pid: 54419, elementOrHash.elementID: 105553169781920.24>
+        Other, 0x10b73d4d0 <AX element pid: 54419, elementOrHash.elementID: 4487155088.17>
+  Window, 0x10b7497b0 <AX element pid: 54419, elementOrHash.elementID: 4488513024.7>
+    Other, 0x10d033e80 <AX element pid: 54419, elementOrHash.elementID: 4487143904.10>
+      Other, 0x10d05a670 <AX element pid: 54419, elementOrHash.elementID: 4487144624.14>
+        Other, 0x10d031a50 <AX element pid: 54419, elementOrHash.elementID: 4486967712.18>
+        Other, 0x10d03dd50 <AX element pid: 54419, elementOrHash.elementID: 4487191824.19>
+          Other, 0x10d037ac0 <AX element pid: 54419, elementOrHash.elementID: 4487192448.25>
+            Other, 0x10d03dfe0 <AX element pid: 54419, elementOrHash.elementID: 4487192960.33>
+        Other, 0x10d05f7a0, identifier: 'SystemInputAssistantView' <AX element pid: 54419, elementOrHash.elementID: 4483132736.20>
+          Other, 0x10d057230, identifier: 'CenterPageView' <AX element pid: 54419, elementOrHash.elementID: 4513347456.26>
+            Other, 0x10d00ca20 <AX element pid: 54419, elementOrHash.elementID: 4513344736.34>
+              ScrollView, 0x10d066a50 <AX element pid: 54419, elementOrHash.elementID: 4530931712.40>
+            Other, 0x10d042b60 <AX element pid: 54419, elementOrHash.elementID: 4513353088.35>
+              Other, 0x10d03e320, label: 'Typing Predictions' <AX element pid: 54419, elementOrHash.elementID: 4486894096.41>
+                Other, 0x10d039b20 <AX element pid: 54419, elementOrHash.elementID: 4487082560.44>
+                  Other, 0x10d038430 <AX element pid: 54419, elementOrHash.elementID: 4487036928.77>
+                    Other, 0x10d01b000 <AX element pid: 54419, elementOrHash.elementID: 4513419408.78>
+                    Other, 0x10d0157d0 <AX element pid: 54419, elementOrHash.elementID: 4513432160.79>
+                    Other, 0x10d04cd40 <AX element pid: 54419, elementOrHash.elementID: 4513442480.80>
+        Other, 0x10d03f2a0 <AX element pid: 54419, elementOrHash.elementID: 4487171824.21>
+          Other, 0x10d02a900 <AX element pid: 54419, elementOrHash.elementID: 4487167424.27>
+            Other, 0x10d05d400 <AX element pid: 54419, elementOrHash.elementID: 4487168560.36>
+              Other, 0x10d02e7a0 <AX element pid: 54419, elementOrHash.elementID: 4487169584.42>
+        Other, 0x10d0342f0 <AX element pid: 54419, elementOrHash.elementID: 4482854656.22>
+          Keyboard, 0x10d0202c0 <AX element pid: 54419, elementOrHash.elementID: 4486900656.28>
+            Other, 0x10d01f440 <AX element pid: 54419, elementOrHash.elementID: 4488227840.37>
+              Other, 0x10d01f560 <AX element pid: 54419, elementOrHash.elementID: 4496850432.43>
+                Key, 0x10d04c310, label: 'Q' <AX element pid: 54419, elementOrHash.elementID: 105553156374720.45>
+                Key, 0x10d04c430, label: 'W' <AX element pid: 54419, elementOrHash.elementID: 105553156375008.46>
+                Key, 0x10d066f60, label: 'E' <AX element pid: 54419, elementOrHash.elementID: 105553156375104.47>
+                Key, 0x10d067080, label: 'R' <AX element pid: 54419, elementOrHash.elementID: 105553156375200.48>
+                Key, 0x10d0402d0, label: 'T' <AX element pid: 54419, elementOrHash.elementID: 105553156375296.49>
+                Key, 0x10d0403f0, label: 'Y' <AX element pid: 54419, elementOrHash.elementID: 105553156375392.50>
+                Key, 0x10b650b90, label: 'U' <AX element pid: 54419, elementOrHash.elementID: 105553156375488.51>
+                Key, 0x10b650cb0, label: 'I' <AX element pid: 54419, elementOrHash.elementID: 105553156375584.52>
+                Key, 0x10b650dd0, label: 'O' <AX element pid: 54419, elementOrHash.elementID: 105553156375680.53>
+                Key, 0x10b650ef0, label: 'P' <AX element pid: 54419, elementOrHash.elementID: 105553156375776.54>
+                Key, 0x10b651010, label: 'A' <AX element pid: 54419, elementOrHash.elementID: 105553156375872.55>
+                Key, 0x10b3126e0, label: 'S' <AX element pid: 54419, elementOrHash.elementID: 105553156375968.56>
+                Key, 0x10b651130, label: 'D' <AX element pid: 54419, elementOrHash.elementID: 105553156376064.57>
+                Key, 0x10b651250, label: 'F' <AX element pid: 54419, elementOrHash.elementID: 105553156376160.58>
+                Key, 0x10b651370, label: 'G' <AX element pid: 54419, elementOrHash.elementID: 105553156376256.59>
+                Key, 0x10b330f90, label: 'H' <AX element pid: 54419, elementOrHash.elementID: 105553156376352.60>
+                Key, 0x10b651490, label: 'J' <AX element pid: 54419, elementOrHash.elementID: 105553156376448.61>
+                Key, 0x10b7498d0, label: 'K' <AX element pid: 54419, elementOrHash.elementID: 105553156376544.62>
+                Key, 0x10b6515b0, label: 'L' <AX element pid: 54419, elementOrHash.elementID: 105553156376640.63>
+                Button, 0x10b7329b0, identifier: 'shift', label: 'shift', Selected <AX element pid: 54419, elementOrHash.elementID: 105553156376736.64>
+                Key, 0x10b32e2d0, label: 'Z' <AX element pid: 54419, elementOrHash.elementID: 105553156376832.65>
+                Key, 0x10d044730, label: 'X' <AX element pid: 54419, elementOrHash.elementID: 105553156376928.66>
+                Key, 0x10b732ad0, label: 'C' <AX element pid: 54419, elementOrHash.elementID: 105553156377024.67>
+                Key, 0x10b73b170, label: 'V' <AX element pid: 54419, elementOrHash.elementID: 105553156377120.68>
+                Key, 0x10b6516d0, label: 'B' <AX element pid: 54419, elementOrHash.elementID: 105553156377216.69>
+                Key, 0x10b3312f0, label: 'N' <AX element pid: 54419, elementOrHash.elementID: 105553156377312.70>
+                Key, 0x10b6517f0, label: 'M' <AX element pid: 54419, elementOrHash.elementID: 105553156377408.71>
+                Key, 0x10d065f90, identifier: 'delete', label: 'delete' <AX element pid: 54419, elementOrHash.elementID: 105553156377504.72>
+                Key, 0x10b652fd0, identifier: 'more', label: 'numbers' <AX element pid: 54419, elementOrHash.elementID: 105553156377600.73>
+                Button, 0x10b73b290, label: 'Emoji' <AX element pid: 54419, elementOrHash.elementID: 105553156377696.74>
+                Key, 0x10b32df40, label: 'space' <AX element pid: 54419, elementOrHash.elementID: 105553156377792.75>
+                Button, 0x10d0660b0, identifier: 'Done', label: 'done' <AX element pid: 54419, elementOrHash.elementID: 105553156377888.76>
+2026-08-25 21:47:37.723903+0800 EarthOnlineGuide[54419:482399] [Default] Query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' found matching snapshots: {(
+)} (error: (null))
+2026-08-25 21:47:37.724006+0800 EarthOnlineGuide[54419:482399] [Default] Replying to query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' with results: <XCTElementQueryResults: 0x600000d20540> (error: (null))
+2026-08-25 21:47:37.727150+0800 EarthOnlineGuide[54419:482399] [Default] Received request to fetch matches for query: ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:37.727240+0800 EarthOnlineGuide[54419:482396] [Default] Evaluating query:
+ ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:37.727286+0800 EarthOnlineGuide[54419:482396] [Default] Getting root element snapshot
+2026-08-25 21:47:37.727345+0800 EarthOnlineGuide[54419:482396] [Default] Getting snapshot for App element pid: 54419 for query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:37.727403+0800 EarthOnlineGuide[54419:482396] [Default] Query requires iOS snapshot attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeValue, XC_kAXXCAttributeTraits, XC_kAXXCAttributePlaceholderValue.
+2026-08-25 21:47:37.727457+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:37.727491+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:37.727497+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:37.727537+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:37.727539+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:37.728056+0800 EarthOnlineGuide[54419:482379] [Default] Got main window <AXUIElementRef 0x600000d2c1b0> {pid=54419} {uid=[ID:5 hash:0x10b6127f0]}
+2026-08-25 21:47:37.728154+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with attributes XC_kAXXCAttributeElementBaseType, XC_kAXXCAttributeIdentifier, XC_kAXXCAttributeElementType, XC_kAXXCAttributeAutomationType, XC_kAXXCAttributeLabel, XC_kAXXCAttributeTraits, XC_kAXXCAttributeTruncatedValue, XC_kAXXCAttributeParent, XC_kAXXCAttributePlaceholderValue
+2026-08-25 21:47:37.728309+0800 EarthOnlineGuide[54419:482379] [Default] Capturing hierarchy with parameters {
+    attributes =     (
+        5004,
+        5019,
+        5003,
+        5058,
+        2001,
+        2004,
+        2158,
+        5002,
+        5043
+    );
+    maxArrayCount = 2147483647;
+    maxChildren = 2147483647;
+    maxDepth = 2147483647;
+    snapshotKeyHonorModalViews = 0;
+    traverseFromParentsToChildren = 1;
+}
+2026-08-25 21:47:37.728375+0800 EarthOnlineGuide[54419:482379] [Default] Snapshot attributes 5004, 5019, 5003, 5058, 2001, 2004, 2158, 5002, 5043
+2026-08-25 21:47:37.737008+0800 EarthOnlineGuide[54419:482379] [Default] Got snapshot for <AXUIElementRef 0x600000cbbed0> {pid=54419} {uid=[ID:1 hash:0x0]}
+2026-08-25 21:47:37.737106+0800 EarthOnlineGuide[54419:482379] [Default] Got app orientation 0
+2026-08-25 21:47:37.737150+0800 EarthOnlineGuide[54419:482379] [Default] Captured accessibility snapshot data in 0.01s
+2026-08-25 21:47:37.737213+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'EarthOnlineGuide' for privileged AX value slot attributes
+2026-08-25 21:47:37.737276+0800 EarthOnlineGuide[54419:482396] [Default] Found main window: Window
+2026-08-25 21:47:37.737339+0800 EarthOnlineGuide[54419:482396] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:37.737404+0800 EarthOnlineGuide[54419:482396] [Default] Checking '向导ID' for privileged AX value slot attributes
+2026-08-25 21:47:37.737460+0800 EarthOnlineGuide[54419:482396] [Default] TextField, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused is not actually a child of Other, including at this point anyway (rdar://problem/20738636)
+2026-08-25 21:47:37.737518+0800 EarthOnlineGuide[54419:482396] [Default] App orientation is 0 (not portrait) and UITextEffectsWindow window Window is not main window
+2026-08-25 21:47:37.737555+0800 EarthOnlineGuide[54419:482396] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:37.737637+0800 EarthOnlineGuide[54419:482396] [Default] App orientation is 0 (not portrait) and UIRemoteKeyboardWindow window Window is not main window
+2026-08-25 21:47:37.737684+0800 EarthOnlineGuide[54419:482396] [Default] Leaving frame unchanged for Window: either already correct or we can't detect it.
+2026-08-25 21:47:37.737812+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'Q' for privileged AX value slot attributes
+2026-08-25 21:47:37.737860+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'W' for privileged AX value slot attributes
+2026-08-25 21:47:37.737897+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'E' for privileged AX value slot attributes
+2026-08-25 21:47:37.737944+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'R' for privileged AX value slot attributes
+2026-08-25 21:47:37.737988+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'T' for privileged AX value slot attributes
+2026-08-25 21:47:37.738032+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'Y' for privileged AX value slot attributes
+2026-08-25 21:47:37.738069+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'U' for privileged AX value slot attributes
+2026-08-25 21:47:37.738104+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'I' for privileged AX value slot attributes
+2026-08-25 21:47:37.738137+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'O' for privileged AX value slot attributes
+2026-08-25 21:47:37.738178+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'P' for privileged AX value slot attributes
+2026-08-25 21:47:37.738261+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'A' for privileged AX value slot attributes
+2026-08-25 21:47:37.738303+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'S' for privileged AX value slot attributes
+2026-08-25 21:47:37.738369+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'D' for privileged AX value slot attributes
+2026-08-25 21:47:37.738505+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'F' for privileged AX value slot attributes
+2026-08-25 21:47:37.738588+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'G' for privileged AX value slot attributes
+2026-08-25 21:47:37.738644+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'H' for privileged AX value slot attributes
+2026-08-25 21:47:37.738681+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'J' for privileged AX value slot attributes
+2026-08-25 21:47:37.738847+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'K' for privileged AX value slot attributes
+2026-08-25 21:47:37.738885+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'L' for privileged AX value slot attributes
+2026-08-25 21:47:37.738926+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'shift' for privileged AX value slot attributes
+2026-08-25 21:47:37.738962+0800 EarthOnlineGuide[54419:482396] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934649
+2026-08-25 21:47:37.739008+0800 EarthOnlineGuide[54419:482396] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934649, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:37.739046+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'Z' for privileged AX value slot attributes
+2026-08-25 21:47:37.739081+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'X' for privileged AX value slot attributes
+2026-08-25 21:47:37.739120+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'C' for privileged AX value slot attributes
+2026-08-25 21:47:37.739156+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'V' for privileged AX value slot attributes
+2026-08-25 21:47:37.739193+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'B' for privileged AX value slot attributes
+2026-08-25 21:47:37.739233+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'N' for privileged AX value slot attributes
+2026-08-25 21:47:37.739265+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'M' for privileged AX value slot attributes
+2026-08-25 21:47:37.739296+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'delete' for privileged AX value slot attributes
+2026-08-25 21:47:37.739329+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'numbers' for privileged AX value slot attributes
+2026-08-25 21:47:37.739368+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'Emoji' for privileged AX value slot attributes
+2026-08-25 21:47:37.739397+0800 EarthOnlineGuide[54419:482396] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:37.739435+0800 EarthOnlineGuide[54419:482396] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:37.739466+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'space' for privileged AX value slot attributes
+2026-08-25 21:47:37.739497+0800 EarthOnlineGuide[54419:482396] [Default] Checking 'done' for privileged AX value slot attributes
+2026-08-25 21:47:37.739531+0800 EarthOnlineGuide[54419:482396] [Default] Preferring automation type 20 instead of legacy element type OTHER derived from class/trait: UIAccessibilityElementKBKey:UIAccessibilityElement 8589934641
+2026-08-25 21:47:37.739562+0800 EarthOnlineGuide[54419:482396] [Default] Automation type mismatch; legacy system derived element type 9 from class UIAccessibilityElementKBKey:UIAccessibilityElement, traits 8589934641, but AXAutomationType returned 20 which maps to 20
+2026-08-25 21:47:37.739659+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: about to CFRunLoopPerform
+2026-08-25 21:47:37.739714+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: waiting with 30.00s responsiveness timeout
+2026-08-25 21:47:37.739721+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: inside CFRunLoopPerform
+2026-08-25 21:47:37.739796+0800 EarthOnlineGuide[54419:482379] [Default] XCTPerformOnMainRunLoop[MT]: MT responded in time (won the race to the busy flag)
+2026-08-25 21:47:37.739801+0800 EarthOnlineGuide[54419:482396] [Default] XCTPerformOnMainRunLoop[not MT]: waiting 60.00s for work to complete
+2026-08-25 21:47:37.739832+0800 EarthOnlineGuide[54419:482379] [Default] XCTElementQuery: set data source for rootElementSnapshot to <XCTAutomationSession: 0x60000261d0e0>
+2026-08-25 21:47:37.739972+0800 EarthOnlineGuide[54419:482396] [Default] Finding all matches with input Application, pid: 54419, label: 'EarthOnlineGuide' using transformers 
+↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers'
+2026-08-25 21:47:37.740378+0800 EarthOnlineGuide[54419:482396] [Default] [Match All] applied transformer `Descendants matching type StaticText` to input {(
+    Application, pid: 54419, label: 'EarthOnlineGuide'
+)}, found {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}
+2026-08-25 21:47:37.740451+0800 EarthOnlineGuide[54419:482396] [Default] [Match All] applied transformer `Elements matching predicate '"ui-test-dynamic-type" IN identifiers'` to input {(
+    StaticText, label: '欢迎来到地球Online',
+    StaticText, label: '请设置你的ID',
+    StaticText, label: '开始探索', Disabled
+)}, found {(
+)}
+2026-08-25 21:47:37.740494+0800 EarthOnlineGuide[54419:482396] [Default] [Match All] setting out related elements in early return {(
+)}
+2026-08-25 21:47:37.741393+0800 EarthOnlineGuide[54419:482396] [Default] Current tree:
+Application, 0x10d05a670, pid: 54419, label: 'EarthOnlineGuide' <App element pid: 54419>
+  Window (Main), 0x10b754890 <AX element pid: 54419, elementOrHash.elementID: 4485883888.5>
+    Other, 0x10b74f510 <AX element pid: 54419, elementOrHash.elementID: 4485887328.8>
+      Other, 0x10b74e5f0 <AX element pid: 54419, elementOrHash.elementID: 4485890320.11>
+        Other, 0x10b72e720 <AX element pid: 54419, elementOrHash.elementID: 4482744352.15>
+          Other, 0x10b73d240 <AX element pid: 54419, elementOrHash.elementID: 105553169893408.23>
+            Image, 0x10b744a00, label: 'earth-guide-mark-v2' <AX element pid: 54419, elementOrHash.elementID: 105553169784640.29>
+            StaticText, 0x10b72cee0, label: '欢迎来到地球Online' <AX element pid: 54419, elementOrHash.elementID: 105553169784800.30>
+            StaticText, 0x10b722410, label: '请设置你的ID' <AX element pid: 54419, elementOrHash.elementID: 105553169785600.31>
+            TextField, 0x10b749fc0, identifier: 'onboarding-guide-id', placeholderValue: '向导ID', Keyboard Focused <AX element pid: 54419, elementOrHash.elementID: 4505169408.3>
+            Button, 0x10b73d4d0, identifier: 'onboarding-start', label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893248.32>
+              Image, 0x10b7329b0, label: 'Right', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169893888.38>
+              StaticText, 0x10b732ad0, label: '开始探索', Disabled <AX element pid: 54419, elementOrHash.elementID: 105553169891488.39>
+  Window, 0x10b7497b0 <AX element pid: 54419, elementOrHash.elementID: 4488257024.6>
+    Other, 0x10b6284b0 <AX element pid: 54419, elementOrHash.elementID: 4513361264.9>
+      Other, 0x10b64fba0 <AX element pid: 54419, elementOrHash.elementID: 4694495376.12>
+      Other, 0x10b644c20 <AX element pid: 54419, elementOrHash.elementID: 4513362944.13>
+        Other, 0x10b652e50 <AX element pid: 54419, elementOrHash.elementID: 4513285376.16>
+          Other, 0x10b652f70 <AX element pid: 54419, elementOrHash.elementID: 105553169781920.24>
+        Other, 0x10b650b90 <AX element pid: 54419, elementOrHash.elementID: 4487155088.17>
+  Window, 0x10b650cb0 <AX element pid: 54419, elementOrHash.elementID: 4488513024.7>
+    Other, 0x10b7498d0 <AX element pid: 54419, elementOrHash.elementID: 4487143904.10>
+      Other, 0x10b73b170 <AX element pid: 54419, elementOrHash.elementID: 4487144624.14>
+        Other, 0x10b73b290 <AX element pid: 54419, elementOrHash.elementID: 4486967712.18>
+        Other, 0x10b715790 <AX element pid: 54419, elementOrHash.elementID: 4487191824.19>
+          Other, 0x10b7158b0 <AX element pid: 54419, elementOrHash.elementID: 4487192448.25>
+            Other, 0x10b75a360 <AX element pid: 54419, elementOrHash.elementID: 4487192960.33>
+        Other, 0x10b75a480, identifier: 'SystemInputAssistantView' <AX element pid: 54419, elementOrHash.elementID: 4483132736.20>
+          Other, 0x10b75a5a0, identifier: 'CenterPageView' <AX element pid: 54419, elementOrHash.elementID: 4513347456.26>
+            Other, 0x10b75a6c0 <AX element pid: 54419, elementOrHash.elementID: 4513344736.34>
+              ScrollView, 0x10b75a7e0 <AX element pid: 54419, elementOrHash.elementID: 4530931712.40>
+            Other, 0x10b75a900 <AX element pid: 54419, elementOrHash.elementID: 4513353088.35>
+              Other, 0x10b75aa20, label: 'Typing Predictions' <AX element pid: 54419, elementOrHash.elementID: 4486894096.41>
+                Other, 0x10b75ab40 <AX element pid: 54419, elementOrHash.elementID: 4487082560.44>
+                  Other, 0x10b75ac60 <AX element pid: 54419, elementOrHash.elementID: 4487036928.77>
+                    Other, 0x10b75ad80 <AX element pid: 54419, elementOrHash.elementID: 4513419408.78>
+                    Other, 0x10b75aea0 <AX element pid: 54419, elementOrHash.elementID: 4513432160.79>
+                    Other, 0x10b75afc0 <AX element pid: 54419, elementOrHash.elementID: 4513442480.80>
+        Other, 0x10b75b0e0 <AX element pid: 54419, elementOrHash.elementID: 4487171824.21>
+          Other, 0x10b75b200 <AX element pid: 54419, elementOrHash.elementID: 4487167424.27>
+            Other, 0x10b75b320 <AX element pid: 54419, elementOrHash.elementID: 4487168560.36>
+              Other, 0x10b75b440 <AX element pid: 54419, elementOrHash.elementID: 4487169584.42>
+        Other, 0x10b75b560 <AX element pid: 54419, elementOrHash.elementID: 4482854656.22>
+          Keyboard, 0x10b75b680 <AX element pid: 54419, elementOrHash.elementID: 4486900656.28>
+            Other, 0x10b75b7a0 <AX element pid: 54419, elementOrHash.elementID: 4488227840.37>
+              Other, 0x10b75b8c0 <AX element pid: 54419, elementOrHash.elementID: 4496850432.43>
+                Key, 0x10b75ba50, label: 'Q' <AX element pid: 54419, elementOrHash.elementID: 105553156374720.45>
+                Key, 0x10d037ac0, label: 'W' <AX element pid: 54419, elementOrHash.elementID: 105553156375008.46>
+                Key, 0x10d03dfe0, label: 'E' <AX element pid: 54419, elementOrHash.elementID: 105553156375104.47>
+                Key, 0x10b3126e0, label: 'R' <AX element pid: 54419, elementOrHash.elementID: 105553156375200.48>
+                Key, 0x10b650dd0, label: 'T' <AX element pid: 54419, elementOrHash.elementID: 105553156375296.49>
+                Key, 0x10b75bb70, label: 'Y' <AX element pid: 54419, elementOrHash.elementID: 105553156375392.50>
+                Key, 0x10b650ef0, label: 'U' <AX element pid: 54419, elementOrHash.elementID: 105553156375488.51>
+                Key, 0x10b75bc90, label: 'I' <AX element pid: 54419, elementOrHash.elementID: 105553156375584.52>
+                Key, 0x10b651010, label: 'O' <AX element pid: 54419, elementOrHash.elementID: 105553156375680.53>
+                Key, 0x10b330f90, label: 'P' <AX element pid: 54419, elementOrHash.elementID: 105553156375776.54>
+                Key, 0x10d03dd50, label: 'A' <AX element pid: 54419, elementOrHash.elementID: 105553156375872.55>
+                Key, 0x10b32e2d0, label: 'S' <AX element pid: 54419, elementOrHash.elementID: 105553156375968.56>
+                Key, 0x10b3312f0, label: 'D' <AX element pid: 54419, elementOrHash.elementID: 105553156376064.57>
+                Key, 0x10b32df40, label: 'F' <AX element pid: 54419, elementOrHash.elementID: 105553156376160.58>
+                Key, 0x10d00ca20, label: 'G' <AX element pid: 54419, elementOrHash.elementID: 105553156376256.59>
+                Key, 0x10b651130, label: 'H' <AX element pid: 54419, elementOrHash.elementID: 105553156376352.60>
+                Key, 0x10d057230, label: 'J' <AX element pid: 54419, elementOrHash.elementID: 105553156376448.61>
+                Key, 0x10b651250, label: 'K' <AX element pid: 54419, elementOrHash.elementID: 105553156376544.62>
+                Key, 0x10b651370, label: 'L' <AX element pid: 54419, elementOrHash.elementID: 105553156376640.63>
+                Button, 0x10b75bdb0, identifier: 'shift', label: 'shift', Selected <AX element pid: 54419, elementOrHash.elementID: 105553156376736.64>
+                Key, 0x10b340230, label: 'Z' <AX element pid: 54419, elementOrHash.elementID: 105553156376832.65>
+                Key, 0x10b33fed0, label: 'X' <AX element pid: 54419, elementOrHash.elementID: 105553156376928.66>
+                Key, 0x10d05f7a0, label: 'C' <AX element pid: 54419, elementOrHash.elementID: 105553156377024.67>
+                Key, 0x10b3358c0, label: 'V' <AX element pid: 54419, elementOrHash.elementID: 105553156377120.68>
+                Key, 0x10b651490, label: 'B' <AX element pid: 54419, elementOrHash.elementID: 105553156377216.69>
+                Key, 0x10b75c0d0, label: 'N' <AX element pid: 54419, elementOrHash.elementID: 105553156377312.70>
+                Key, 0x10b335f90, label: 'M' <AX element pid: 54419, elementOrHash.elementID: 105553156377408.71>
+                Key, 0x10b32e630, identifier: 'delete', label: 'delete' <AX element pid: 54419, elementOrHash.elementID: 105553156377504.72>
+                Key, 0x10b6515b0, identifier: 'more', label: 'numbers' <AX element pid: 54419, elementOrHash.elementID: 105553156377600.73>
+                Button, 0x10d066a50, label: 'Emoji' <AX element pid: 54419, elementOrHash.elementID: 105553156377696.74>
+                Key, 0x10b6516d0, label: 'space' <AX element pid: 54419, elementOrHash.elementID: 105553156377792.75>
+                Button, 0x10b6517f0, identifier: 'Done', label: 'done' <AX element pid: 54419, elementOrHash.elementID: 105553156377888.76>
+2026-08-25 21:47:37.741992+0800 EarthOnlineGuide[54419:482396] [Default] Query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' found matching snapshots: {(
+)} (error: (null))
+2026-08-25 21:47:37.742073+0800 EarthOnlineGuide[54419:482396] [Default] Replying to query ↪︎ Descendants matching type StaticText
+    ↪︎ Elements matching predicate '"ui-test-dynamic-type" IN identifiers' with results: <XCTElementQueryResults: 0x600000d209f0> (error: (null))
